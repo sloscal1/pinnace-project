@@ -1,0 +1,6 @@
+.venv/
+site/
+__pycache__/
+inputs/
+.DS_Store
+*.pub
