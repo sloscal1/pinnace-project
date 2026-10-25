@@ -22,9 +22,10 @@ see_page:
 |---|---|---|---|---|
 |  | Denny Athletic |  |  |  |
 | 1910-1912 | Alloa A |  |  |  |
-| 1912-1918 | Cowdenbeath |  |  | 1922-'1923 Aberdare A 32 apps 0 goals |
+| 1912-1918 | Cowdenbeath |  |  | 1922-' |
 | 1918-1921 | Ayr U | 94 | 2 |  |
 | 1921-1922 | Ton Pentre |  |  |  |
+| 1923 | Aberdare A | 32 | 0 |  |
 
 ## Biography
 

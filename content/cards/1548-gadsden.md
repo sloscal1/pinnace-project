@@ -25,7 +25,7 @@ see_page:
 | 1921 | Shildon Colliery |  |  |  |
 | 1922-1923 | Portsmouth | 0 | 0 |  |
 | 1923-1925 | Blackpool | 7 | 0 |  |
-| 1925-1928 | Halifax T 85 aps |  | 0 |  |
+| 1925-1928 | Halifax T | 85 | 0 |  |
 
 ## Biography
 

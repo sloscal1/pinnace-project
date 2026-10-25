@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Centre Forward 5' 5" |  |  | 1921- Queen of the South 0 apps 0 goals |
+|  | Centre Forward 5' 5" |  |  |  |
+| 1921 | Queen of the South | 0 | 0 |  |
 | 1921-1925 | Airdrie | 111 | 90 |  |
 | 1925-1930 | Newcastle Utd | 160 | 133 |  |
 | 1930-1934 | Chelsea | 132 | 72 |  |

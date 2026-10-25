@@ -24,11 +24,12 @@ see_page:
 | 1912 | Dunfermline A | 3 | 3 |  |
 | 1912-1915 | Birmingham C | 24 | 9 |  |
 | 1915-1916 | East Fife |  |  |  |
-| 1916-1917 | G. Rangers | 25 | 15 | 192601927 Arbroath 10 apps 2 goals |
+| 1916-1917 | G. Rangers | 25 | 15 |  |
 | 1917-1918 | Third L | 18 | 11 |  |
 | 1918-1919 | St Mirren | 24 |  | ? Goals |
 | 1919-1923 | Clyde | 142 | 39 |  |
 | 1923-1926 | Dundee | 68 | 17 |  |
+| 1926-1927 | Arbroath | 10 | 2 |  |
 
 ## Representative
 

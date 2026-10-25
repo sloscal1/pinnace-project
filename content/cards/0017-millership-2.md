@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1910-1912 | Chirk, Goole Town, Fryston Colliery |  |  |  |
-| 1912-1915 | Blackpool 30' apps |  | 0 |  |
+| 1912-1915 | Blackpool | 30 | 0 |  |
 | 1919-1920 | Leeds City* | 8 | 0 |  |
 | 1919-1922 | Rotherham C | 83 | 7 |  |
 | 1922-1923 | Barnsley | 5 | 0 |  |

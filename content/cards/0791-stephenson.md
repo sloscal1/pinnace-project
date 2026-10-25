@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1919-1927 | Aston Villa | 93 | 22 |  |
 | 1927-1931 | Derby County | 111 | 53 |  |
-| 1931-1933 | Sheffield Wed 39 appa |  | 17 |  |
+| 1931-1933 | Sheffield Wed | 39 | 17 |  |
 | 1933-1934 | Preston N End | 25 | 16 |  |
 | 1934-1936 | Charlton Ath | 50 | 12 |  |
 

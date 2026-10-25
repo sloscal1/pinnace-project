@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1910-1912 | Stockingford Congregationals, Bromsgrove Rovers, Nuneaton Town |  |  |  |
 | 1919-1925 | Leicester C | 152 | 4 |  |
-| 1925-1926 | Derby Co o apps |  | 0 |  |
+| 1925-1926 | Derby Co | 0 | 0 |  |
 | 1926-1927 | Hinckley Utd, Hereford Utd |  |  |  |
 
 ## Collector notes

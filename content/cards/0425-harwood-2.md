@@ -23,8 +23,9 @@ see_page:
 | 1908-1919 | Tooting Graveney, Southend |  |  |  |
 | 1912-1913 | Chelsea | 4 | 0 |  |
 | 1920-1922 | Portsmouth | 42 | 2 |  |
+| 1922-1924 | Swansea T | 47 | 3 |  |
 | 1924-1927 | Aberdare A | 109 | 9 |  |
 | 1927-1928 | Barrow | 4 | 0 |  |
-| 1928 | Royal Naval Volunteer Reserve |  |  | 19221924 Swansea T 47 apps 3 gols |
+| 1928 | Royal Naval Volunteer Reserve |  |  |  |
 
 ## Collector notes

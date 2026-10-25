@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1913-1915 | CEYMS Norwich, Boulton & Paul, Norwich City (all amateur) |  |  |  |
 | 1920-1922 | South Shields | 54 | 19 |  |
-| 1921-1927 | Sunderland 147 apps |  | 39 |  |
+| 1921-1927 | Sunderland | 147 | 39 |  |
 | 1927-1929 | Bradford PA | 54 | 18 |  |
 | 1929-1930 | Accrington S | 11 | 0 | Goole Town, Frost's Atheletic. |
 | 1930-1831 | Nelson | 29 | 4 |  |

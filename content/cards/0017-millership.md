@@ -24,7 +24,11 @@ see_page:
 | 1917-1919 | Leeds City | 8 |  | (Possibly wartime) |
 | 1919-1922 | Rotherham County | 81 | 7 |  |
 | 1922-1923 | Barnsley | 5 | 0 |  |
-| 1923 | Castleford Town |  |  | Wales 1920-1921 6 apps 0 goals |
+| 1923 | Castleford Town |  |  |  |
+
+## Representative
+
+- 1920-1921 Wales 6 apps 0 goals
 
 ## Biography
 

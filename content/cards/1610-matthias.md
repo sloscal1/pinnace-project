@@ -24,7 +24,11 @@ see_page:
 | 1910-1911 | Shrewsbury T |  |  |  |
 | 1911-1912 | Chester C | 26 | 2 |  |
 | 1921-1927 | Wrexham | 165 | 10 |  |
-| 1928-1929 | Whitchurch, Oak Alyn Rovers |  |  | Wales, 1914-1923 12 appearances 0 goals |
+| 1928-1929 | Whitchurch, Oak Alyn Rovers |  |  |  |
+
+## Representative
+
+- 1914-1923 Wales 12 apps 0 goals
 
 ## Honours
 

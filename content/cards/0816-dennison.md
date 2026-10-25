@@ -22,10 +22,10 @@ see_page:
 |---|---|---|---|---|
 |  | 1919, Arnold St Mary's |  |  |  |
 | 1920-1924 | Norwich C | 126 | 38 |  |
-| 1924-1925 | Brighton & HA |  | 28 | 13 goals |
+| 1924-1925 | Brighton & HA | 28 | 13 |  |
 | 1925-1926 | Manchester C | 9 | 4 |  |
 | 1926-1929 | Clapton O | 76 | 30 |  |
-| 1929-1930 | Chesterfield |  | 31 | 7 goals |
+| 1929-1930 | Chesterfield | 31 | 7 |  |
 | 1930 | Yarmouth Town |  |  |  |
 
 ## Biography

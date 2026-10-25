@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1910-1920 | Middlesbrough 31 appa |  | 0 |  |
+| 1910-1920 | Middlesbrough | 31 | 0 |  |
 | 1920-1923 | Cardiff City | 89 | 0 |  |
 | 1923-1924 | Leicester City | 3 | 0 |  |
 | 1924 | Bradford PA |  |  |  |

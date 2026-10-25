@@ -22,8 +22,9 @@ see_page:
 |---|---|---|---|---|
 |  | Full Back |  |  |  |
 | 1914 | Shettleston |  |  |  |
-| 1919-1922 | Dundee | 14 | 0 | 1926-1928 Dundee Utd 21 apps 0 goals |
+| 1919-1922 | Dundee | 14 | 0 |  |
 | 1921-1926 | Fulham | 114 | 0 |  |
 | 1925-1927 | Wigan Borough | 26 | 0 |  |
+| 1926-1928 | Dundee Utd | 21 | 0 |  |
 
 ## Collector notes

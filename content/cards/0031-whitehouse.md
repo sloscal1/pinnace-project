@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919-1923 | Birmingham | 115 | 35 |  |
-| 1923-1929 | Derby County 200 |  | 86 |  |
+| 1923-1929 | Derby County | 200 | 86 |  |
 | 1928-1930 | Sheffield Wed | 10 | 1 |  |
 | 1930-1933 | Bournemouth & Bosc | 113 | 0 |  |
 

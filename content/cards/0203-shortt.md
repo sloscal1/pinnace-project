@@ -23,15 +23,16 @@ see_page:
 |  | Nithbank, Balmoral, Skares Burnock |  |  |  |
 | 1910 | Dalbeattie Star (Dumfries & Galloway) |  |  |  |
 | 1910 | Millwall (Trial) |  |  |  |
-| 1911 | Woolwich Arsenal (Trial) | 4 | 0 | 1923=1926 Brooklyn Wanderers 48 apps 2 Gls |
+| 1911 | Woolwich Arsenal (Trial) | 4 | 0 |  |
 | 1911-1916 | Kilmarnock | 146 | 4 |  |
 | 1916-1918 | Clydebank | 23 | 5 |  |
 | 1918-1922 | Kilmarnock | 116 | 2 |  |
 | 1923 | Llanelli (Wales) |  |  |  |
-| 1923-1924 | Fall River Marksman | 2 |  | 0 Gls |
-| 1925-1926 | Philadelphia Field Clut | 8 |  | 0 Gls |
-| 1926-1927 | Boston Wonder Workers | 10 |  | 0 Gls |
-| 1926-1928 | Brooklyn Wanderers | 30 |  | 0 Gls |
+| 1923-1924 | Fall River Marksman | 2 | 0 |  |
+| 1923-1926 | Brooklyn Wanderers | 48 | 2 |  |
+| 1925-1926 | Philadelphia Field Clut | 8 | 0 |  |
+| 1926-1927 | Boston Wonder Workers | 10 | 0 |  |
+| 1926-1928 | Brooklyn Wanderers | 30 | 0 |  |
 
 ## Biography
 

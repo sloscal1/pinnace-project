@@ -27,7 +27,7 @@ see_page:
 | 1912-1913 | Portsmouth | 189 | 80 |  |
 | 1921-1923 | Hearts | 32 | 7 |  |
 | 1923-1924 | Weymouth & Pontypridd |  |  |  |
-| 1925-1929 | Bournemouth & Bos | 133 |  | 34 Gls |
+| 1925-1929 | Bournemouth & Bos | 133 | 34 |  |
 | 1929 | Scunthorpe & Lindsay Utd |  |  |  |
 
 ## Biography

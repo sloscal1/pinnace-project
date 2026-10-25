@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1913-1915 | Worksop Town, Shirebrook (Derbyshire) Notts Co. (trial) |  |  | 19191920 Grimsby 32 apps 0 goals |
+| 1913-1915 | Worksop Town, Shirebrook (Derbyshire) Notts Co. (trial) |  |  |  |
+| 1919-1920 | Grimsby | 32 | 0 |  |
 | 1920-1924 | Gillingham | 163 | 9 |  |
 | 1924-1928 | Millwall | 43 | 8 |  |
 | 1930-1931 | Gillingham | 3 | 0 |  |

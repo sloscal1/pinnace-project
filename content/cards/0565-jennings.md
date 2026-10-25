@@ -23,7 +23,8 @@ see_page:
 | 1911-1912 | Rigby Athletic, Arnold St Mary's. 1922-1926 Luton T | 117 | 2 |  |
 | 1913-1915 | Notts Co | 43 | 0 |  |
 | 1920-1922 | Merthyr T | 71 | 3 |  |
-| 1926-1927 | Northampton T | 3 | 0 | Norwich City 0 apps 0 goals |
+| 1926-1927 | Northampton T | 3 | 0 |  |
+|  | Norwich City | 0 | 0 |  |
 | 1926-1928 | Peterborough & Fletton Utd |  |  |  |
 | 1928 | Hearts of Winnipeg |  |  |  |
 

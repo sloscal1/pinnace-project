@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1906-1907 | Blowick Wesleyans, Southport Central |  |  |  |
-| 1908-1925 | Burnley 379 |  | 20 |  |
+| 1908-1925 | Burnley | 379 | 20 |  |
 | 1925-1926 | Accrington St | 6 | 0 |  |
 | 1926-1927 | Blackburn Rov | 0 | 0 |  |
 

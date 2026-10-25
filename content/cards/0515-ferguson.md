@@ -22,8 +22,9 @@ see_page:
 |---|---|---|---|---|
 | 1914-1916 | Motherwell Hearts, Parkhead, Helensea, Vale of Leven |  |  |  |
 | 1916-1917 | Motherwell | 29 | 24 |  |
+| 1917-1918 | Third Lanark | 1 | 0 |  |
 | 1917-1926 | Motherwell | 299 | 284 |  |
-| 1926-1929 | Cardiff C | 117 | 76 | 1917-1918* Third Lanark 1 app 0 goals |
+| 1926-1929 | Cardiff C | 117 | 76 |  |
 | 1929-1930 | Dundee | 17 | 2 | 1917-1918* Mid Annandale, St Mirren |
 
 ## Biography

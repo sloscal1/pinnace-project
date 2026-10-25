@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1919-1933 | Corinthians 167 |  | 50 |  |
+| 1919-1933 | Corinthians | 167 | 50 |  |
 
 ## Representative
 

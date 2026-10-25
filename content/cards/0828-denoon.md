@@ -23,7 +23,8 @@ see_page:
 | 1906-1908 | Tockgorm, Nelson (Inverness, Inverness Thistle |  |  |  |
 | 1909-1910 | Chelsea | 0 | 0 |  |
 | 1915-1917 | Chelsea & QPR |  |  |  |
-| 1920-1927 | Swansea T | 197 | 0 | Motherwell, 3 apps 0 goals |
+| 1920-1927 | Swansea T | 197 | 0 |  |
+|  | Motherwell | 3 | 0 |  |
 | 1927 | Mid Rhondda Utd & New Tredegar |  |  |  |
 
 ## Collector notes

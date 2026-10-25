@@ -25,7 +25,7 @@ see_page:
 | 1923-1925 | Halifax Town | 73 | 2 |  |
 | 1925-1926 | Grimsby Town | 10 | 1 |  |
 | 1926-1929 | Bristol City | 51 | 5 | Sunderland |
-| 1929-1933 | Brentford 141 |  | 21 |  |
+| 1929-1933 | Brentford | 141 | 21 |  |
 | 1933-1936 | Barrow | 67 | 21 |  |
 
 ## Honours

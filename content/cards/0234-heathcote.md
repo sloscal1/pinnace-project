@@ -21,10 +21,11 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1914-1915 | Bolton Wan | 0 | 0 |  |
-| 1919-1921 | Blackpool | 98 | 33 | 1928-129 Accrington Stanley 0 apps 0 goals |
+| 1919-1921 | Blackpool | 98 | 33 |  |
 | 1922-1923 | Notts County | 12 | 1 |  |
 | 1924-1925 | Lincoln City | 34 | 13 |  |
-| 1926-1927 | Coventry City |  | 68 | 36 goals |
+| 1926-1927 | Coventry City | 68 | 36 |  |
+| 1928-1929 | Accrington Stanley | 0 | 0 |  |
 
 ## Biography
 

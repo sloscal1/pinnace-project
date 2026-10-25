@@ -23,11 +23,12 @@ see_page:
 | 1920-1923 | Dumbarton | 73 | 5 |  |
 | 1923-1926 | Partick Th | 89 | 3 |  |
 | 1924-1925 | IFA (Ireland) | 3 | 0 | Chatton was born in Enniskillen, County Fermanagh, Ireland but moved to Dumbarton in Scotland with his family during his childhood. After playing with Dumbarton and Partick Thistle in the Scottish League, he joined Indiana Flooring of the American Soccer League in 1926. At the end of the 1926–27 season, he and teammate Alec Donald broke their contracts with Flooring and returned to Scotland to sign with Hearts. The ASL, through the United States Football Association, immediately contested Chatton's contract with Hearts resulting in FIFA voiding the contract. As a result, Chatton returned to Flooring, now known as the New York Nationals. Chatton subsequently helped the Nationals win the 1928 National Challenge Cup, beating Chicago's Bricklayers and Masons F.C. 4–1 on aggregate in the final. In 1929, the Nationals also won the Lewis Cup, the ASL league cup, defeating the New Bedford Whalers over three games. That January, Hearts again attempted to induce Chatton to move to Scotland, but he declined and played one more season in the ASL. On 25 May 1930 at the Polo Grounds, Chatton played for the Nationals in a friendly against Rangers, the reigning Scottish champions. Nationals lost this game 5–4. Among Chatton's teammates at the Nationals were Jimmy Douglas, Jimmy Gallagher, Bart McGhee and Robert Millar. The former three all played for the United States at the 1930 World Cup while Millar was the team coach. After four years in the ASL, Chatton returned to Ireland and joined Shelbourne, helping them win the League of Ireland title in 1931. He then had two further seasons with Dumbarton before joining Cork F.C., who he helped win the FAI Cup in 1934. |
-| 1926-1927 | Indiana Flooring | 31 | 1 | 1 931-1933 Dumbarton 63 apps 0 Gls |
+| 1926-1927 | Indiana Flooring | 31 | 1 | 1 931 |
 | 1927 | Hearts |  |  |  |
-| 1927-1930 | New York Nationals | 114 |  | 0 Gls |
+| 1927-1930 | New York Nationals | 114 | 0 |  |
 | 1930-1931 | Shelbourne | 23 | 0 |  |
 | 1931-1934 | FAI (Eire) | 3 | 0 |  |
+| 1933 | Dumbarton | 63 | 0 |  |
 | 1933-1934 | Cork FC |  |  |  |
 
 ## Honours

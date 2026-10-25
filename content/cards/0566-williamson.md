@@ -22,7 +22,11 @@ see_page:
 |---|---|---|---|---|
 | 1911-1913 | Murton Red Star, Wingate Albion, Croydon Common |  |  |  |
 | 1919-1923 | Arsenal | 113 | 0 |  |
-| 1923-1925 | Norwich C | 47 | 0 | 1923- England, 2 appearances, the first, 21st May 1923 v Sweden in Stockholme, friendly. The second 24th May 1923, also v Sweden in Stockholme,1923. |
+| 1923-1925 | Norwich C | 47 | 0 | the first, 21st May 1923 v Sweden in Stockholme, friendly. The second 24th May 1923, also v Sweden in Stockholme,1923 |
+
+## Representative
+
+- 1923 England 2 apps
 
 ## Biography
 

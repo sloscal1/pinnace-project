@@ -23,10 +23,11 @@ see_page:
 |  | Forward 5' 10½" |  |  |  |
 | 1919 | Rochdale |  |  |  |
 | 1919-1921 | Preston NE | 24 | 11 |  |
-| 1921 | Everton | 20 | 9 | *1929-1930 Rotherham Utd 1 app 0 goals |
-| 1921-1927 | West Brom 147 |  | 77 |  |
+| 1921 | Everton | 20 | 9 |  |
+| 1921-1927 | West Brom | 147 | 77 |  |
 | 1927-1928 | Birmingham C | 14 | 2 |  |
 | 1928-1929 | Cardiff C | 14 | 2 |  |
+| 1929-1930 | Rotherham Utd | 1 | 0 |  |
 | 1930 | Barnsley |  |  |  |
 
 ## Biography

@@ -24,10 +24,14 @@ see_page:
 | 1921-1922 | Tranmere R | 2 | 0 |  |
 | 1923 | Montreal CPR (Canada) ? Apps |  |  |  |
 | 1923 | Brooklyn Wanderers | 3 | 1 |  |
-| 1923-1930 | New York Giants | 250 | 45 | United States of America 1926-1934 : 7 appearances. |
+| 1923-1930 | New York Giants | 250 | 45 |  |
 | 1930 | New York Soccer Club (loan) | 25 | 5 |  |
 | 1931 | New York Yankees (loan) | 14 | 6 |  |
 | 1931-1937 | New York Americans | 18 | 5 |  |
+
+## Representative
+
+- 1926-1934 United States of America 7 apps
 
 ## Biography
 

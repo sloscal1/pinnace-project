@@ -20,7 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Born: 7 October 1897, Rotherham, South Yorkshire Died: |  |  | 1950. Position: Winger 1914-1915 Kimberworth Old Boys 1919-1920 Barnsley 24 apps, 0 goals 1920-1921 Norwich City 27 apps, 1 goal 1921-1923 Rotherham County 19 apps, 1 goal 1923-1924 Worksop Town 1924- South Yorkshire Chemical Works Dobson also "guested" for Stoke during World War I. |
+|  | Born: 7 October 1897, Rotherham, South Yorkshire Died: |  |  | 1950. Position: Winger 1914-1915 Kimberworth Old Boys 1923-1924 Worksop Town 1924- South Yorkshire Chemical Works Dobson also "guested" for Stoke during World War I |
+| 1919-1920 | Barnsley | 24 | 0 |  |
+| 1920-1921 | Norwich City | 27 | 1 |  |
+| 1921-1923 | Rotherham County | 19 | 1 |  |
 
 ## Biography
 

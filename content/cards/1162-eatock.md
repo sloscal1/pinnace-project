@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1922-'1923 Wigan B 11 apps 2 goals |  |  |  |
+| 1922-1923 | Wigan B | 11 | 2 |  |
 | 1924-1926 | Bolton W | 11 | 1 |  |
 
 ## Biography

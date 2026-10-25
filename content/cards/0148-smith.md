@@ -21,7 +21,8 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1906 | Moor Park |  |  |  |
-| 1907-1908 | Blackburn R | 0 | 0 | Portsmouth 0 apps 0 goals |
+| 1907-1908 | Blackburn R | 0 | 0 |  |
+|  | Portsmouth | 0 | 0 |  |
 | 1920-1921 | Reading | 35 | 0 |  |
 
 ## Biography

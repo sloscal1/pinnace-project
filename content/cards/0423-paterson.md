@@ -21,7 +21,11 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1910-1920 | Glasgow Rangers | 156 | 38 |  |
-| 1920-1926 | Arsenal | 70 | 1 | Football League XI 1 app 0 goals 1921 |
+| 1920-1926 | Arsenal | 70 | 1 |  |
+
+## Representative
+
+- 1921 Football League XI 1 apps 0 goals
 
 ## Biography
 

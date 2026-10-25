@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1920-1932 | Bolton Wanderers | 322 | 0 | Accrington Stanley 3 apps 0 goals |
+| 1920-1932 | Bolton Wanderers | 322 | 0 |  |
+|  | Accrington Stanley | 3 | 0 |  |
 
 ## Honours
 

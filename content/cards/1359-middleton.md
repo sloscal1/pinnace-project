@@ -23,7 +23,7 @@ see_page:
 | 1910-1911 | Boldon Colliery Welfare, Newcastle City |  |  |  |
 | 1912-1913 | Brighton & HA | 10 | 1 |  |
 | 1913-1920 | Ayr U | 173 | 29 |  |
-| 1920-1923 | Aberdeen 126 |  | 8 |  |
+| 1920-1923 | Aberdeen | 126 | 8 |  |
 | 1923-1924 | Southend U | 31 | 0 |  |
 | 1924 | Ayr U |  |  |  |
 | 1924-1925 | Dumbarton | 6 |  | ? Goals |

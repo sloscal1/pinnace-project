@@ -25,7 +25,7 @@ see_page:
 | 1928-1933 | Motherwell | 142 | 50 |  |
 | 1933-1934 | Dundee | 37 | 10 |  |
 | 1934-1935 | Dunfermline A | 16 | 1 |  |
-| 1935-1936 | Stewarts & Lloyds Corby | 16 |  | 1 gl |
+| 1935-1936 | Stewarts & Lloyds Corby | 16 | 1 |  |
 
 ## Honours
 

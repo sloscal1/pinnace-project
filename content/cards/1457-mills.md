@@ -22,8 +22,9 @@ see_page:
 |---|---|---|---|---|
 | 1919 | Barton Town (on Humber) |  |  |  |
 | 1920-1926 | Hull City | 183 | 83 |  |
+| 1926-1929 | Notts Co | 76 | 35 |  |
 | 1929-1930 | Birmingham C | 13 | 3 |  |
-| 1929-1933 | Hull C | 98 | 27 | 19261929 Notts Co 76 apps 35 goals |
+| 1929-1933 | Hull C | 98 | 27 |  |
 | 1933-1936 | Scunthorpe & Lindsey Utd |  |  | Gainsborough T, Barton Town. |
 
 ## Collector notes

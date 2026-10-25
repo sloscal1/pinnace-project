@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1910-1917 | Sunderland | 82 | 3 |  |
 | 1916-1917 | Ayr Utd (loan) | 53 | 2 |  |
-| 1917-1923 | Celtic |  | 203 | 9 goals |
+| 1917-1923 | Celtic | 203 | 9 |  |
 | 1923-1924 | Third Lanark | 30 | 0 |  |
 | 1924-1925 | Motherwell | 16 | 1 |  |
 | 1925 | Inverness Thistle | 16 | 1 |  |

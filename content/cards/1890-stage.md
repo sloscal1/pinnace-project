@@ -24,7 +24,8 @@ see_page:
 | 1913-1914 | Middlesbrough | 3 | 0 |  |
 | 1920 | St Bernards |  |  |  |
 | 1921-1928 | Bury | 213 | 33 |  |
-| 1928-1930 | Burnley | 28 | 0 | Hibernian 42 apps 4 goals |
+| 1928-1930 | Burnley | 28 | 0 |  |
+|  | Hibernian | 42 | 4 |  |
 | 1930-1931 | Southampton | 4 | 1 |  |
 | 1931-1932 | Darwen, Rossendale Utd, Fleetwood |  |  |  |
 

@@ -24,7 +24,7 @@ see_page:
 | 1913 | Southend U |  |  |  |
 | 1920-1922 | Swansea T | 85 | 0 |  |
 | 1922-1923 | Easington Colliery Welfare |  |  |  |
-| 1923-1925 | Durham C 82 |  | 5 | (4 pens) |
+| 1923-1925 | Durham C | 82 | 5 | (4 pens) |
 | 1925-1926 | Hartlepools U | 15 | 0 |  |
 | 1926-1927 | Durham C | 0 | 0 |  |
 

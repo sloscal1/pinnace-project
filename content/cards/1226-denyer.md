@@ -23,7 +23,7 @@ see_page:
 | 1912-1914 | West Ham U | 46 | 16 |  |
 | 1914-1915 | Swindon T | 17 | 10 |  |
 | 1916-1918 | Hearts | 18 | 7 |  |
-| 1919-1930 | Swindon 324 |  | 50 |  |
+| 1919-1930 | Swindon | 324 | 50 |  |
 | 1931 | Evesham T, West End Sports |  |  |  |
 
 ## Biography

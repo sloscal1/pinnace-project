@@ -22,7 +22,8 @@ see_page:
 |---|---|---|---|---|
 | 1908-1911 | Watford St Stephen's, Watford, Watford Orient, St Albans |  |  |  |
 | 1912-1913 | Reading |  |  |  |
-| 1921 | Guildford United |  |  | 1913-? Watford 15 apps 0 goals |
+| 1913 | Watford | 15 | 0 | 1913-? |
+| 1921 | Guildford United |  |  |  |
 | 1921-1923 | QPR | 23 | 0 |  |
 | 1923 | Chatham |  |  |  |
 | 1926 | Dartford |  |  |  |

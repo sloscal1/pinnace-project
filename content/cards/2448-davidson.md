@@ -21,7 +21,8 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919 | Close Works |  |  |  |
-| 1921-1924 | Ashington | 42 | 0 | Workington 46 apps 0 goals |
+| 1921-1924 | Ashington | 42 | 0 |  |
+|  | Workington | 46 | 0 |  |
 | 1925 | Annfield Plain (Durham, now Annfield Plain AFC) |  |  |  |
 
 ## Collector notes

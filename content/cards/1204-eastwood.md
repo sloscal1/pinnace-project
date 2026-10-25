@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919 | Castleford Town |  |  |  |
-| 1920-1924 | Plymouth A 119 |  | 3 |  |
+| 1920-1924 | Plymouth A | 119 | 3 |  |
 | 1925-1926 | Preston NE | 22 | 2 |  |
 | 1926-1928 | Stoke C | 48 | 0 |  |
 | 1927-1928 | Stockport C | 0 | 0 |  |

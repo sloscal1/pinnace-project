@@ -21,9 +21,10 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1917 | Newbattle |  |  |  |
-| 1918 | Midlothian United |  |  | 1928-1931Bristol R 72 apps 5 goals (all pens) |
+| 1918 | Midlothian United |  |  | (all pens) |
 | 1919 | Newtongrange Star |  |  |  |
 | 1921-1928 | Raith R | 119 | 1 |  |
+| 1928-1931 | Bristol R | 72 | 5 |  |
 | 1931 | Bedminster Downs Sports |  |  |  |
 
 ## Collector notes

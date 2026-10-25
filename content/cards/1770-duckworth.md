@@ -22,8 +22,9 @@ see_page:
 |---|---|---|---|---|
 |  | ????-1915 Accrington S |  |  |  |
 | 1915-1921 | Blackburn R | 5 | 0 |  |
-| 1921-1924 | Aberdare Ath | 84 | 0 | 1932-193? York C 7 apps 0 goals |
+| 1921-1924 | Aberdare Ath | 84 | 0 |  |
 | 1924-1930 |  | 202 | 0 |  |
 | 1930-1932 | Brighton & HA | 37 | 0 |  |
+| 1932 | York C | 7 | 0 | 1932-193? |
 
 ## Collector notes

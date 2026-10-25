@@ -74,6 +74,28 @@ Card numbers given to players with different names (42). Usually a typo in the n
 - [ ] **2437**: `2437-noble` (Leeds United, p454), `2437-sherwin` (Leeds United, p454)
 <!-- end generated -->
 
+## Career rows to check (generated)
+
+<!-- generated: career -->
+Career tables with biography text in a row (15), or a card header read as a career row. Move the text to the biography, or rewrite the row from the .pub page.
+
+- [ ] `0033-dobson` (Barnsley, p67): no years row: the card's header was read as a career row
+- [ ] `0044-wren-2` (Notts County, p625): 1919-1922 row: biography text in the table
+- [ ] `0141-skiller` (Swindon Town, p875): 1920-1922 row: biography text in the table
+- [ ] `0245-gould-2` (Glasgow Rangers, p750): 1921-1924 row: biography text in the table
+- [ ] `0594-donkin` (Barnsley, p67): no years row: the card's header was read as a career row
+- [ ] `0597-wainscoat` (Barnsley, p67): no years row: the card's header was read as a career row
+- [ ] `0762-lennon` (Luton Town, p490): 1919-1920 row: biography text in the table
+- [ ] `0763-tirrell` (Luton Town, p490): 1920-1924 row: biography text in the table
+- [ ] `1147-brown` (Raith Rovers, p728): 1924-1925 row: biography text in the table
+- [ ] `1328-darvill` (Ilford, p438): 1924-1925 row: biography text in the table
+- [ ] `1536-watson` (Huddersfield Town, p427): 1911-1927 row: biography text in the table
+- [ ] `1732-clark` (Southampton, p822): 1920-1922 row: biography text in the table
+- [ ] `1797-chatton` (Dumbarton, p290): 1924-1925 row: biography text in the table
+- [ ] `1836-gatland` (Ilford, p438): 1922 row: biography text in the table
+- [ ] `1862-howson` (Nelson, p587): 1922-1923 row: biography text in the table
+<!-- end generated -->
+
 ## Sources to trace (generated)
 
 <!-- generated: sources -->
@@ -464,6 +486,7 @@ A record of what was checked and fixed, for reference.
 - [x] Continuation pages joined to the biography they continue: p71c, p262, p301, p323, p478, p523-525, p867, and p662 (its heading wrongly says "Card 199"; it continues `0198-mcmenemy`).
 - [x] 73 biographies that start "Born in..." had replaced the card's birth line; re-parsed.
 - [x] Nine cross-reference cards had "Please see page 52 for full bio" as their position; they now link to the full biography.
+- [x] Career tables: 128 cards had apps or goals in the wrong cells (a typo in "apps" leaving the number on the club, "40 apps 16 apps" leaving the goals in the note, or a second club with mistyped years in the note). Moved into the right cells; 81 rows split out and 8 international caps moved to the representative honours.
 
 ## Notes
 

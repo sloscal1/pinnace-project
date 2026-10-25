@@ -20,13 +20,14 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Winchburgh Thistle, Winchurgh Violet, Broxham St Andrews, Edinburgh Emmet |  |  | 19201926 Hibernian 178 apps 0 goals |
+|  | Winchburgh Thistle, Winchurgh Violet, Broxham St Andrews, Edinburgh Emmet |  |  |  |
+| 1920-1926 | Hibernian | 178 | 0 |  |
 | 1925-1927 | Arsenal | 42 | 0 |  |
 | 1927-1929 | Fall River Marksman | 79 | 0 |  |
 | 1928-1930 | Boston Wonder Workers | 25 | 0 |  |
-| 1929-1930 | New Bedford Whalers | 31 |  | 0 gls |
-| 1930-1932 | Arsenal | 21 |  | 0 gls |
-| 1931-1935 | Plymouth A | 78 |  | 0 gls |
+| 1929-1930 | New Bedford Whalers | 31 | 0 |  |
+| 1930-1932 | Arsenal | 21 | 0 |  |
+| 1931-1935 | Plymouth A | 78 | 0 |  |
 
 ## Biography
 

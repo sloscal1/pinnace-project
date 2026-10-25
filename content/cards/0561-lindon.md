@@ -23,7 +23,7 @@ see_page:
 | 1906-1907 | Birmingham Fruiteries, Delta Metal Works |  |  |  |
 | 1910-1911 | Birmingham | 7 | 0 |  |
 | 1911-1912 | Aston Villa | 1 | 0 |  |
-| 1912-1913 | Barnsley 0 aps |  | 0 |  |
+| 1912-1913 | Barnsley | 0 | 0 |  |
 | 1919-1920 | Coventry C | 22 | 0 |  |
 | 1920-1928 | Merthyr T | 269 | 2 |  |
 | 1927-1930 | Charlton Ath | 36 | 0 |  |

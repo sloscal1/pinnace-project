@@ -23,7 +23,11 @@ see_page:
 |  | Cliftonville |  |  |  |
 | 1913-1914 | Belfast Celtic |  |  |  |
 | 1914-1927 | G. Rangers | 370 | 5 | 1914- Glenavon |
-| 1927-1928 | Bradford PA | 40 | 0 | Ireland 1920-1926 5 apps 0 goals |
+| 1927-1928 | Bradford PA | 40 | 0 |  |
+
+## Representative
+
+- 1920-1926 Ireland 5 apps 0 goals
 
 ## Biography
 

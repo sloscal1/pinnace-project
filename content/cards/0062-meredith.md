@@ -24,7 +24,7 @@ see_page:
 | 1893 | Wrexham |  |  |  |
 | 1893-1894 | Norwich V | 11 | 5 |  |
 | 1894-1905 | Manchester C | 362 | 160 |  |
-| 1906-1921 | Manchester U 336 |  | 37 |  |
+| 1906-1921 | Manchester U | 336 | 37 |  |
 | 1921-1924 | Manchester C | 32 | 2 |  |
 
 ## Representative

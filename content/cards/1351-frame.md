@@ -22,9 +22,10 @@ see_page:
 |---|---|---|---|---|
 |  | Larkhill Thistle |  |  | 1932-34 Bray Unknowns |
 | 1918-1924 | Clyde | 194 | 0 | 1934-38 Linfield |
-| 1924-1931 | Motherwell | 173 | 0 | 1938-39 Motherwell 10 apps 0 goals |
+| 1924-1931 | Motherwell | 173 | 0 |  |
 | 1930-1931 | Dunfermline Ath (loan) | 35 | 0 |  |
 | 1931-1932 | Gateshead |  |  |  |
+| 1938-1939 | Motherwell | 10 | 0 |  |
 
 ## Biography
 

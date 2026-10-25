@@ -24,7 +24,7 @@ see_page:
 | 1907-1910 | Third Lanark | 79 | 54 |  |
 | 1910-1912 | Huddersfield Town | 42 | 24 |  |
 | 1912-1914 | Sunderland | 35 | 20 |  |
-| 1914-1921 | Ayr Utd 159 aps |  | 111 |  |
+| 1914-1921 | Ayr Utd | 159 | 111 |  |
 | 1921-1922 | Millwall | 19 | 4 |  |
 | 1922-1923 | Mid-Annandale |  |  |  |
 | 1923-1925 | Managed both Ayr Utd and Cowdenbeath |  |  |  |

@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1911-1912 | Hartlepool St Joseph's, Houghton Rovers |  |  | !913-1914 Glossop 5 apps 0 goals |
+| 1911-1912 | Hartlepool St Joseph's, Houghton Rovers |  |  |  |
+| 1913-1914 | Glossop | 5 | 0 |  |
 | 1914-1920 | Merthyr T x2, Southampton, Dundee. Ebbe Vale |  |  |  |
 | 1922-1924 | Luton T | 70 | 0 |  |
 | 1924-1926 | QPR (England), Mid Rhondda Utd |  |  |  |

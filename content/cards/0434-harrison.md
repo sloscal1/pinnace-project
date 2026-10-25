@@ -21,8 +21,9 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Winger 5' 7" Junior football at Church Gresley 1910 |  |  |  |
-| 1910-1913 | Leicester Fosse | 60 | 12 | 1923/24-1931 Preston NE 284 apps 102 goals |
+| 1910-1913 | Leicester Fosse | 60 | 12 |  |
 | 1913-1924 | Everton | 190 | 18 |  |
+| 1923-1931 | Preston NE | 284 | 102 |  |
 | 1931-1932 | Blackpool | 18 | 2 |  |
 
 ## Biography

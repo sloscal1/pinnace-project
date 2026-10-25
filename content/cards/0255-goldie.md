@@ -20,7 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | St Bernards 1913-1914 New Bedford Whalers 1 app 0 goals |  |  | Clydebank 1914-1922 145 apps 20 goals Bethlehem Steel 1922-1928 199 apps 52 goals |
+| 1913-1914 | St Bernards |  |  |  |
+|  | New Bedford Whalers | 1 | 0 |  |
+| 1914-1922 | Clydebank | 145 | 20 |  |
+| 1922-1928 | Bethlehem Steel | 199 | 52 |  |
 
 ## Biography
 

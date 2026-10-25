@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1911-1912 | Larkhall Thistle |  |  |  |
-| 1912-1915 | Plymouth A 78 aps |  | 0 |  |
+| 1912-1915 | Plymouth A | 78 | 0 |  |
 | 1915-1917 | Hamilton A | 42 | 0 |  |
 | 1917-1918 |  | 3 | 0 | Ayr U |
 | 1918-1919 | Motherwell | 29 | 0 |  |

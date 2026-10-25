@@ -26,7 +26,7 @@ see_page:
 | 1922-1923 | South Shields | 20 | 0 |  |
 | 1924 | Toronto Clarks | 2 |  | ? goals |
 | 1925 | Philadelphia Field Club | 6 |  | ? goals |
-| 1925-1926 | Canada, 3 appearances all believed to have been against the USA |  |  |  |
+| 1925-1926 | Canada | 3 |  | all believed to have been against the USA |
 | 1927 | Providence Clamdiggers |  |  |  |
 | 1928 | Toronto Tulsa United |  |  |  |
 

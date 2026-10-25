@@ -23,7 +23,8 @@ see_page:
 | 1917-1918 | Strathclyde, St Anthony's |  |  |  |
 | 1922-1924 | Preston NE | 19 | 0 |  |
 | 1923 | Carlisle Utd (Loan) Chicago Bricklayers, J&P Coates (Rhode Island) |  |  |  |
-| 1924 | Dunfermline Ath | 5 | 0 | Celtic 127 apps 0 goals |
+| 1924 | Dunfermline Ath | 5 | 0 |  |
+|  | Celtic | 127 | 0 |  |
 | 1924 | Bathgate |  |  |  |
 | 1924 | Third Lanark | 3 | 0 |  |
 | 1924-1927 | Brooklyn Wand, Pawtucket Rangers |  |  |  |

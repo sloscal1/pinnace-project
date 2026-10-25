@@ -21,8 +21,9 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1918 | Sutton Junction |  |  |  |
+| 1919-1923 | Notts C | 112 | 1 |  |
 | 1923-1924 | Swansea C | 0 | 0 |  |
-| 1924-1925 | Lincoln C | 4 | 0 | 1919-18-1923 Notts C 112 apps 1 goal |
+| 1924-1925 | Lincoln C | 4 | 0 |  |
 | 1925 | Grantham Town |  |  |  |
 
 ## Biography

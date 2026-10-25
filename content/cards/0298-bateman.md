@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1912 | Sutton Court (Middlesex) |  |  |  |
-| 1920-1924 | Crystal Pal 104 |  | 7 |  |
+| 1920-1924 | Crystal Pal | 104 | 7 |  |
 
 ## Representative
 

@@ -23,8 +23,9 @@ see_page:
 |  | East Benhur, Shotts United, Dykehead, Beith |  |  |  |
 | 1920-1921 | St Mirren | 3 | 0 |  |
 | 1920-1926 | Albion R | 37 | 0 |  |
+| 1926-1929 | Bristol C | 6 | 1 |  |
 | 1929-1930 | Morton | 12 | 1 |  |
-| 1930-1931 | Brechin C |  |  | 19261929 Bristol C 6 apps 1 goal |
+| 1930-1931 | Brechin C |  |  |  |
 
 ## Biography
 

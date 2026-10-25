@@ -21,6 +21,6 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Crook Town |  |  |  |
-| 1912-1924 | Blackpool 241 |  | 33 |  |
+| 1912-1924 | Blackpool | 241 | 33 |  |
 
 ## Collector notes

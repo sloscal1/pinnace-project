@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1918 | Hallam, (Sheffield) |  |  |  |
 | 1919-1920 | The Wednesday (Amateur) |  |  |  |
-| 1921-1922 | Birmingham C 2 aps |  | 0 |  |
+| 1921-1922 | Birmingham C | 2 | 0 |  |
 | 1922-1931 | Swansea T | 343 | 93 |  |
 | 1931-1934 | Crewe A | 123 | 50 |  |
 | 1934-1935 | Southport | 10 | 2 |  |

@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 |  | Denny Hibernian |  |  |  |
 | 1921-1926 | Falkirk | 195 | 17 |  |
-| 1923 | Scottish XI 1 appearance |  |  |  |
+| 1923 | Scottish XI | 1 |  |  |
 | 1926-1929 | Burnley | 60 | 1 | . |
 
 ## Biography

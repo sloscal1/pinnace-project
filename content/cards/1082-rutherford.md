@@ -24,7 +24,8 @@ see_page:
 | 1902-1913 | Newcastle Utd | 290 | 78 |  |
 | 1913-1923 | Arsenal | 177 | 21 |  |
 | 1923-1926 | Arsenal | 45 | 4 |  |
-| 1926-1927 | Clapton Orient | 9 | 0 | Stoke City 0 apps 0 goals |
+| 1926-1927 | Clapton Orient | 9 | 0 |  |
+|  | Stoke City | 0 | 0 |  |
 
 ## Honours
 

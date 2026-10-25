@@ -27,7 +27,7 @@ see_page:
 | 1917-1918 | Brentford | 10 | 1 | * |
 | 1919-1920 | Fulham | 0 | 0 | * WW1 guest appearances |
 | 1920-1923 | Newport C | 79 | 12 |  |
-| 1923-1926 | West Ham U 37 aps |  | 3 |  |
+| 1923-1926 | West Ham U | 37 | 3 |  |
 | 1926-1927 | Newport C | 0 | 0 |  |
 | 1927-1932 | Hereford U | 43 | 24 |  |
 

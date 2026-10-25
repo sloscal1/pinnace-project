@@ -24,7 +24,7 @@ see_page:
 | 1913-1919 | Manchester City | 5 | 1 |  |
 | 1920-1921 | Southend Utd | 24 | 15 |  |
 | 1921-1924 | Bristol City | 91 | 44 |  |
-| 1924-1927 | Derby Co |  | 37 | 26 goals |
+| 1924-1927 | Derby Co | 37 | 26 |  |
 | 1927 | Gillingham | 11 | 3 |  |
 
 ## Honours

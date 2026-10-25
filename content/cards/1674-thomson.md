@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Hamilton Acc 1920-1929 240 apps 8 goals |  |  |  |
+| 1920-1929 | Hamilton Acc | 240 | 8 |  |
 | 1929-1929 | Alloa |  |  |  |
 
 ## Collector notes

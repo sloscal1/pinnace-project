@@ -25,7 +25,8 @@ see_page:
 | 1919-1921 | Liverpool | 52 | 4 |  |
 | 1921-1922 | Port Vale | 20 | 1 |  |
 | 1922 | Llanelly |  |  |  |
-| 1923-1926 | Rochdale | 56 | 12 | Port Vale 0 apps 0 goal |
+| 1923-1926 | Rochdale | 56 | 12 |  |
+|  | Port Vale | 0 | 0 |  |
 | 1925-1929 | Stockport C | 72 | 7 |  |
 | 1929 | Ashton National |  |  |  |
 

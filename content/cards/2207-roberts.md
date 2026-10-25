@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1919 | Cradley Heath St Lukes,1921-22 Aston Villa (Amateur) | 0 | 4 | , 1923-1924 The Wednesday 0 apps. |
+| 1919 | Cradley Heath St Lukes,1921-22 Aston Villa (Amateur) | 0 | 4 |  |
+| 1923-1924 | The Wednesday | 0 |  |  |
 | 1924-1925 | Merthyr T | 13 | 2 |  |
 | 1924-1926 | Bournemouth & B | 56 | 12 |  |
 | 1925-1927 | Bolton W | 6 | 2 |  |

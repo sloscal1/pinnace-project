@@ -20,10 +20,11 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Rutherglen Glencairn |  |  | 1930-1931Morton 13 apps 0 goals |
+|  | Rutherglen Glencairn |  |  |  |
 | 1919-1926 | Morton | 201 | 2 |  |
 | 1926-1929 | Bethlehem Steel | 75 | 0 |  |
 | 1929-1929 | New Bedford Whalers | 9 | 0 |  |
+| 1930-1931 | Morton | 13 | 0 |  |
 | 1930-1932 | Cowdenbeath | 48 | 0 |  |
 | 1932-1933 | Dundee | 15 | 0 |  |
 | 1933-1934 | Arbroath | 32 | 0 | Holley Carburetors |

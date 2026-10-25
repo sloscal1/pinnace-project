@@ -20,7 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1910-1924 | Celtic | 407 | 68 | New Bedford Whalers 3 apps 1 goal Newark Skeeters 4 apps 0 goals |
+| 1910-1924 | Celtic | 407 | 68 |  |
+|  | New Bedford Whalers | 3 | 1 |  |
+|  | Newark Skeeters | 4 | 0 |  |
 | 1912-1920 | Scottish XI | 7 | 1 | . |
 
 ## Representative

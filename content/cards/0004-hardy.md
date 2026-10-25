@@ -23,7 +23,7 @@ see_page:
 | 1902-1905 | Chesterfield | 71 | 0 |  |
 | 1905-1912 | Liverpool | 219 | 0 |  |
 | 1912-1921 | Aston Villa | 159 | 0 |  |
-| 1921-1925 | Nottm. Forest 102 Appa |  | 0 |  |
+| 1921-1925 | Nottm. Forest | 102 | 0 |  |
 
 ## Biography
 

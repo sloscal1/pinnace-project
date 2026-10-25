@@ -21,7 +21,8 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Luton Tow |  |  |  |
-| 1920-1922 | Bolton Wanderers | 11 | 0 | 1923- Arsenal 1 app 0 goals |
+| 1920-1922 | Bolton Wanderers | 11 | 0 |  |
+| 1923 | Arsenal | 1 | 0 |  |
 
 ## Biography
 

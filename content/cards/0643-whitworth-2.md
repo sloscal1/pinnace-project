@@ -21,9 +21,10 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1911-1912 | Grafton Excelsior, Rushden Windmill |  |  |  |
+| 1920-1922 | Northampton T | 74 | 46 |  |
 | 1921-1925 | Crystal P | 118 | 50 |  |
 | 1924-1925 | The Wednesday | 0 | 0 |  |
-| 1925-1928 | Hull C | 72 | 32 | 1920-1922Northampton T 74 apps 46 goals |
+| 1925-1928 | Hull C | 72 | 32 |  |
 | 1928-1929 | South Shields |  |  |  |
 | 1929 | Peterborough & Fletton Utd |  |  |  |
 | 1930 | Blyth Spartans |  |  |  |

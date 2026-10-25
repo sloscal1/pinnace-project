@@ -22,9 +22,13 @@ see_page:
 |---|---|---|---|---|
 | 1902-1904 | Wellington Town |  |  |  |
 | 1904-1920 | Aston Villa | 339 | 215 |  |
-| 1920-1922 | Birmingham | 57 | 31 | England 1913-14 4 apps 2 goals |
+| 1920-1922 | Birmingham | 57 | 31 |  |
 | 1922-1923 | Newport Co | 14 | 2 |  |
 | 1924-1925 | Wellington Town |  |  |  |
+
+## Representative
+
+- 1913-1914 England 4 apps 2 goals
 
 ## Biography
 

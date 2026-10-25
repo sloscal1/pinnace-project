@@ -22,8 +22,9 @@ see_page:
 |---|---|---|---|---|
 | 1921-1923 | Durham City | 65 | 3 |  |
 | 1923-1925 | Wolverhampton Wan | 10 | 1 |  |
+| 1925-1931 | Derby Co | 87 | 6 |  |
 | 1930-1931 | Sheff Wed | 18 | 0 |  |
-| 1932-1935 | Coventry C | 108 | 5 | 1925-`931 Derby Co 87 apps 6 goals |
+| 1932-1935 | Coventry C | 108 | 5 |  |
 | 1935-1936 | Rhyl Ath, Bath City |  |  |  |
 
 ## Biography

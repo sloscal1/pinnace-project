@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919 | Prescot |  |  | 1925-1929Whiston, Llandudno, Caernarvon Athletic, |
-| 1920-1922 | Hull C 11 aps |  | 0 | Ashton National, Northwich Victoria. |
+| 1920-1922 | Hull C | 11 | 0 | Ashton National, Northwich Victoria. |
 | 1922-1923 | Merthyr T | 18 | 0 |  |
 | 1923-1925 | Grimsby T | 12 | 1 |  |
 

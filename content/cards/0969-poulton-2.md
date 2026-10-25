@@ -23,9 +23,10 @@ see_page:
 | 1910-1911 | Monmore Green, Priestfield Albion |  |  |  |
 | 1912-1915 | West Brom Albn | 9 | 1 |  |
 | 1913 | Worcester C (loan) |  |  |  |
+| 1918-1922 | Middlesbrough | 19 | 5 |  |
 | 1921-1923 | Bristol C | 28 | 9 |  |
 | 1922-1923 | Reading | 26 | 3 |  |
-| 1923 | Llanelly |  |  | 19181922 Middlesbrough 19 apps 5 goals |
+| 1923 | Llanelly |  |  |  |
 
 ## Biography
 

@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1909-1911 | Southampton | 5 | 0 |  |
-| 1911-1927 | Manchester C | 204 |  | 0 gols |
+| 1911-1927 | Manchester C | 204 | 0 |  |
 | 1927-1929 | Guildford City |  |  |  |
 
 ## Honours

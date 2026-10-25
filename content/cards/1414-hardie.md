@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 |  | Blantyre Celtic |  |  |  |
 | 1921-1923 | Third Lanark | 7 | 0 |  |
-| 1923-1929 | Arbroath 192 |  | 37 |  |
+| 1923-1929 | Arbroath | 192 | 37 |  |
 | 1928-1929 | Montrose (loan) |  |  |  |
 | 1929-1932 | Arbroath | 36 | 3 |  |
 

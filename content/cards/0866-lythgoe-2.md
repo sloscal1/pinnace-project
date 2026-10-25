@@ -23,7 +23,7 @@ see_page:
 | 1911-1912 | Newbury FC, Walkden Central |  |  |  |
 | 1913-1915 | Bury | 41 | 17 |  |
 | 1919-1921 | Nottingham F | 67 | 14 |  |
-| 1921-1922 | Newport C |  | 35 | 5 goals |
+| 1921-1922 | Newport C | 35 | 5 |  |
 | 1922-1923 | Norwich C | 15 | 3 |  |
 | 1923-1931 | Ebbw Vale, Eccles Utd, Chorley |  |  | Crewe A, Margate, Horwich RMI, Kearsley Celtic. |
 

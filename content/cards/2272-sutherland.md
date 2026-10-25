@@ -20,7 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1915-1918 | Petershill, Third Lanark | 28 |  | , Abercord, Clydebank 20 apps 10 gls, St Mirren. |
+| 1915-1918 | Petershill, Third Lanark | 28 |  |  |
+|  | Abercord |  |  |  |
+|  | Clydebank | 20 | 10 |  |
+|  | St Mirren |  |  |  |
 | 1920-1921 | Millwall | 58 | 1 |  |
 | 1922-1926 | Bristol City | 107 | 23 |  |
 | 1926-1927 | Merthyr Town | 34 | 6 |  |

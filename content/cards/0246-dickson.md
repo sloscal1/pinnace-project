@@ -20,10 +20,12 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1918-1921 | QPR (Scot) | 45 | 1 | 1925-26 Providence Clamdiggers 10 apps 1 gls |
-| 1921-1925 | Hamilton Acc | 19 | 5 | 1926-27J&P Coats 2 apps 0 goals |
+| 1918-1921 | QPR (Scot) | 45 | 1 |  |
+| 1921-1925 | Hamilton Acc | 19 | 5 |  |
 | 1924-1925 | Royal Albert (Larkhall) |  |  |  |
+| 1925-1926 | Providence Clamdiggers | 10 | 1 |  |
 | 1925-1926 | Shawsheen Indians | 19 | 1 |  |
+| 1926-1927 | J&P Coats | 2 | 0 |  |
 
 ## Biography
 

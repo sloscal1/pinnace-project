@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1908-1909 | Seaham White star, Silksworth United, Seaham Harbour |  |  | 1910-911 Blackpool 33 apps 16 goals |
+| 1908-1909 | Seaham White star, Silksworth United, Seaham Harbour |  |  |  |
+| 1910-1911 | Blackpool | 33 | 16 |  |
 | 1910-1914 | Blackburn R | 27 | 12 |  |
 | 1913-1922 | Everton | 74 | 33 |  |
 | 1921-1925 | Cardiff C | 135 | 42 |  |

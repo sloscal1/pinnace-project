@@ -20,8 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Pumpherston Rangers |  |  | 1914-15 Leith Ath (loan) 25 apps 0 goals |
+|  | Pumpherston Rangers |  |  |  |
 | 1913-1914 | Leith Ath | 10 | 0 |  |
+| 1914-1915 | Leith Ath (loan) | 25 | 0 |  |
 | 1914-1928 | Hibernian | 357 | 0 |  |
 | 1928-1931 | Q of the S | 107 | 1 |  |
 

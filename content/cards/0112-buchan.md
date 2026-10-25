@@ -23,8 +23,12 @@ see_page:
 | 1907-1908 | Woolwich Polytechnic, Plumstead St Nicholas, Plumstead |  |  |  |
 | 1908-1909 | W. Arsenal | 0 | 0 |  |
 | 1909-1910 | Northfleet United, Leyton |  |  |  |
-| 1910-1925 | Sunderland | 411 | 222 | England 1913-1924 6 appearances 4 goals. |
+| 1910-1925 | Sunderland | 411 | 222 |  |
 | 1925-1928 | W. Arsenal | 120 | 56 |  |
+
+## Representative
+
+- 1913-1924 England 6 apps 4 goals
 
 ## Biography
 

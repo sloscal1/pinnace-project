@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Born : 1st December 1892 Carlton South Yorkshire Died : |  |  | 1927 Winger 1910-1911 Wharncliffe Woodmoor 1913 Mirfield Utd 1911-1912 Royston Midland 1913-1925 Barnsley 230 apps 20 goals 1912-1913 Monkton Athletic |
+|  | Born : 1st December 1892 Carlton South Yorkshire Died : |  |  | 1927 Winger 1910-1911 Wharncliffe Woodmoor 1913 Mirfield Utd 1911-1912 Royston Midland 1912-1913 Monkton Athletic |
+| 1913-1925 | Barnsley | 230 | 20 |  |
 
 ## Biography
 

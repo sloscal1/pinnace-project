@@ -21,8 +21,9 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1902-1903 | G. Rangers | 2 |  |  |
-| 1903-1907 | Clyde | 33 | 4 | 1917-1921Clydebank 108 apps 2 goals |
+| 1903-1907 | Clyde | 33 | 4 |  |
 | 1907-1908 | Reading | 37 | 2 | Fraserburgh |
 | 1909-1917 | Cyde | 283 | 13 |  |
+| 1917-1921 | Clydebank | 108 | 2 |  |
 
 ## Collector notes

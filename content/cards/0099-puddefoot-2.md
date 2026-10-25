@@ -24,7 +24,7 @@ see_page:
 | 1912-1915 | West Ham U | 61 | 35 |  |
 | 1918-1918 | Falkirk (loan) | 5 | 7 |  |
 | 1919-1922 | West Ham U | 111 | 69 |  |
-| 1921-1925 | Falkirk 113 |  | 49 |  |
+| 1921-1925 | Falkirk | 113 | 49 |  |
 | 1924-1932 | Blackburn R | 277 | 87 |  |
 | 1931-1933 | West Ham U | 22 | 3 |  |
 | 1933 | Fenerbahçe |  |  |  |

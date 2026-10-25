@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Shawfield Juniors |  |  | 1921-192 Morton 140 apps 0 goals Newcastle U |
+|  | Shawfield Juniors |  |  | Newcastle U |
+| 1921 | Morton | 140 | 0 |  |
 
 ## Biography
 

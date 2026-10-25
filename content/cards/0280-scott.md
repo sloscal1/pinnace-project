@@ -21,7 +21,8 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1911-1913 | Liverpool | 10 | 0 |  |
-| 1919-1921 | Dumbarton | 63 | 2 | 1921-925 Third Lanark 2 apps 0 goals |
+| 1919-1921 | Dumbarton | 63 | 2 |  |
+| 1921-1925 | Third Lanark | 2 | 0 |  |
 | 1923-1925 | New York Giants | 36 | 1 |  |
 
 ## Collector notes

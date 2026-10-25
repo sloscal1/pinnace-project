@@ -25,7 +25,7 @@ see_page:
 | 1920-1923 | Wolverhampton W | 111 | 1 |  |
 | 1923-1924 | Reading | 0 | 0 |  |
 | 1923-1924 | Walsall | 11 | 0 |  |
-| 1924-1925 | Bournemouth & B | 20 |  | 0 gls |
+| 1924-1925 | Bournemouth & B | 20 | 0 |  |
 | 1925 | Darlaston, (Staffordshire) |  |  |  |
 
 ## Honours

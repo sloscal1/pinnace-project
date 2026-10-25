@@ -22,8 +22,12 @@ see_page:
 |---|---|---|---|---|
 | 1901 | Tunstall Cresswells |  |  |  |
 | 1902-1908 | Stoke | 135 | 4 |  |
-| 1908-1923 | Sheffield U | 375 | 5 | England 1911-1914 2 apps 0 goals |
+| 1908-1923 | Sheffield U | 375 | 5 |  |
 | 1923-1925 | Norwich C | 47 | 0 |  |
+
+## Representative
+
+- 1911-1914 England 2 apps 0 goals
 
 ## Honours
 

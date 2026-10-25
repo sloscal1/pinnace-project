@@ -63,6 +63,21 @@ def generated(cards, teams):
         [f"Footnotes whose source is still `TO TRACE` ({len(untraced)}). Find the reference in the Wikipedia "
          "article the text came from and replace the source line (see the README).", ""] + untraced)
 
+    odd = []
+    for c in sorted(cards, key=lambda c: c["number"]):
+        for e in c["career"]:
+            club, note = e["club"] or "", e["note"] or ""
+            prose = len(note) > 120 or (len(club) > 100 and re.search(r"[a-z]\. [A-Z]", club))
+            if re.match(r"(Born|Birth)\b", club) or prose:
+                odd.append(item(card_ref(c, teams) + f": {e['years'] or 'no years'} row: "
+                                + ("the card's header was read as a career row" if re.match(r"(Born|Birth)", club)
+                                   else "biography text in the table")))
+                break
+    out["career"] = "\n".join(
+        [f"Career tables with biography text in a row ({len(odd)}), or a card header read as a career row. "
+         "Move the text to the biography, or rewrite the row from the .pub page.",
+         ""] + odd)
+
     checks = [("no card scan", lambda c: not c.get("image")),
               ("no career rows", lambda c: not c["career"] and not c.get("see_page")),
               ("no position", lambda c: not c.get("position") and not c.get("see_page")),

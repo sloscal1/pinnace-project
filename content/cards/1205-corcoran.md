@@ -22,10 +22,12 @@ see_page:
 |---|---|---|---|---|
 |  | Mossend Hibernian |  |  |  |
 | 1912-1915 | Clyde | 37 | 3 |  |
+| 1916-1917 | Hamilton Acc | 23 | 5 |  |
+| 1918-1919 | G. Celtic | 3 | 0 |  |
 | 1919-1920 | Hamilton Acc | 17 | 3 |  |
 | 1920-1921 | Bathgate |  |  | *1914-1916 Shelbourne & Royal Albert |
-| 1920-1926 | Plymouth A | 198 | 27 | *1916-1917 Hamilton Acc 23 apps 5 goals |
-| 1926-1927 | Luton Town, Bathgate, East |  |  | *1916-1918 Renton & Albion R Stirlingshire. *1918-1919 G. Celtic 3 apps 0 goals *1919-1920 Royal Albert |
+| 1920-1926 | Plymouth A | 198 | 27 |  |
+| 1926-1927 | Luton Town, Bathgate, East |  |  | *1916-1918 Renton & Albion R Stirlingshire. *1919-1920 Royal Albert |
 
 ## Biography
 

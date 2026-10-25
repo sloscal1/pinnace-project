@@ -20,10 +20,14 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1911 | Kelty Rovers |  |  | 1917-18 Third Lanark (loan) 18 apps 11 goals |
+| 1911 | Kelty Rovers |  |  |  |
 | 1912 | Dunfermline Ath | 3 | 3 |  |
-| 1912-1915 | Birmingham C | 24 | 9 | 1919-23 Clyde 142 apps 39 goals |
-| 1915 | East Fife |  |  | 1923-26 Dundee 68 apps 17 goals |
-| 1916 | G.Rangers (loan) | 25 | 15 | 1926-27 Arbroath 10 apps 3 goals |
+| 1912-1915 | Birmingham C | 24 | 9 |  |
+| 1915 | East Fife |  |  |  |
+| 1916 | G.Rangers (loan) | 25 | 15 |  |
+| 1917-1918 | Third Lanark (loan) | 18 | 11 |  |
+| 1919-1923 | Clyde | 142 | 39 |  |
+| 1923-1926 | Dundee | 68 | 17 |  |
+| 1926-1927 | Arbroath | 10 | 3 |  |
 
 ## Collector notes

@@ -22,7 +22,8 @@ see_page:
 |---|---|---|---|---|
 |  | Bargoed Town (Wales) |  |  |  |
 | 1914-1915 | Wolverhampton Wan | 7 | 3 |  |
+| 1919-1922 | Swindon T | 45 | 0 |  |
 | 1922-1923 | Halifax T | 29 | 0 |  |
-| 1923 | Chapel-en-le Frith & Hyde Utd |  |  | Stalybridge Celtic 19191922 Swindon T 45 apps 0 goals |
+| 1923 | Chapel-en-le Frith & Hyde Utd |  |  | Stalybridge Celtic |
 
 ## Collector notes

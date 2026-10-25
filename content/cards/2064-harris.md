@@ -21,6 +21,6 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919 | Hesleden Celtic |  |  |  |
-| 1921-1923 | Hartlepool Utd 4 appearances |  |  |  |
+| 1921-1923 | Hartlepool Utd | 4 |  |  |
 
 ## Collector notes

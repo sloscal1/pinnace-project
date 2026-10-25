@@ -25,7 +25,7 @@ see_page:
 | 1916-1917 | Motherwell | 25 | 6 |  |
 | 1917-1919 | Motherwell | 38 | 7 |  |
 | 1919-1921 | Birmingham ci | 36 | 6 |  |
-| 1921-1922 | Coventry C 57 |  | 14 | Third Lanark loan |
+| 1921-1922 | Coventry C | 57 | 14 | Third Lanark loan |
 | 1922-1925 | Crystal P | 85 | 16 |  |
 
 ## Biography

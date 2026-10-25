@@ -24,7 +24,7 @@ see_page:
 | 1919-1924 | Wolverhampton W | 129 | 4 |  |
 | 1923-1924 | Cardiff C | 0 | 0 |  |
 | 1924-1928 | West Bromwich A | 65 | 1 |  |
-| 1929-1932 | Exeter C 62 |  | 5 | (all pens) |
+| 1929-1932 | Exeter C | 62 | 5 | (all pens) |
 
 ## Biography
 

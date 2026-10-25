@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1909-1913 | Multi junior sides including time at Walsall FC |  |  | 1913-192 Sunderland 46 apps 17 goals |
+| 1909-1913 | Multi junior sides including time at Walsall FC |  |  |  |
+| 1913 | Sunderland | 46 | 17 |  |
 | 1920-1922 | Everton | 55 | 21 |  |
 | 1922-1923 | West Ham | 16 | 1 |  |
 | 1923-1925 | Swindon T | 44 |  |  |

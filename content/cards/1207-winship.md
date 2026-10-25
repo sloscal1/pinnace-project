@@ -23,10 +23,11 @@ see_page:
 | 1909-1910 | Sleekburn Villa, Wallsend Park Villa |  |  |  |
 | 1910-1913 | W. Arsenal | 29 | 3 |  |
 | 1912-1913 | Fulham | 2 | 0 |  |
+| 1913-1914 | W. Arsenal | 15 | 2 |  |
 | 1914-1915 | Arsenal | 12 | 2 | Marley Hill UCG. |
 | 1921-1926 | Darlington | 162 | 18 |  |
 | 1926-1927 | Crewe A | 23 | 1 |  |
-| 1927-1930 | Wallsend, Trimdon Grange |  |  | 1913-14 W. Arsenal 15 apps 2 goals Cockfield, Spen Black & White, |
+| 1927-1930 | Wallsend, Trimdon Grange |  |  | Cockfield, Spen Black & White |
 
 ## Honours
 

@@ -22,10 +22,11 @@ see_page:
 |---|---|---|---|---|
 | 1918 | Battlefield Juniors |  |  |  |
 | 1919 | Bathgate |  |  |  |
-| 1920-1923 | Queens Park | 93 | 0 | 19281929 Brighton & H A 0 apps 0 goals |
+| 1920-1923 | Queens Park | 93 | 0 |  |
 | 1923-1924 | Manchester U (amateur) | 0 | 0 |  |
 | 1924-1926 | Aberdeen | 37 | 6 |  |
 | 1926-1928 | Cardiff C | 5 | 0 |  |
+| 1928-1929 | Brighton & H A | 0 | 0 |  |
 | 1928-1929 | Bristol R | 14 | 0 |  |
 | 1929-1930 | Ross County |  |  |  |
 

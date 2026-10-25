@@ -20,11 +20,12 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1911-1912 | Jarrow Croft |  |  | 1930-32 Dunfermline Ath 66 apps 7 goals |
+| 1911-1912 | Jarrow Croft |  |  |  |
 | 1912-1914 | Newcastle Utd | 3 | 0 | 1932-33 Glentoran, Newry Town |
 | 1919-1922 | Hamilton Acc | 80 | 6 |  |
 | 1922-1929 | Motherwell | 168 | 11 |  |
 | 1929-1930 | Morton 34 vapps |  | 5 |  |
+| 1930-1932 | Dunfermline Ath | 66 | 7 |  |
 
 ## Biography
 

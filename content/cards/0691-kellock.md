@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Stockport C 0 apps 0 goals |  |  |  |
+|  | Stockport C | 0 | 0 |  |
 | 1913 | St. Brieux (France) |  |  |  |
 | 1913-1921 | Plymouth A | 39 | 15 |  |
 | 1921 | Torquay U |  |  |  |

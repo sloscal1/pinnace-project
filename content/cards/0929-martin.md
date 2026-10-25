@@ -26,7 +26,7 @@ see_page:
 | 1923-1924 | Wolves | 11 | 6 |  |
 | 1924-1925 | Reading | 18 | 2 |  |
 | 1925-1926 | Aberdare A | 39 | 16 |  |
-| 1926-1927 | Bristol C | 40 |  | 16 apps |
+| 1926-1927 | Bristol C | 40 | 16 |  |
 | 1928 | Blackpool | 4 | 2 |  |
 | 1928-1929 | Southend U | 3 | 1 |  |
 | 1929-1930 | Halifax T | 18 | 4 |  |

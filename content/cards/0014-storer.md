@@ -21,8 +21,9 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1914-1918 | Ripley Town (Derbys) Eastwood Town (Notts), Notts County (Amateur) |  |  |  |
-| 1919-1921 | Grimsby T | 68 | 20 | 19281931 Burnley 54 apps 5 goals |
+| 1919-1921 | Grimsby T | 68 | 20 |  |
 | 1920-1929 | Derby Co | 273 | 63 |  |
+| 1928-1931 | Burnley | 54 | 5 |  |
 
 ## Biography
 

@@ -22,7 +22,8 @@ see_page:
 |---|---|---|---|---|
 | 1920-1930 | Tottenham H | 153 | 20 |  |
 | 1931-1932 | Norwich C | 12 | 2 |  |
-| 1932 | Clapton O | 18 | 5 | Chester 7 apps 2 goals |
+| 1932 | Clapton O | 18 | 5 |  |
+|  | Chester | 7 | 2 |  |
 | 1932 | Ashford Town (Kent) Northfleet Utd |  |  |  |
 
 ## Biography

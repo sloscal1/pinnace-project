@@ -32,7 +32,7 @@ see_page:
 | 1926-1927 | Springfield Babes | 2 | 0 |  |
 | 1926-1927 | Fall River Marksmen | 5 | 2 |  |
 | 1926-1927 | Newark Skeeters | 2 | 0 |  |
-| 1927-1928 | Hartford Americans |  | 11 | 0 goals |
+| 1927-1928 | Hartford Americans | 11 | 0 |  |
 | 1927-1928 | Darlington | 3 | 0 |  |
 | 1928-1930 | West Stanley & Gosforth & Coxlodge BL |  |  |  |
 

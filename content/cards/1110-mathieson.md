@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1913-1916 | Parkside Rovers, Avondale, Glentoran |  |  | 19201922 Luton T 56 apps 17 goals |
+| 1913-1916 | Parkside Rovers, Avondale, Glentoran |  |  |  |
+| 1920-1922 | Luton T | 56 | 17 |  |
 | 1922-1923 | Exeter C | 29 | 4 |  |
 | 1923 | Workington Glentoran |  |  |  |
 | 1923-1927 | New Brighton | 140 | 40 |  |

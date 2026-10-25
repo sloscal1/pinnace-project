@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1917 | Hearts | 27 | 17 |  |
 | 1918 | Clyde (loan) |  |  |  |
-| 1921-1926 | Manchester U 153 |  | 50 |  |
+| 1921-1926 | Manchester U | 153 | 50 |  |
 | 1925-1935 | Leicester C | 320 | 120 |  |
 
 ## Biography

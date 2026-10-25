@@ -22,15 +22,11 @@ see_page:
 |---|---|---|---|---|
 | 1910-1911 | Blackpool | 32 | 18 |  |
 | 1911-1914 | Blackburn Rov | 26 | 12 |  |
-| 1914-1921 | Everton |  | 68 | 30 goals |
+| 1914-1921 | Everton | 68 | 30 |  |
 | 1921-1925 | Cardiff City | 118 | 36 |  |
 | 1925-1926 | Stoke City | 33 | 9 |  |
 | 1926-1927 | Bristol Rov | 19 | 5 |  |
 | 1927-1928 | Rochdale | 13 | 2 |  |
-
-## Honours
-
-- 
 
 ## Biography
 

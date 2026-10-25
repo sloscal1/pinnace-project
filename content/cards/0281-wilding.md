@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Grenadier Guards Bristol Rovers 0 apps 0 goals |  |  |  |
+|  | Grenadier Guards Bristol Rovers | 0 | 0 |  |
 | 1919-1928 | Chelsea | 241 | 22 |  |
 | 1928 | Tottenham Hot | 12 | 1 |  |
 

@@ -25,7 +25,11 @@ see_page:
 | 1913-1922 | Aberdeen | 126 | 8 |  |
 | 1922-1927 | Heart of Midlothian | 128 | 3 |  |
 | 1927-1928 | Morton | 11 | 1 |  |
-| 1928-1931 | Queen of the South | 84 | 12 | Scottish XI 1922 1 app v England |
+| 1928-1931 | Queen of the South | 84 | 12 | v England |
+
+## Representative
+
+- 1922 Scottish XI 1 apps
 
 ## Biography
 
