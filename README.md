@@ -2,6 +2,106 @@
 
 A static website of the Pinnace football card biographies, built from Markdown files in `content/`.
 
+## Maintaining the site: start here
+
+No programming or GitHub experience is needed. Everything below happens in a web browser, on a
+computer (a phone works, but is fiddly). The site is at https://sloscal1.github.io/pinnace-project/
+and the files behind it are at https://github.com/sloscal1/pinnace-project.
+
+### 1. Get set up (once)
+
+1. **Make a free GitHub account** at https://github.com/signup. Note your username.
+2. **Ask the site's owner to add you as a collaborator**, giving them your username. (For the
+   owner: on the repository page, Settings → Collaborators → Add people.)
+3. **Accept the invitation.** It arrives by email, or open
+   https://github.com/sloscal1/pinnace-project/invitations while signed in. Until you accept, GitHub
+   will offer to "fork" the project when you try to edit. Don't; accept the invitation instead.
+
+### 2. Find something to do
+
+Open the maintainers page: https://sloscal1.github.io/pinnace-project/maintainers.html (it is not
+linked from the rest of the site; bookmark it). The checklist at the top lists what still needs
+checking or fixing, with progress. Each item names:
+
+- a card, like `0929-martin`, which links to the card on the site;
+- a page, like `p344`, which links to the page index lower down. The index gives the original
+  Publisher file (`page344.pub`) for checking against the book.
+
+### 3. Make an edit
+
+Each card, team and feature is a text file under `content/`. To change one:
+
+1. On https://github.com/sloscal1/pinnace-project press `t` (or click "Go to file") and type the
+   card's name from the checklist, e.g. `0929-martin`. Click the file.
+2. Click the **pencil icon** ("Edit this file"), near the top right of the file.
+3. Make the change. The **Preview** tab shows how it reads.
+4. Click **Commit changes...** (green button). This is GitHub's "save". Write a short note of what
+   you changed, e.g. "Card 929: Bristol City goals", leave "Commit directly to the main branch"
+   selected, and click **Commit changes**.
+5. About two minutes later the site has your change; reload the page to see it. The repository's
+   **Actions** tab shows progress: a yellow dot while it builds, a green tick when it's live. A red
+   cross means the site couldn't be built (usually a typo in the file's format, see below): open
+   the file again and check your change, or open an issue (section 5).
+
+Made a mistake? Every saved version is kept. Open the file, click **History**, and you can see and
+copy back any earlier version.
+
+### 4. Tick off the item
+
+The checklist is itself a file, `content/maintenance.md`. Edit it as above and change the item's
+`- [ ]` to `- [x]`. Hand-written items (and the "Notes" section at the end) can be changed or added
+freely. The sections marked "generated" are refreshed automatically each time the site is
+published: an item disappears once the problem it describes is fixed, and ticked items stay ticked.
+
+### What the files look like
+
+A card file (here `content/cards/0929-martin.md`, shortened) starts with lines of facts between
+`---` lines, then sections:
+
+    ---
+    uid: 169
+    number: 929
+    name: James Colin Martin
+    born: 2nd December 1898, Stoke on Trent, Staffordshire, England
+    ...
+    ---
+
+    ## Career
+
+    | Years | Club | Apps | Goals | Note |
+    |---|---|---|---|---|
+    | 1926-1927 | Bristol C | 40 | 16 |  |
+
+    ## Biography
+
+    Paragraphs of text, with a blank line between paragraphs.
+
+    ## Collector notes
+
+    Variants, misprints and so on.
+
+- Facts are `name: value`, one per line. Leave the value empty rather than deleting the line.
+- Never change a card's `uid`: visitors' saved checklists depend on it.
+- Each career row has five cells separated by `|`, even when some are empty: years, club, apps,
+  goals, note. Years are written `1926-1927` or `1926`.
+- To credit a source, see "Sources and footnotes" below.
+- To replace a card scan: open the `content/img` folder, click **Add file → Upload files**, and
+  upload the new image with exactly the same file name as the old one (the card file's `image:`
+  line gives it, e.g. `card-0929-martin.jpg`).
+
+### 5. Contact the owner about bigger things
+
+For anything beyond fixing the content of a page, open an **issue**: a message thread the owner is
+notified about. For example: the site looks broken or won't build, a change would affect many
+pages, an idea for a new feature, or you're unsure how something should be done.
+
+1. Go to https://github.com/sloscal1/pinnace-project/issues and click **New issue**.
+2. Choose **Bigger problem or idea** and fill in the boxes. Include links to the pages concerned;
+   screenshots can be dragged into the box.
+3. Click **Submit new issue**. Replies appear on the issue and are emailed to you.
+
+Issues are public, so don't put private details in them.
+
 ## Editing
 
 `content/` is the source of truth. Edit it by hand, or in the GitHub web editor, like a wiki:
@@ -22,7 +122,7 @@ Cite a source with a Markdown footnote: put `[^1]` (or `[^bbc]`, any short name)
 and the source on its own line. In a card it goes under a `## Sources` heading; in a feature, at
 the end of the text:
 
-    [^1]: Simpkin, John. "Bob Kelly". Spartacus Educational. https://spartacus-educational.com/...
+    [^1]: Simkin, John. "Robert Kelly". Spartacus Educational. https://spartacus-educational.com/...
 
 The site numbers footnotes in order and links them to a Sources list at the bottom of the page.
 Web addresses anywhere in the text become links; write one as `<https://...>` if it ends in
@@ -57,8 +157,9 @@ Every page has a light/dark button; until a visitor uses it, the site follows th
 - **Checklist**: `content/maintenance.md`, shown with progress. It lists what still needs checking
   or fixing after the move from Publisher. Tick an item by changing `- [ ]` to `- [x]`. Hand-written
   sections can be edited freely; the sections marked "generated" (card numbers given to different
-  players, sources to trace, cards missing a detail) are refreshed from the content files by
-  `python3 tools/report.py`, which keeps ticks.
+  players, career rows, sources to trace, cards missing a detail) are refreshed from the content
+  files by `python3 tools/report.py`, which keeps ticks. The publish step runs it too, so the
+  maintainers page is always current.
 - **Page index**: every page of the original Publisher files, with its file name, team section, and
   links to the cards or feature built from it. Filter by page ("26c"), file, team, player or number.
   In the checklist, `p344` links to that row and `0198-mcmenemy` to that card.
@@ -68,14 +169,10 @@ The site shows no page numbers, since the book was never published. The content 
 for the file names. References in the text such as "(see page 136)" are shown on the site as links
 to the player, feature or team that page holds, and dropped if the page is not on the site.
 
-## Editing on GitHub
+## Publishing
 
-The site is published with GitHub Pages. Every push to `main` rebuilds and redeploys it
-(`.github/workflows/pages.yml`), which takes about a minute.
-
-To fix a biography or add a card, open its file under `content/` on github.com, click the pencil
-icon, edit, and commit. Others can propose changes as pull requests for the maintainer to review.
-Images are added with "Add file → Upload files" into `content/img/`.
+The site is published with GitHub Pages. Every change saved to `main` rebuilds and redeploys it
+(`.github/workflows/pages.yml`), which takes about two minutes.
 
 ## Copyright
 
