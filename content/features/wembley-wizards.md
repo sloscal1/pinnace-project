@@ -53,8 +53,10 @@ The Wizards were never selected again en masse for an international match. Tom B
 
 The last survivor from the losing side was Joe Hulme, who died in September 1991 at the age of 87.
 
-With great thanks to the original author who posted to www.wikipedia.org
+With great thanks to the original author who posted to www.wikipedia.org[^wikipedia]
 
 The Wizards are introduced to the Duke of York prior to the game.
 
 Matchday programme for the game.
+
+[^wikipedia]: Text adapted from "Wembley Wizards". Wikipedia. https://en.wikipedia.org/wiki/Wembley_Wizards

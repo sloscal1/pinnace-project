@@ -16,6 +16,23 @@ A static website of the Pinnace football card biographies, built from Markdown f
   generated automatically, so prune it as you like.
 - `content/img/`: card scans and photographs.
 
+### Sources and footnotes
+
+Cite a source with a Markdown footnote: put `[^1]` (or `[^bbc]`, any short name) where the claim is,
+and the source on its own line. In a card it goes under a `## Sources` heading; in a feature, at
+the end of the text:
+
+    [^1]: Simpkin, John. "Bob Kelly". Spartacus Educational. https://spartacus-educational.com/...
+
+The site numbers footnotes in order and links them to a Sources list at the bottom of the page.
+Web addresses anywhere in the text become links; write one as `<https://...>` if it ends in
+punctuation such as a full stop, so the whole address is linked.
+
+Much of the text was copied from Wikipedia with its reference numbers ("[6]") but not the reference
+list. The migration turns those into footnotes whose source reads `TO TRACE: ...`; the page shows
+"Source not yet traced", and every build lists them (along with footnotes that have no source line)
+until the real reference is filled in.
+
 Each card's `uid` is permanent. Visitors' checklists and share links are keyed by it, so never
 change or reuse one. A new card gets the next unused number.
 

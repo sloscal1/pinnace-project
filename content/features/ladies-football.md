@@ -40,3 +40,5 @@ In 1917, they acquired the United Electric Car Company of Preston.
 ### Post War
 
 In 1919, the Kilmarnock works was sold to the Kilmarnock Engineering Company, and the company was taken over by English Electric. In 1968, English Electric merged with GEC.
+
+[^wikipedia]: Text adapted from "Dick, Kerr & Co.". Wikipedia. <https://en.wikipedia.org/wiki/Dick,_Kerr_%26_Co.>

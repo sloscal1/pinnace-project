@@ -97,9 +97,7 @@ However, this game was not without controversy as Cornelius Hilley, known as Con
 
 Raith took the matter up with the British consul and the club received an apology. Victoria were also defeated 2-0, with Tom Jennings scoring both goals.
 
-### Written by John Greer
-
-### Shipwreck continued
+Written by John Greer.[^greer]
 
 In the final game, Raith Rovers beat Marino 2-1, with the goals coming from Cowie and Hilley. Remarkably, the team secured six wins out of six games during the tour, with Tom Jennings scoring an impressive 11 goals.
 
@@ -113,8 +111,4 @@ Alex James was sold to Preston North End before joining Arsenal, where he won th
 
 Tom Jennings was sold to Leeds United, where he scored an impressive 117 goals in 174 games, making him the third-highest scorer in Leeds history, a record that still stands to this day.
 
-### Written by John Greer
-
-### Shipwreck continued
-
-### Ghostly Apparitions
+[^greer]: Greer, John. "Raith Rovers – The Team That Was Shipwrecked". Raith Rovers Football Club, 24 July 2023. https://www.raithrovers.net/raith-rovers-the-team-that-was-shipwrecked/

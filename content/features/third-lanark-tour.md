@@ -23,8 +23,6 @@ There was a huge expectation in 1923 and it wasn't just Third Lanark - there wer
 
 They were mainly called here, not Third Lanark, but "the Scotchmen".
 
-.
-
 The tourists and a local select were piped onto the pitch in Buenos Aires for the first game - a sign behind proclaiming "Welcome to the Scotchmen".
 
 The hospitality ended there with Third Lanark - perhaps still re-adjusting to dry land after weeks at sea - beaten 1-0.
@@ -51,9 +49,7 @@ The newspaper also said: "He will also solicit permission to wear the traditiona
 
 There was no sign of adhesives or kilts as Third Lanark took to the field against Argentina. Argentinian president Marcelo Torcuato de Alvear looked on as a late goal from Thirds saved a 1-1 draw.
 
-The tour would finish with Third Lanark defeating a combined Argentina/Uruguay team 2-1. They travelled home with a
-
-respectable record of four wins, two draws and two defeats.
+The tour would finish with Third Lanark defeating a combined Argentina/Uruguay team 2-1. They travelled home with a respectable record of four wins, two draws and two defeats.
 
 Top scorer on the tour was guest player Hughie Ferguson of Motherwell, the man whose long standing record of goals in consecutive games for the Steelmen was recently beaten by Kevin van Veen.
 
@@ -61,4 +57,6 @@ The drama was not quite over with the Scots delayed by a typhoon, which was stil
 
 The Kirkcaldy men had been shipwrecked off the coast of Spain on their own summer tour before eventually being ferried onwards by a passing liner. (See pages 733 to 735 for aryicle on the Raith matter)
 
-This item was taken from a BBC news, Scotland, web site and includes many interesting photographs from the tour. My thanks to the BBC..
+This item was taken from a BBC news, Scotland, web site[^bbc] and includes many interesting photographs from the tour. My thanks to the BBC..
+
+[^bbc]: Pollock, Donald. "Third Lanark's lasting legacy on South American football". BBC News Scotland, 18 June 2023. https://www.bbc.co.uk/news/uk-scotland-65890166

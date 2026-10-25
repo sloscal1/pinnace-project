@@ -7,21 +7,11 @@ pages: 1
 images: 
 ---
 
-### The pinnace collection
+- The pinnace collection biographies
+- Compiled by Michael Postles
+- With thanks to Roger Pashby www.pinnacecards.wordpress.com
 
-### biographies
-
-### Compiled by Michael Postles
-
-### With thanks to Roger Pashby
-
-### www.pinnacecards.wordpress.com
-
-### Additionally I must thank James Cotton of
-
-### Vintage Footbalers
-
-### www.vintagefootballers.com
+Additionally I must thank James Cotton of Vintage Footbalers www.vintagefootballers.com
 
 ### English national football archive (enfa)
 

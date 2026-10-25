@@ -25,4 +25,6 @@ After the war, another American tour in 1949 was followed by irregular trials ag
 
 After the SFA trial was discontinued, between 1925 and 1933 several unofficial 'Anglo-Scots v Home Scots' matches were organised in aid the 'Robert Burns Statue Fund' charity, taking place in Newcastle-upon-Tyne and proceeds with proceeds going to the Princess Mary Maternity Hospital in that city, and to the Burns Memorial Cottages project in Mauchline; a high standard of players were involved, with each receiving a gold medal for their participation.
 
-With great thanks to the original author who posted to www.wikipedia.org
+With great thanks to the original author who posted to www.wikipedia.org[^wikipedia]
+
+[^wikipedia]: Text adapted from "Home Scots v Anglo-Scots". Wikipedia. https://en.wikipedia.org/wiki/Home_Scots_v_Anglo-Scots

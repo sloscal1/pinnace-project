@@ -39,8 +39,6 @@ The FA ban stayed in place for fifty years – finally being rescinded in 1971 �
 
 The women's game in England was left on its own until 1993 when the FA took over its administration and funding.
 
-### Dick Kerr Ladies (Continued)
-
 The team will continue to play, if the organisers of charity matches will provide grounds, even if we have to play on ploughed fields.
 
 Despite the FA ban, the team continued to play on non-FA grounds. In late 1922, the team traveled abroad for a tour of Canada and the United States. Upon their arrival, Canada's Dominion Football Association prevented the team from playing anywhere in the country. The Washington Post reported on 23 September 1922, "The Dick, Kerr's team of English women soccer football players arrived today on the steamship Montclare en route to the United States where they will play a series of games. The girls will not be allowed to play Canadian soccer teams under order from the Dominion Football Association which objects to women football players. The team's first game will be at Patterson, N.J., on September 24th." The team played nine U.S.-based men's teams before crowds ranging from four to ten thousand spectators. Some of the opposing teams included immigrants who had previously played in the British football league, plus at least one American who would go on to represent the U.S. at the 1930 World Cup finals. Dick, Kerr Ladies acquitted themselves well, winning three games, drawing three, and losing three. They proved tough opponents. "I played against them in 1922," recalled Paterson goalkeeper Peter Renzulli. "We were national champions and we had a hell of a job beating them."
@@ -55,6 +53,6 @@ The team's club colours were black and white striped jerseys with a small Union 
 
 In 1926, Alfred Frankland had a falling out with the Dick, Kerr Ladies ownership. The team's name changed to "Preston Ladies F.C." and carried on playing until 1965. Despite having to play in more obscure locations due to the FA ban, the team saw an average of 5,000 spectators at their matches throughout the 1930s. In 1937, the team played against Scottish women champions, the Edinburgh Ladies and won 5–1, earning the "unofficial" title of world champions for the first time.
 
-With great thanks to the original author who posted to www.wikipedia.org
+With great thanks to the original author who posted to www.wikipedia.org[^wikipedia]
 
-### Ghostly apparitions
+[^wikipedia]: Text adapted from "Dick, Kerr Ladies F.C.". Wikipedia, revision of 23 December 2017. https://en.wikipedia.org/w/index.php?title=Dick,_Kerr_Ladies_F.C.&oldid=816807668 (current article: <https://en.wikipedia.org/wiki/Dick,_Kerr_Ladies_F.C.>)

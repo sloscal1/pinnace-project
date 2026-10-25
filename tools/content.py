@@ -7,7 +7,9 @@ Layout:
     content/features/<id>.md   feature article: front matter + Markdown body. `team` is the team
                                section it belongs with (empty for "About the collection");
                                `related` lists other teams it mentions.
-    content/cards/<id>.md      one card/biography: front matter + Career/Biography/... sections
+    content/cards/<id>.md      one card/biography: front matter + Career/Biography/... sections.
+                               Sources are Markdown footnotes: `[^1]` in the text and `[^1]: ...`
+                               lines under `## Sources` (in features, at the end of the body).
     content/img/               card scans and photographs
 
 Front matter is a block of `key: value` lines between `---` fences. Values are plain text;
@@ -71,6 +73,23 @@ def paragraphs(text):
     return [re.sub(r"\s*\n\s*", " ", p).strip() for p in re.split(r"\n\s*\n", text or "") if p.strip()]
 
 
+FOOTNOTE_DEF = re.compile(r"^\[\^([\w-]+)\]:\s*(.+)$")
+
+
+def split_footnotes(text):
+    """Separate Markdown footnote definitions (`[^key]: source`) from the text around them.
+
+    In the text, `[^key]` marks the place a source supports. Returns (text, {key: source})."""
+    keep, notes = [], {}
+    for line in (text or "").splitlines():
+        m = FOOTNOTE_DEF.match(line.strip())
+        if m:
+            notes[m.group(1)] = m.group(2).strip()
+        else:
+            keep.append(line)
+    return "\n".join(keep), notes
+
+
 def bullets(text):
     return [l[2:].strip() for l in (text or "").splitlines() if l.startswith("- ")]
 
@@ -105,6 +124,10 @@ def card_to_md(c):
         out.append("## Biography\n")
         out.append("\n\n".join(c["bio"]))
         out.append("")
+    if c.get("sources"):
+        out.append("## Sources\n")
+        out += [f"[^{k}]: {v}" for k, v in c["sources"].items()]
+        out.append("")
     out.append("## Collector notes\n")
     out.append("\n\n".join(c.get("collector_notes", [])))
     return "\n".join(out).rstrip() + "\n"
@@ -130,7 +153,8 @@ def load_card(path):
     s = sections(body)
     meta.update(id=path.stem, career=parse_career(s.get("Career")),
                 representative=bullets(s.get("Representative")), honours=bullets(s.get("Honours")),
-                bio=paragraphs(s.get("Biography")), collector_notes=paragraphs(s.get("Collector notes")))
+                bio=paragraphs(s.get("Biography")), collector_notes=paragraphs(s.get("Collector notes")),
+                sources=split_footnotes(s.get("Sources"))[1])
     return meta
 
 

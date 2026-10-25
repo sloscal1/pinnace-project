@@ -56,6 +56,10 @@ Kelly joined Preston North End in the Second Division. In the 1933-34 season he 
 
 It was considered that Kelly, now aged 41, was too old for the First Division and he spent the last season as a footballer playing for Carlisle United.
 
-Kelly managed Stockport County and Barry Town. After the Second World War Kelly coached in Portugal, Switzerland and the Channel Islands. Robert Kelly died in 1969. Thanks toJohn Simpkin Spartacus Educational
+Kelly managed Stockport County and Barry Town. After the Second World War Kelly coached in Portugal, Switzerland and the Channel Islands. Robert Kelly died in 1969. Thanks to John Simkin, Spartacus Educational.[^spartacus]
+
+## Sources
+
+[^spartacus]: Simkin, John. "Robert Kelly". Spartacus Educational, 1997 (updated January 2020). https://spartacus-educational.com/PRESTONkellyR.htm
 
 ## Collector notes

@@ -7,7 +7,7 @@ pages: 127
 images: mccraes-battalion-p127-0.jpg
 ---
 
-### McCrae's Battalion
+### Footballers Battalion
 
 McCrae's Battalion was the affectionate name given by the people of Edinburgh to the 16th (Service) Battalion of the Royal Scots in World War I, raised from volunteers in 1914 as part of the New Armies called to the Colours by Lord Kitchener. The unit was named after its charismatic colonel, former Liberal MP for Edinburgh East, Sir George McCrae.
 
@@ -21,10 +21,8 @@ The unit was named after its charismatic colonel, Sir George McCrae 1860-1928, a
 
 In October 2014, the battalion was inducted to the Scottish Football Hall of Fame
 
-With great thanks to the original author who posted to www.wikipedia.org
-
-### Ghostly Apparitions
-
-### Ghostly apparitions
+With great thanks to the original author who posted to www.wikipedia.org[^wikipedia]
 
 ### Sir George McCrae
+
+[^wikipedia]: Text adapted from "McCrae's Battalion". Wikipedia. https://en.wikipedia.org/wiki/McCrae%27s_Battalion

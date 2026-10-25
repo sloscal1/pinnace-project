@@ -29,4 +29,6 @@ A memorial to the Football Battalion was unveiled in 2010 in Longueval, France. 
 
 A granite memorial to the three Clapton Orient players who died in the Battle of the Somme whilst members of the battalion was unveiled in 2011, located in Northern France. Over 200 Leyton Orient supporters travelled for the unveiling, which commemorated the lives of Richard McFadden 1889-1916, William Jonas 1890-1916, and George Scott 1885-1916.
 
-With great thanks to the original author who posted to www.wikipedia.org
+With great thanks to the original author who posted to www.wikipedia.org[^wikipedia]
+
+[^wikipedia]: Text adapted from "Football Battalion". Wikipedia. https://en.wikipedia.org/wiki/Football_Battalion

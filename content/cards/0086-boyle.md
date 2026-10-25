@@ -40,6 +40,10 @@ By then, he was 33 and his career was coming to an end. That season was to be hi
 
 After his playing career, he had a spell coaching in Germany.
 
-Boyle served as a gunner in the Royal Field Artillery during the First World War and was wounded in 1917.[6] After the war, Boyle worked as a landlord, but was committed to a psychiatric hospital in 1930. He died at Whittingham ten years later, and was buried in an unmarked grave in Hoyland.
+Boyle served as a gunner in the Royal Field Artillery during the First World War and was wounded in 1917.[^6] After the war, Boyle worked as a landlord, but was committed to a psychiatric hospital in 1930. He died at Whittingham ten years later, and was buried in an unmarked grave in Hoyland.
+
+## Sources
+
+[^6]: "Thomas William Boyle | Service Record". Football & the First World War. https://www.footballandthefirstworldwar.org/tommy-boyle-service-record/ (cited in "Tommy Boyle (footballer, born 1886)", Wikipedia, https://en.wikipedia.org/wiki/Tommy_Boyle_(footballer,_born_1886))
 
 ## Collector notes

@@ -301,3 +301,13 @@ html[data-style~="album"][data-style~="club"] body[style] .tile { border-top: 0;
 html[data-style~="album"][data-style~="club"] body[style] .grid { border-top: 8px solid var(--club1); }
 
 @media print { .style-picker { display: none; } }
+
+/* footnotes */
+.fnref { line-height: 0; font: 600 .7em var(--sans); }
+.fnref a { text-decoration: none; padding: 0 .1em; }
+.sources ol { font: 14px/1.5 var(--sans); padding-left: 1.6rem; overflow-wrap: anywhere; }
+.sources li { margin: .3rem 0; }
+.sources .back { text-decoration: none; }
+.sources li:target, .fnref a:target { background: var(--flag-bg); }
+[id^="fn-"], [id^="ref-"] { scroll-margin-top: 9rem; }
+.sources .untraced { color: var(--muted); font-style: italic; }

@@ -170,13 +170,16 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id, pages_to_se
                  if target else " (not yet included in this demo)")
         flags.append(f"The full biography is on source page {c['see_page']}{where}.")
     flag_html = "".join(f'<p class="flag">{f}</p>' for f in flags)
-    rep = ("<h2>Representative honours</h2><ul>" + "".join(f"<li>{esc(r)}</li>" for r in c["representative"])
+    fn = Notes(c.get("sources"))
+    check_sources(f"content/cards/{c['id']}.md", c["bio"] + c["collector_notes"] + c["representative"]
+                  + c["honours"], c.get("sources") or {})
+    rep = ("<h2>Representative honours</h2><ul>" + "".join(f"<li>{inline(r, fn)}</li>" for r in c["representative"])
            + "</ul>") if c["representative"] else ""
-    hon = ("<h2>Honours</h2><ul>" + "".join(f"<li>{esc(h)}</li>" for h in c["honours"]) + "</ul>"
+    hon = ("<h2>Honours</h2><ul>" + "".join(f"<li>{inline(h, fn)}</li>" for h in c["honours"]) + "</ul>"
            ) if c["honours"] else ""
-    bio = "".join(f"<p>{esc(b)}</p>" for b in c["bio"] if not re.match(r"^see page", b, re.I))
+    bio = "".join(f"<p>{inline(b, fn)}</p>" for b in c["bio"] if not re.match(r"^see page", b, re.I))
     bio = f"<h2>Biography</h2>{bio}" if bio else ""
-    notes = "".join(f"<p>{esc(n)}</p>" for n in c["collector_notes"])
+    notes = "".join(f"<p>{inline(n, fn)}</p>" for n in c["collector_notes"])
     notes = f'<h2>Collector notes</h2><div class="collector">{notes}</div>' if notes else ""
     also = sorted({sid for e in c["career"] for p in club_parts(e["club"])
                    for sid in [resolve(p, aliases)] if sid and sid != sec["id"]})
@@ -198,6 +201,7 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id, pages_to_se
     {also_html}
     {career_table(c, aliases, up)}
     {notes}{rep}{bio}{hon}
+    {fn.html()}
     <p class="source">Source: page {c['source_page']} of the Pinnace Bio Project.</p>
   </div>
 </article>"""
@@ -289,8 +293,81 @@ def blurb(md, n=160):
     return text if len(text) <= n else text[:n].rsplit(" ", 1)[0] + "…"
 
 
-def render_md(md):
-    """Minimal Markdown: ### headings, - lists and paragraphs."""
+# A web address; brackets inside it are kept when balanced, e.g. wiki/David_Steele_(footballer).
+URL = re.compile(r"\b(?:https?://|www\.)(?:\([^\s()<\[\]]*\)|[^\s()<\[\]])*(?:\([^\s()<\[\]]*\)|[^\s()<\[\].,;:!?'\"])")
+
+
+class Notes:
+    """Footnotes for one page, numbered in the order they are first cited."""
+
+    def __init__(self, defs=None):
+        self.defs, self.order = dict(defs or {}), []
+
+    def ref(self, m):
+        key = m.group(1)
+        first = key not in self.order
+        if first:
+            self.order.append(key)
+        n = self.order.index(key) + 1
+        anchor = f' id="ref-{esc(key)}"' if first else ""
+        return f'<sup class="fnref"><a href="#fn-{esc(key)}"{anchor}>{n}</a></sup>'
+
+    def html(self):
+        keys = [k for k in self.order if k in self.defs] + [k for k in self.defs if k not in self.order]
+        if not keys:
+            return ""
+        items = "".join(
+            f'<li id="fn-{esc(k)}">{source_html(self.defs[k])}'
+            + (f' <a class="back" href="#ref-{esc(k)}" aria-label="Back to the text">↩</a>' if k in self.order else "")
+            + "</li>" for k in keys)
+        return f'<section class="sources"><h2>Sources</h2><ol>{items}</ol></section>'
+
+
+TODO_SOURCE = "TO TRACE:"  # set by tools/extract.py on citations whose source is not known yet
+PROBLEMS = []  # citations to fix, printed at the end of the build
+
+
+def source_html(text):
+    if text.startswith(TODO_SOURCE):
+        return '<span class="untraced">Source not yet traced.</span>'
+    return inline(text)
+
+
+def check_sources(where, text_parts, defs):
+    """Note citations that point nowhere, and sources still waiting to be traced."""
+    cited = set(re.findall(r"\[\^([\w-]+)\]", " ".join(text_parts)))
+    for k in sorted(cited - set(defs)):
+        PROBLEMS.append(f"{where}: [^{k}] has no source line")
+    for k, v in defs.items():
+        if v.startswith(TODO_SOURCE):
+            PROBLEMS.append(f"{where}: [^{k}] source not traced yet")
+    for m in re.findall(r"(?<!\^)\[\d+\]", " ".join(text_parts)):
+        PROBLEMS.append(f"{where}: bare marker {m} should be a footnote like [^{m[1:-1]}]")
+
+
+def link(url):
+    href = url if url.startswith("http") else "https://" + url
+    href = re.sub(r"^https://www\.([\w-]+\.wordpress\.com)", r"https://\1", href)  # WordPress has no www.
+    return f'<a href="{href}">{url}</a>'
+
+
+def inline(text, notes=None):
+    """Escape a line of text, link web addresses, and turn [^key] into a footnote reference.
+
+    An address written as <https://...> is linked exactly; bare ones lose trailing punctuation."""
+    parts = re.split(r"<(https?://[^\s>]+)>", text)
+    out = "".join(link(esc(part)) if i % 2 else URL.sub(lambda m: link(m.group(0)), esc(part))
+                  for i, part in enumerate(parts))
+    if notes is not None:
+        out = re.sub(r"\[\^([\w-]+)\]", notes.ref, out)
+    return out
+
+
+def render_md(md, notes=None):
+    """Minimal Markdown: ### headings, - lists, paragraphs and [^key] footnotes (collected in `notes`)."""
+    md, defs = content.split_footnotes(md)
+    if notes is not None:
+        notes.defs.update(defs)
     out = []
     for block in re.split(r"\n\s*\n", md or ""):
         block = block.strip()
@@ -300,9 +377,9 @@ def render_md(md):
             level = min(len(block) - len(block.lstrip("#")), 4)
             out.append(f"<h{level}>{esc(block.lstrip('#').strip())}</h{level}>")
         elif block.startswith("- "):
-            out.append("<ul>" + "".join(f"<li>{esc(i)}</li>" for i in content.bullets(block)) + "</ul>")
+            out.append("<ul>" + "".join(f"<li>{inline(i, notes)}</li>" for i in content.bullets(block)) + "</ul>")
         else:
-            out.append("<p>" + esc(re.sub(r"\s*\n\s*", " ", block)) + "</p>")
+            out.append("<p>" + inline(re.sub(r"\s*\n\s*", " ", block), notes) + "</p>")
     return "".join(out)
 
 
@@ -312,15 +389,19 @@ def feature_page(f, teams_by_id):
     team = teams_by_id.get(f.get("team"))
     crumb = (f' › <a href="{up}teams/{team["id"]}.html">{esc(team["title"])}</a>' if team
              else f' › <a href="{up}features.html#about">About the collection</a>')
+    fn = Notes()
+    body_text, defs = content.split_footnotes(f["body"])
+    check_sources(f"content/features/{f['id']}.md", [body_text], defs)
     related = [teams_by_id[t] for t in f["related"] if t in teams_by_id]
     related = ('<p class="also">Teams mentioned: ' + ", ".join(
         f'<a href="{up}teams/{t["id"]}.html">{esc(t["title"])}</a>' for t in related) + "</p>") if related else ""
     body = f"""<p class="crumbs"><a href="{up}features.html">Features</a>{crumb}</p>
 <article class="feature-article">
 <h1>{esc(f['title'])}</h1>
-{render_md(f['body'])}
+{render_md(f['body'], fn)}
 {f'<div class="gallery">{figs}</div>' if figs else ''}
 {related}
+{fn.html()}
 <p class="source">Source: page{'s' if len(f['pages']) > 1 else ''} {', '.join(f['pages'])} of the Pinnace Bio Project.</p>
 </article>"""
     return page(f["title"], body, depth=1, club=teams_by_id.get(f.get("team")))
@@ -441,6 +522,8 @@ def main():
         dupes = [o for o in by_number[c["number"]] if o is not c]
         (SITE / "players" / f"{c['id']}.html").write_text(
             player_page(c, sections_by_id[c["team"]], dupes, aliases, sections_by_id, pages_to_section))
+    if PROBLEMS:
+        print(f"{len(PROBLEMS)} citation(s) to check:\n  " + "\n  ".join(PROBLEMS))
     print(f"Built {len(teams)} teams, {len(features)} features and {len(cards)} player pages into {SITE}")
 
 
