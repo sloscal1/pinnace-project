@@ -124,7 +124,9 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 <main>
 {body}
 </main>
-<footer class="site">Text and research from the Pinnace Bio Project. Your checklist is saved in this browser only.</footer>
+<footer class="site">© Michael Postles (compilation and original text). Text adapted from Wikipedia is under
+CC BY-SA; other sources are credited where used. <a href="{up}copyright.html">Copyright and sources</a>.<br>
+Your checklist is saved in this browser only.</footer>
 <div class="floating no-print">{pager(key, up) if key else ""}{style_picker()}</div>
 <script src="{up}search-index.js?v={VERSION}"></script>
 <script src="{up}app.js?v={VERSION}"></script>
@@ -657,6 +659,14 @@ def render_checklist(md, card_ids, pages):
     return "".join(out)
 
 
+def copyright_page():
+    """COPYRIGHT.md at the top of the repository, as a page of the site."""
+    md = (ROOT / "COPYRIGHT.md").read_text()
+    title = md.splitlines()[0].lstrip("# ").strip()
+    body = render_md("\n".join(md.splitlines()[1:]).replace("\n## ", "\n### "))
+    return page(title, f'<article class="feature-article"><h1>{esc(title)}</h1>{body}</article>')
+
+
 def content_page_key(pg):
     m = re.match(r"(\d+)([a-z]*)", pg)
     return (int(m.group(1)), m.group(2)) if m else (10 ** 6, pg)
@@ -775,6 +785,7 @@ def main():
     (SITE / "players.html").write_text(players_page(cards, sections_by_id))
     (SITE / "checklist.html").write_text(checklist_page(cards, sections_by_id))
     (SITE / "maintainers.html").write_text(maintainers_page(teams, features, cards))
+    (SITE / "copyright.html").write_text(copyright_page())
     for f in features:
         (SITE / "features" / f"{f['id']}.html").write_text(feature_page(f, sections_by_id))
     for s in teams:

@@ -77,6 +77,13 @@ To fix a biography or add a card, open its file under `content/` on github.com, 
 icon, edit, and commit. Others can propose changes as pull requests for the maintainer to review.
 Images are added with "Add file → Upload files" into `content/img/`.
 
+## Copyright
+
+`COPYRIGHT.md` is the copyright statement; the site shows it as `copyright.html`, linked from every
+page's footer. In short: the compilation and Michael Postles's own text are © Michael Postles; text
+adapted from Wikipedia stays under CC BY-SA; other sources remain their authors' and are credited
+where used.
+
 ## Build locally
 
 The build uses only the Python standard library.

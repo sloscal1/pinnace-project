@@ -23,6 +23,8 @@ anywhere outside the generated sections.
 - [ ] p303: Andrew Nesbit Wilson's biography has no "Card" heading either; it is a note on the Dunfermline page.
 - [ ] p67, p183, p186, p189, p210, p592, p856: one more card scan than cards. The extra scan is with the team's photos; it may be a second version of one of the cards.
 - [ ] p144 (Bristol Rovers): a page about 'Tancy' Lea's 1921 Cup Final shirt and programme, shown as team photos and a note. It could become a feature.
+- [ ] Copyright: confirm the statement in `COPYRIGHT.md` with Michael Postles.
+- [ ] Wikipedia credit: many card biographies are adapted from Wikipedia without naming the article. CC BY-SA asks for credit, so add a source footnote linking the article (as the features have) when checking each card.
 - [ ] Unidentified players: the compiler could not trace these and they are notes on the team page. Where the page gives card numbers (p236, p281) they are also name-only cards. p220 Civil Service, p224 Clapton, p236 Corinthians, p281 Dulwich Hamlet, p658 Oxford City, p906 Tufnell Park, p948 West Norwood, p980 Wycombe Wanderers.
 
 ## Card numbers given to different players (generated)
