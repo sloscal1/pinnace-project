@@ -1,0 +1,54 @@
+---
+uid: 1025
+number: 204
+name: John Reid 'Jack' Smith
+full_name: John Reid Smith
+nickname: Jack
+surname: Smith
+name_note: 
+team: kilmarnock
+position: Centre Forward
+height: 
+born: 2nd April 1895 (or 1896) Pollockshaws, Glasgow, Scotland
+died: 3rd September, 1946, Whitchurch, Shropshire, England
+image: card-0204-smith.jpg
+source_page: 442
+see_page: 
+---
+
+## Career
+
+| Years | Club | Apps | Goals | Note |
+|---|---|---|---|---|
+| 1913 | Battlefield Swifts (Glasgow, possibly known as Battlefield FC) |  |  |  |
+| 1919-1921 | Kilmarnock | 53 | 32 |  |
+| 1921-1922 | Cowdenbeath |  |  |  |
+| 1921-1923 | G. Rangers |  |  |  |
+| 1922-1928 | Bolton Wan | 148 | 72 | Ashton National. |
+| 1927-1933 | Bury | 156 | 106 |  |
+| 1933-1934 | Rochdale | 25 | 8 |  |
+| 1934-1935 | Whistons Temperance |  |  |  |
+
+## Honours
+
+- Kilmarnock: Scottish Cup winners: 1920. Cowdenbeath: Scottish League Division Two runners-up: 1921–22. Bolton Wanderers:
+
+## Biography
+
+Smith was born in Pollokshaws, to the south of Glasgow and played youth football with Battlefield Juniors, before joining Albion Rovers. From there he moved on to Kilmarnock, where he scored seven of their 14 goals on the way to winning the Scottish Cup in 1920, including scoring the third goal for Kilmarnock in the final when they defeated his former team, Albion Rovers, 3–2.
+
+Following a disagreement with Kilmarnock, Smith joined Cowdenbeath, where during 1921–22, he netted 45 goals as they finished runners-up in Division Two. At the season's end he joined Rangers for £3,000 (£118,000+ now), making his debut at Ibrox Park on 15 August 1922, scoring in a 2–0 victory over Alloa Athletic. He only made two further appearances for Rangers, scoring once more, before losing his place to Geordie Henderson. Bolton Wanderers signed him three months later.
+
+Smith arrived at Burnden Park in November 1922 as a replacement centre-forward for Frank Roberts who had joined Manchester City. He scored an 89th-minute winner on his debut, against Manchester City, but quickly became thought of as a "crock", for he always appeared to be limping. Despite this, he managed to get his fair share of goals, scoring 21 goals in 35 games in the 1924–25 season, thus helping Bolton to finish in third place in the First Division table.
+
+He netted Bolton's second goal in the 1923 FA Cup Final against West Ham United. The goal was scored in controversial circumstances when outside-forward Ted Vizard played the ball into a central position and Smith hit the ball past Hufton in the West Ham goal. West Ham's players claimed that the ball had not entered the goal but rebounded into play from the goalpost, but referee D. H. Asson overruled them, stating that in his view the ball had entered the goal but then rebounded off a spectator.
+
+Smith won another winners' medal in 1926 in a 1–0 victory over Manchester City. After the arrival of Harold Blackmore, Smith found it difficult to hold his place in the first team, and in March 1928, Bury paid £1,500 (£76,000+ now) for him. "The Shakers" were still in the First Division and Smith netted a hat-trick on his debut against Sheffield Wednesday. At Bury he scored 107 goals in 157 League games before joining Rochdale in August 1933.
+
+In 1939 he was appointed assistant trainer at Cardiff City, who were managed by another ex-Wanderer, Bill Jennings.
+
+Smith died at Whitchurch, Cardiff in September 1946.
+
+FA Cup winners: 1923 and 1926.
+
+## Collector notes

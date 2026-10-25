@@ -4,6 +4,7 @@ Usage: .venv/bin/python tools/build.py
 
 Writes site/ (plain HTML/CSS/JS, no server needed; upload the folder to S3 or open locally).
 """
+import difflib
 import hashlib
 import html
 import json
@@ -67,7 +68,7 @@ def style_picker():
     return f'<label class="style-picker no-print">Style <select id="style-picker">{opts}</select></label>'
 
 
-def page(title, body, depth=0, active="", club=None):
+def page(title, body, depth=0, active="", club=None, robots=""):
     up = "../" * depth
     nav = [("index.html", "Teams", "teams"), ("features.html", "Features", "features"),
            ("players.html", "Players", "players"), ("checklist.html", "My checklist", "checklist")]
@@ -77,7 +78,7 @@ def page(title, body, depth=0, active="", club=None):
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}
 <title>{esc(title)} · Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
 {head_script()}
@@ -154,21 +155,32 @@ def career_table(c, aliases, up):
             + "".join(rows) + "</tbody></table>")
 
 
-def player_page(c, sec, others_same_number, aliases, sections_by_id, pages_to_section):
+def same_player(a, b):
+    """Two cards with one number are versions of the same card if the surnames (nearly) agree."""
+    sa, sb = (a.get("surname") or "").lower(), (b.get("surname") or "").lower()
+    return bool(sa and sb) and difflib.SequenceMatcher(None, sa, sb).ratio() >= 0.75
+
+
+def player_page(c, sec, others_same_number, aliases, sections_by_id):
     up = "../"
     facts = [("Card", f"No. {c['number']}"), ("Position", c.get("position")), ("Height", c.get("height")),
              ("Born", c.get("born")), ("Died", c.get("died"))]
     dl = "".join(f"<dt>{k}</dt><dd>{esc(str(v))}</dd>" for k, v in facts if v)
     flags = []
-    if others_same_number:
-        links = ", ".join(f'<a href="{o["id"]}.html">{esc(o["name"])}</a>' for o in others_same_number)
-        flags.append(f"Card number {c['number']} is also given to {links} in the source pages. "
+    variants = [o for o in others_same_number if same_player(c, o)]
+    others = [o for o in others_same_number if o not in variants]
+    if variants:
+        links = ", ".join(f'<a href="{o["id"]}.html">{esc(sections_by_id[o["team"]]["title"])}</a>' for o in variants)
+        flags.append(f"Card {c['number']} was also issued with a different club on the front: {links}. "
+                     "Each version is listed separately in the checklist.")
+    if others:
+        links = ", ".join(f'<a href="{o["id"]}.html">{esc(o["name"])}</a>' for o in others)
+        flags.append(f"Card number {c['number']} is also given to {links}. "
                      "One of these may be a typo.")
     if c.get("see_page"):
-        target = pages_to_section.get(str(c["see_page"]))
-        where = (f' (<a href="{up}teams/{target["id"]}.html">{esc(target["title"])}</a>)'
-                 if target else " (not yet included in this demo)")
-        flags.append(f"The full biography is on source page {c['see_page']}{where}.")
+        t = SOURCES.target(c["see_page"], c["number"], c.get("surname") or "")
+        if t and t[0] != f"players/{c['id']}.html":
+            flags.append(f'The full biography is on <a href="{up}{t[0]}">{esc(t[1])}</a>.')
     flag_html = "".join(f'<p class="flag">{f}</p>' for f in flags)
     fn = Notes(c.get("sources"))
     check_sources(f"content/cards/{c['id']}.md", c["bio"] + c["collector_notes"] + c["representative"]
@@ -188,7 +200,7 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id, pages_to_se
                  ) if also else ""
     img = (f'<img class="scan" src="{up}img/{c["image"]}" alt="Card {c["number"]}: {esc(c["name"])}">'
            if c.get("image") else "")
-    nick = f'<p class="note">{esc(c["name_note"])}</p>' if c.get("name_note") else ""
+    nick = f'<p class="note">{inline(c["name_note"])}</p>' if c.get("name_note") else ""
     body = f"""<p class="crumbs"><a href="{up}index.html">Teams</a> › <a href="{up}teams/{sec['id']}.html">{esc(sec['title'])}</a></p>
 <article class="player">
   <div class="player-card">{img}
@@ -202,7 +214,6 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id, pages_to_se
     {career_table(c, aliases, up)}
     {notes}{rep}{bio}{hon}
     {fn.html()}
-    <p class="source">Source: page {c['source_page']} of the Pinnace Bio Project.</p>
   </div>
 </article>"""
     return page(c["name"], body, depth=1, club=sec)
@@ -231,10 +242,10 @@ def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
             f'<a href="{up}features/{f["id"]}.html">{esc(f["title"])}</a>' for f in mentioned_in) + "</p>")
     if cards:
         count = (f'<span data-count-have="{" ".join(str(c["uid"]) for c in cards)}">0</span> of {len(cards)} '
-                 f'cards collected · source pages {sec["pages"][0]}–{sec["pages"][-1]}')
+                 f'cards collected')
         grid = '<ul class="grid">' + "".join(card_tile(c, up) for c in cards) + "</ul>"
     else:
-        count = f'Source pages {sec["pages"][0]}–{sec["pages"][-1]}'
+        count = ""
         grid = ('<p class="flag">The player biographies for this team have not been added to the site yet.</p>')
     tin = ""
     if transfers_in:
@@ -345,19 +356,106 @@ def check_sources(where, text_parts, defs):
         PROBLEMS.append(f"{where}: bare marker {m} should be a footnote like [^{m[1:-1]}]")
 
 
+class SourcePages:
+    """Where each page of the original Publisher files ended up on the site.
+
+    The text still says things like "(see page 136)"; the site has no page numbers, so those become
+    links to the player, feature or team the page holds."""
+
+    def __init__(self, teams, features, cards):
+        self.feature = {p: f for f in features for p in f["pages"]}
+        self.team = {p: t for t in teams for p in t["pages"]}
+        self.cards = {}
+        for c in cards:
+            self.cards.setdefault(str(c["source_page"]), []).append(c)
+
+    def target(self, page, number=None, before=""):
+        """(path from the site root, label) for something on `page`, or None."""
+        page = str(page)
+        if page in self.feature:
+            f = self.feature[page]
+            return f"features/{f['id']}.html", f["title"]
+        here = self.cards.get(page, [])
+        pick = [c for c in here if number and c["number"] == number]
+        pick = pick or [c for c in here if c.get("surname") and c["surname"] in before[-150:]]
+        pick = pick or (here if len(here) == 1 else [])
+        if pick:
+            return f"players/{pick[-1]['id']}.html", pick[-1]["name"]
+        if page in self.team:
+            t = self.team[page]
+            return f"teams/{t['id']}.html", t["title"]
+        return None
+
+
+SOURCES = None  # set in main()
+PAGE = r"\d{1,4}[a-z]?\b"
+PAGES = rf"pages?\s+({PAGE})(?:\s*(?:&|and|-|to)\s*({PAGE}))?"
+PAGE_REF = re.compile(
+    # "(see page 136)", "(See article, page 155 & 156)", "(see Card 1858, Page 585)"
+    rf"(?P<paren>\s*\(([^()]*\b{PAGES}[^()]*)\))"
+    # "Continues on page 478." / "Continued page 71c": continuations are already joined up
+    rf"|(?P<cont>\s*\b(?i:continue[sd]?)\s+(?:on\s+|from\s+)?(?-i:{PAGES})\.?)"
+    # "see page 51", "is on page 6 of this book", "card 137 page 24"
+    # (lower-case "page" only: "William Page 1896-1981" is a person)
+    rf"|(?P<bare>\b(?i:on\s+|at\s+)?(?-i:{PAGES})(?:\s+(?:of|in)\s+this\s+book)?)", re.I)
+
+
+def page_refs(text, up):
+    """Split text into plain strings and HTML for its page cross-references.
+
+    References become links to whatever the page holds now; ones that point nowhere are dropped."""
+    out, last = [], 0
+    for m in PAGE_REF.finditer(text):
+        out.append(text[last:m.start()])
+        last = m.end()
+        if m.group("cont"):
+            continue
+        whole = m.group(0)
+        number = re.search(r"\bcard\s+(\d+)", m.group(2) if m.group("paren") else text[max(0, m.start() - 30):m.end()], re.I)
+        pages = re.findall(rf"(?:pages?\s+|&\s*|and\s+|-\s*|to\s+)({PAGE})", whole, re.I)
+        links = []
+        for pg in pages:
+            t = SOURCES and SOURCES.target(pg, int(number.group(1)) if number else None, text[:m.start()])
+            if t and t not in links:
+                links.append(t)
+        html = " and ".join(f'<a href="{up}{h}">{esc(lbl)}</a>' for h, lbl in links)
+        if m.group("paren"):
+            if links:
+                out.append(("html", f" (see {html})"))
+        else:
+            lead = re.match(r"\s*(on|at)\s", whole, re.I)
+            out.append(("html", f"with {html}" if lead else html) if links else ("drop", ""))
+    out.append(text[last:])
+    # A sentence pointing at a page that is not on the site ("* See page 86 in this book.") goes.
+    while any(isinstance(seg, tuple) and seg[0] == "drop" for seg in out):
+        i = next(i for i, seg in enumerate(out) if isinstance(seg, tuple) and seg[0] == "drop")
+        before = out[i - 1] if i and isinstance(out[i - 1], str) else ""
+        after = out[i + 1] if i + 1 < len(out) and isinstance(out[i + 1], str) else ""
+        start = max(before.rfind(". "), before.rfind("! "), before.rfind("? "))
+        start = start + 1 if start >= 0 else 0
+        end = re.search(r"[.!?](\s|$)", after)
+        before, after = before[:start], after[end.end():] if end else ""
+        out[i - 1:i + 2] = [before.rstrip() + (" " if before.strip() and after.strip() else "") + after.lstrip()]
+    return out
+
+
 def link(url):
     href = url if url.startswith("http") else "https://" + url
     href = re.sub(r"^https://www\.([\w-]+\.wordpress\.com)", r"https://\1", href)  # WordPress has no www.
     return f'<a href="{href}">{url}</a>'
 
 
-def inline(text, notes=None):
-    """Escape a line of text, link web addresses, and turn [^key] into a footnote reference.
+def inline(text, notes=None, up="../"):
+    """Escape a line of text, link web addresses and page cross-references, and turn [^key] into a
+    footnote reference.
 
     An address written as <https://...> is linked exactly; bare ones lose trailing punctuation."""
-    parts = re.split(r"<(https?://[^\s>]+)>", text)
-    out = "".join(link(esc(part)) if i % 2 else URL.sub(lambda m: link(m.group(0)), esc(part))
-                  for i, part in enumerate(parts))
+    def plain(t):
+        parts = re.split(r"<(https?://[^\s>]+)>", t)
+        return "".join(link(esc(part)) if i % 2 else URL.sub(lambda m: link(m.group(0)), esc(part))
+                       for i, part in enumerate(parts))
+
+    out = "".join(seg[1] if isinstance(seg, tuple) else plain(seg) for seg in page_refs(text, up))
     if notes is not None:
         out = re.sub(r"\[\^([\w-]+)\]", notes.ref, out)
     return out
@@ -402,9 +500,139 @@ def feature_page(f, teams_by_id):
 {f'<div class="gallery">{figs}</div>' if figs else ''}
 {related}
 {fn.html()}
-<p class="source">Source: page{'s' if len(f['pages']) > 1 else ''} {', '.join(f['pages'])} of the Pinnace Bio Project.</p>
 </article>"""
     return page(f["title"], body, depth=1, club=teams_by_id.get(f.get("team")))
+
+
+def maintainers_page(teams, features, cards):
+    """An unlisted page mapping each page of the original Publisher files to what it became here.
+
+    Only the maintainer has the .pub files; this is how they find the page behind a site page (and
+    the other way round) when checking or fixing something."""
+    import csv
+    files = {}
+    path = content.CONTENT / "source-pages.csv"
+    if path.exists():
+        with path.open() as f:
+            files = {r["page"]: r["file"] for r in csv.DictReader(f)}
+    feature = {p: f for f in features for p in f["pages"]}
+    team = {p: t for t in teams for p in t["pages"]}
+    titles = {t["pages"][0]: t for t in teams if t["pages"]}
+    on_page = {}
+    for c in cards:
+        on_page.setdefault(str(c["source_page"]), []).append(c)
+    rows = []
+    for pg in sorted(set(files) | set(feature) | set(team) | set(on_page), key=content_page_key):
+        what = []
+        if pg in feature:
+            f = feature[pg]
+            what.append(f'Feature: <a href="features/{f["id"]}.html">{esc(f["title"])}</a>')
+        if pg in titles:
+            what.append("Title page")
+        what += [f'<a href="players/{c["id"]}.html">No. {c["number"]} {esc(c["name"])}</a>'
+                 for c in sorted(on_page.get(pg, []), key=lambda c: c["number"])]
+        sec = team.get(pg) or (feature[pg].get("team") and {"id": feature[pg]["team"]} if pg in feature else None)
+        sec = next((t for t in teams if sec and t["id"] == sec["id"]), None)
+        sec_html = f'<a href="teams/{sec["id"]}.html">{esc(sec["title"])}</a>' if sec else ""
+        search = " ".join([pg, "p" + pg, files.get(pg, ""), sec["title"] if sec else ""]
+                          + [c["name"] + " " + str(c["number"]) for c in on_page.get(pg, [])]).lower()
+        rows.append(f'<tr id="p{pg}" data-search="{esc(search)}"><td class="n">{pg}</td><td>{esc(files.get(pg, ""))}</td>'
+                    f'<td>{sec_html}</td><td>{"<br>".join(what) or "<span class=note>Nothing on the site</span>"}</td></tr>')
+    checklist_md = content.CONTENT / "maintenance.md"
+    checklist = (render_checklist(checklist_md.read_text(), {c["id"] for c in cards}, set(files) | set(team))
+                 if checklist_md.exists() else "")
+    body = f"""<h1>Maintainers</h1>
+<p class="lede">The maintenance checklist and an index of the original Publisher pages. This page is not
+linked from the rest of the site, but anyone with the address can open it.</p>
+<nav class="toc"><a href="#checklist">Checklist</a> · <a href="#page-index">Page index</a></nav>
+<section id="checklist" class="checklist">
+{checklist}
+</section>
+<section id="page-index">
+<h2>Page index</h2>
+<p>Where each page of the original Publisher files ended up. The site itself shows no page numbers; the
+content files keep them (<code>source_page</code>, <code>see_page</code>, <code>pages</code>), and
+references like "(see page 136)" in the text are shown as links to whatever that page holds.</p>
+<input class="search" type="search" placeholder="Filter by page (e.g. 26c), file, team, player or card number" data-filter="#sources">
+<table class="list" id="sources"><thead><tr><th class="n">Page</th><th>Publisher file</th><th>Team section</th><th>On the site</th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table>
+</section>"""
+    return page("Maintainers", body, robots="noindex")
+
+
+def checklist_inline(text, card_ids, pages):
+    """Markdown-ish inline text for the checklist: `card-id` links to the card, p344 to the page index."""
+    out = []
+    for i, part in enumerate(re.split(r"`([^`]*)`", text)):
+        if i % 2:
+            out.append(f'<a href="players/{part}.html"><code>{esc(part)}</code></a>' if part in card_ids
+                       else f"<code>{esc(part)}</code>")
+            continue
+        h = esc(part)
+        h = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", h)
+        h = re.sub(r"\bp(\d{1,4}[a-z]?)\b",
+                   lambda m: f'<a href="#p{m.group(1)}">{m.group(0)}</a>' if m.group(1) in pages else m.group(0), h)
+        out.append(h)
+    return "".join(out)
+
+
+def render_checklist(md, card_ids, pages):
+    """content/maintenance.md as HTML: sections with progress counts, task boxes, collapsible groups."""
+    def count(lines):
+        boxes = [l for l in lines if re.match(r"- \[[ xX]\] ", l)]
+        return sum(1 for l in boxes if not l.startswith("- [ ]")), len(boxes)
+
+    lines = [l for l in md.splitlines() if not l.startswith("<!--") and not l.startswith("# ")]
+    done, total = count(lines)
+    out = [f'<div class="progress"><div style="width:{100 * done / max(total, 1):.1f}%"></div></div>'
+           f'<p class="count">{done} of {total} items done</p>']
+    para, items = [], []
+
+    def flush():
+        if para:
+            out.append("<p>" + checklist_inline(" ".join(para), card_ids, pages) + "</p>")
+            para.clear()
+        if items:
+            out.append('<ul class="tasks">' + "".join(items) + "</ul>")
+            items.clear()
+
+    for i, line in enumerate(lines):
+        m = re.match(r"- \[([ xX])\] (.*)", line)
+        if line.startswith("## "):
+            flush()
+            j = next((k for k in range(i + 1, len(lines)) if lines[k].startswith("## ")), len(lines))
+            d, t = count(lines[i + 1:j])
+            out.append(f"<h2>{esc(line[3:])}" + (f' <small>{d} / {t}</small>' if t else "") + "</h2>")
+        elif line.startswith("<details>"):
+            flush()
+            j = next((k for k in range(i + 1, len(lines)) if lines[k].startswith("</details>")), len(lines))
+            d, t = count(lines[i + 1:j])
+            label = re.sub(r"<[^>]+>", "", line)
+            out.append(f"<details><summary>{esc(label)} <small>{d} / {t} done</small></summary>")
+        elif line.startswith("</details>"):
+            flush()
+            out.append("</details>")
+        elif m:
+            if para:
+                flush()
+            ticked = m.group(1) != " "
+            items.append(f'<li class="task{" done" if ticked else ""}"><input type="checkbox" disabled'
+                         f'{" checked" if ticked else ""}> <span>{checklist_inline(m.group(2), card_ids, pages)}</span></li>')
+        elif line.startswith("- "):
+            items.append(f"<li>{checklist_inline(line[2:], card_ids, pages)}</li>")
+        elif line.strip():
+            if items:
+                flush()
+            para.append(line.strip())
+        else:
+            flush()
+    flush()
+    return "".join(out)
+
+
+def content_page_key(pg):
+    m = re.match(r"(\d+)([a-z]*)", pg)
+    return (int(m.group(1)), m.group(2)) if m else (10 ** 6, pg)
 
 
 def players_page(cards, sections_by_id):
@@ -412,7 +640,7 @@ def players_page(cards, sections_by_id):
         f"<tr data-search=\"{esc((c['name'] + ' ' + str(c['number']) + ' ' + sections_by_id[c['team']]['title']).lower())}\">"
         f"<td class=n>{c['number']}</td><td><a href=\"players/{c['id']}.html\">{esc(c['name'])}</a></td>"
         f"<td>{esc(sections_by_id[c['team']]['title'])}</td><td>{esc(c.get('position') or '')}</td></tr>"
-        for c in sorted(cards, key=lambda c: (c["surname"], c["full_name"])))
+        for c in sorted(cards, key=lambda c: (c.get("surname") or "", c.get("full_name") or "")))
     body = f"""<h1>Players</h1>
 <input class="search" type="search" placeholder="Search by name, number or team" data-filter="#players">
 <table class="list" id="players"><thead><tr><th class=n>No.</th><th>Name</th><th>Section</th><th>Position</th></tr></thead>
@@ -421,8 +649,8 @@ def players_page(cards, sections_by_id):
 
 
 def checklist_page(cards, sections_by_id):
-    data = [{"id": c["id"], "uid": c["uid"], "n": c["number"], "name": c["name"], "sur": c["surname"],
-             "first": c["full_name"], "team": sections_by_id[c["team"]]["title"],
+    data = [{"id": c["id"], "uid": c["uid"], "n": c["number"], "name": c["name"], "sur": c.get("surname") or "",
+             "first": c.get("full_name") or "", "team": sections_by_id[c["team"]]["title"],
              "pos": c.get("position") or ""} for c in cards]
     body = f"""<h1>My checklist</h1>
 <div id="viewing" class="viewing no-print" hidden>
@@ -477,13 +705,16 @@ def search_index(teams, features, cards, sections_by_id):
 
 def main():
     teams, features, cards = content.load_all()
+    for c in cards:
+        c["name"] = c.get("name") or f"Card {c['number']}"  # placeholder entries with no text yet
     site_md = content.CONTENT / "site.md"
     if site_md.exists():
         SETTINGS.update(content.split_front_matter(site_md.read_text())[0])
     if SETTINGS.get("style") not in STYLES:
         raise SystemExit(f"content/site.md: style must be one of {', '.join(STYLES)}")
     sections_by_id = {s["id"]: s for s in teams}
-    pages_to_section = {p: s for s in teams for p in s["pages"]}
+    global SOURCES
+    SOURCES = SourcePages(teams, features, cards)
     aliases = content.team_aliases(teams)
     by_team, by_number = {}, {}
     for c in sorted(cards, key=lambda c: (c["number"], c["id"])):
@@ -509,6 +740,7 @@ def main():
     (SITE / "features.html").write_text(features_index(features, sections_by_id))
     (SITE / "players.html").write_text(players_page(cards, sections_by_id))
     (SITE / "checklist.html").write_text(checklist_page(cards, sections_by_id))
+    (SITE / "maintainers.html").write_text(maintainers_page(teams, features, cards))
     for f in features:
         (SITE / "features" / f"{f['id']}.html").write_text(feature_page(f, sections_by_id))
     for s in teams:
@@ -521,7 +753,7 @@ def main():
     for c in cards:
         dupes = [o for o in by_number[c["number"]] if o is not c]
         (SITE / "players" / f"{c['id']}.html").write_text(
-            player_page(c, sections_by_id[c["team"]], dupes, aliases, sections_by_id, pages_to_section))
+            player_page(c, sections_by_id[c["team"]], dupes, aliases, sections_by_id))
     if PROBLEMS:
         print(f"{len(PROBLEMS)} citation(s) to check:\n  " + "\n  ".join(PROBLEMS))
     print(f"Built {len(teams)} teams, {len(features)} features and {len(cards)} player pages into {SITE}")

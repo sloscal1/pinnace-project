@@ -1,0 +1,39 @@
+---
+uid: 536
+number: 419
+name: James Anderson 'Jimmy' Croal
+full_name: James Anderson Croal
+nickname: Jimmy
+surname: Croal
+name_note: 
+team: chelsea
+position: Inside Forward
+height: 
+born: 27th July 1885 Hutchesontown, Glasgow, Scotland
+died: 16th September 1939 South Petherton, Somerset, England
+image: card-0419-croal.jpg
+source_page: 208
+see_page: 
+---
+
+## Career
+
+| Years | Club | Apps | Goals | Note |
+|---|---|---|---|---|
+| 1905-1910 | G.Rangers | 5 | 0 |  |
+| 1906-1907 | Ayr Parkhouse, Alloa Ath, Dunfermline Ath (Loans) |  |  |  |
+| 1910-1914 | Falkirk | 97 | 31 |  |
+| 1914-1922 | Chelsea | 113 | 22 |  |
+| 1921-1923 | Fulham | 36 | 6 |  |
+
+## Representative
+
+- 1913-1914 Scotland 3 apps also represented the Scottish League XI 3 apps
+
+## Biography
+
+Croal was a lively inside left, who joined Rangers in 1905 from junior football. However, he failed to make the breakthrough to the first team and went out on loan to Ayr Parkhouse, Alloa Athletic and Dunfermline Athletic, before finally leaving Ibrox to sign for Falkirk for a £10 fee in November 1910. At Brockville, his career blossomed, and he won the Scottish Cup in 1913, as well as three international caps for Scotland and five appearances for the Scottish League XI. Croal transferred to Chelsea from Falkirk sometime in 1914. Chelsea paid £2,000 (£161,000+ today) for him and he remained at Stamford Bridge until 1922. He was a member of the Chelsea side that reached the 1915 FA Cup Final. He made a total of 130 appearances for Chelsea, scoring a total of 26 goals. Croal then spent two-and-a-half seasons with Fulham before retiring.
+
+Croal was a schoolmaster by profession. In the summer of 1916, two years since the outbreak of the First World War, he enlisted as a private in the King's Royal Rifle Corps. By March 1918 he had risen to the rank of corporal and finished the war as an acting sergeant
+
+## Collector notes

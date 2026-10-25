@@ -2,7 +2,7 @@
 title: Dunfermline
 order: 302
 pages: 302, 303
-images: 
+images: dunfermline-p303-0.jpg
 colours: #111111, #ffffff
 ---
 

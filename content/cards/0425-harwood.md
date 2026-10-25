@@ -1,0 +1,31 @@
+---
+uid: 1493
+number: 425
+name: John A. Harwood
+full_name: John A. Harwood
+nickname: 
+surname: Harwood
+name_note: 
+team: portsmouth
+position: Centre Half
+height: 
+born: 1st February 1891, Summerstown, London, England
+died: 1956
+image: card-0425-harwood.jpg
+source_page: 693
+see_page: 
+---
+
+## Career
+
+| Years | Club | Apps | Goals | Note |
+|---|---|---|---|---|
+| 1908-1909 | Tooting Graveney, Southend United |  |  |  |
+| 1912-1913 | Chelsea | 4 | 0 |  |
+| 1920-1922 | Portsmouth | 43 | 2 |  |
+| 1922-1924 | Swansea T | 47 | 3 |  |
+| 1924-1927 | Aberdare Ath | 109 | 9 |  |
+| 1927-1928 | Barrow | 4 | 0 |  |
+| 1928 | Royal Naval Volunteer Reserve |  |  |  |
+
+## Collector notes

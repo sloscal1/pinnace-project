@@ -50,6 +50,24 @@ Club colours come from the `colours:` line in each team file (`#primary, #second
 the site's normal colours. The styles themselves are layers in `web/style.css` (search for "styles").
 Every page has a light/dark button; until a visitor uses it, the site follows their device setting.
 
+## Maintainers page and checklist
+
+`maintainers.html` (not linked from the rest of the site) is the maintainer's view:
+
+- **Checklist**: `content/maintenance.md`, shown with progress. It lists what still needs checking
+  or fixing after the move from Publisher. Tick an item by changing `- [ ]` to `- [x]`. Hand-written
+  sections can be edited freely; the sections marked "generated" (card numbers given to different
+  players, sources to trace, cards missing a detail) are refreshed from the content files by
+  `python3 tools/report.py`, which keeps ticks.
+- **Page index**: every page of the original Publisher files, with its file name, team section, and
+  links to the cards or feature built from it. Filter by page ("26c"), file, team, player or number.
+  In the checklist, `p344` links to that row and `0198-mcmenemy` to that card.
+
+The site shows no page numbers, since the book was never published. The content files keep them:
+`source_page` and `see_page` on cards, `pages` on teams and features, and `content/source-pages.csv`
+for the file names. References in the text such as "(see page 136)" are shown on the site as links
+to the player, feature or team that page holds, and dropped if the page is not on the site.
+
 ## Editing on GitHub
 
 The site is published with GitHub Pages. Every push to `main` rebuilds and redeploys it

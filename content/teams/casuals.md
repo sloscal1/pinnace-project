@@ -2,7 +2,7 @@
 title: Casuals
 order: 188
 pages: 188, 189, 190, 191
-images: casuals-p188-0.jpg
+images: casuals-p188-0.jpg, casuals-p189-0.jpg, casuals-p191-0.jpg, casuals-p191-1.jpg, casuals-p191-2.jpg, casuals-p191-3.jpg, casuals-p191-4.jpg, casuals-p191-5.jpg, casuals-p191-6.jpg, casuals-p191-7.jpg, casuals-p191-8.jpg, casuals-p191-9.jpg, casuals-p191-10.jpg
 colours: #5c3317, #f4a6c0
 ---
 

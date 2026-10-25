@@ -2,7 +2,7 @@
 title: Newcastle Utd
 order: 590
 pages: 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601
-images: newcastle-utd-p590-0.jpg
+images: newcastle-utd-p590-0.jpg, newcastle-utd-p592-0.jpg
 colours: #111111, #ffffff
 ---
 

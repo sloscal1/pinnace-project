@@ -311,3 +311,18 @@ html[data-style~="album"][data-style~="club"] body[style] .grid { border-top: 8p
 .sources li:target, .fnref a:target { background: var(--flag-bg); }
 [id^="fn-"], [id^="ref-"] { scroll-margin-top: 9rem; }
 .sources .untraced { color: var(--muted); font-style: italic; }
+
+/* maintainers page */
+.toc { font: 15px var(--sans); margin-bottom: 1rem; }
+.progress { height: 10px; background: var(--rule); border-radius: 5px; overflow: hidden; margin-top: 1rem; }
+.progress div { height: 100%; background: var(--have); }
+.checklist h2 small, .checklist summary small { font: 13px var(--sans); color: var(--muted); font-weight: normal; }
+.tasks { list-style: none; padding: 0; font: 15px/1.5 var(--sans); }
+.tasks li { display: flex; gap: .5rem; align-items: baseline; padding: .25rem 0; border-bottom: 1px solid var(--rule); }
+.tasks li.done span { color: var(--muted); }
+.tasks input { accent-color: var(--have); flex: none; }
+.checklist details { margin: .4rem 0; font: 15px var(--sans); }
+.checklist summary { cursor: pointer; color: var(--link); }
+.checklist code { font-size: 13px; }
+#sources tr:target { background: var(--flag-bg); }
+#sources tr { scroll-margin-top: 9rem; }

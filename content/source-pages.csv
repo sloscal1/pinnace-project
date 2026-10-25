@@ -1,0 +1,999 @@
+page,file
+1,page1.pub
+2,page2.pub
+3,page3.pub
+4,page4.pub
+5,page5 Aston Villa.pub
+6,page6.pub
+7,page7.pub
+8,page8.pub
+9,page9.pub
+10,page10.pub
+11,page11.pub
+11a,page11a.pub
+11b,page11b.pub
+11c,page11c.pub
+11d,page11d.pub
+12,page12 Accrington Stanley.pub
+13,page13.pub
+14,page14.pub
+15,page15.pub
+16,page16.pub
+16a,page16a.pub
+16b,page16b.pub
+17,page17 Aberdeen.pub
+18,page18.pub
+19,page19.pub
+20,page20.pub
+21,page21.pub
+21a,page21a.pub
+21b,page21b.pub
+21c,page21c.pub
+22,page22 Airdrie.pub
+23,page23.pub
+24,page24.pub
+25,page25.pub
+26,page26.pub
+26a,page26a.pub
+26b,page26b.pub
+26c,page26c.pub
+26d,page26d.pub
+27,page27 Albion Rovers.pub
+28,page28.pub
+29,page29.pub
+30,page30.pub
+31,page31.pub
+31a,page31a.pub
+31b,page31b.pub
+31c,page31c.pub
+32,page32 Aberdare.pub
+33,page33.pub
+34,page34.pub
+35,page35.pub
+36,page36.pub
+36a,page36a.pub
+36b,page36b.pub
+36c,page36c.pub
+36d,page36d.pub
+37,page37  Alloa.pub
+38,page38.pub
+39,page39.pub
+40,page40.pub
+41,page41.pub
+41a,page41a.pub
+41b,page41b.pub
+42,page42 Ayr Utd.pub
+43,page43.pub
+44,page44.pub
+45,page45.pub
+46,page46.pub
+46a,page46a.pub
+46b,page46b.pub
+46c,page46c.pub
+47,page47  Arsenal.pub
+48,page48.pub
+49,page49.pub
+50,page50.pub
+51,page51.pub
+52,page52.pub
+53,page53.pub
+54,page54.pub
+55,page55.pub
+56,page56.pub
+56a,page56a.pub
+56b,page56b.pub
+57,page57  Ashington.pub
+58,page58.pub
+59,page59.pub
+60,page60.pub
+61,page61.pub
+62,page62 Barnsley.pub
+63,page63.pub
+64,page64.pub
+65,page65.pub
+66,page66.pub
+67,page67.pub
+68,page68.pub
+68a,page68a.pub
+68b,page68b.pub
+69,page69 Barrow.pub
+70,page70.pub
+71,page71.pub
+71a,page71a.pub
+71b,page71b.pub
+71c,page71c.pub
+71d,page71d.pub
+72,page72 Birmingham.pub
+73,page73.pub
+74,page74.pub
+75,page75.pub
+76,page76.pub
+77,page77.pub
+78,page78.pub
+79,page79.pub
+80,page80.pub
+80a,page80a.pub
+80b,page80b.pub
+81,page81 Blackburn Rovers.pub
+82,page82.pub
+83,page83.pub
+84,page84.pub
+85,page85.pub
+87,page87.pub
+88,page88.pub
+88a,page88a.pub
+89,page89  Blackpool.pub
+90,page90.pub
+91,page91.pub
+92,page92.pub
+93,page93.pub
+94,page94.pub
+95,page95.pub
+96,page96  Bolton Wanderers.pub
+97,page97.pub
+98,page98.pub
+99,page99.pub
+100,page100.pub
+101,page101.pub
+102,page102.pub
+102a,page102a.pub
+102b,page102b.pub
+103,page103 Bradford PA.pub
+104,page104.pub
+105,page105.pub
+106,page106.pub
+107,page107.pub
+108,page108.pub
+108a,page108a.pub
+108b,page108b.pub
+108c,page108c.pub
+109,page109 Bradford City.pub
+110,page110.pub
+111,page111.pub
+112,page112.pub
+113,page113.pub
+113a,page113a.pub
+114,page114 early north american league feature.pub
+115,page115 Brentford.pub
+116,page116.pub
+117,page117.pub
+118,page118.pub
+119,page119.pub
+120,page120.pub
+121,page121.pub
+122,page122.pub
+123,page123.pub
+124,page124 Brighton & Hove.pub
+125,page125.pub
+126,page126 footballers battalion feature.pub
+127,page127 mccraes battalion feature.pub
+128,page128.pub
+129,page129.pub
+130,page130.pub
+131,page131.pub
+132,page132.pub
+132a,page132a.pub
+132b,page132b.pub
+133,page133 Bristol City.pub
+134,page134.pub
+135,page135.pub
+136,page136.pub
+137,page137.pub
+138,page138.pub
+139,page139.pub
+139a,page139a.pub
+140,page140 Bristol Rovers.pub
+141,page141.pub
+142,page142.pub
+143,page143.pub
+144,page144.pub
+145,page145.pub
+146,page146.pub
+147,page147.pub
+148,page148.pub
+149,page149.pub
+150,page150.pub
+151,page151.pub
+152,page152  Burnley.pub
+153,page153.pub
+154,page154.pub
+155,page155  wembley wizards feature.pub
+156,page156 wembley wizards 2feature.pub
+157,page157.pub
+158,page158.pub
+159,page159.pub
+160,page160.pub
+161,page161 anglo XI v scotsXI.pub
+162,page162.pub
+163,page163 Bury.pub
+164,page164.pub
+165,page165.pub
+166,page166.pub
+167,page167.pub
+168,page168.pub
+169,page169.pub
+170,page170.pub
+171,page171 Clyde.pub
+172,page172.pub
+173,page173.pub
+173a,page173a.pub
+173b,page173b.pub
+173c,page173c.pub
+174,page174 Clydebank.pub
+175,page175.pub
+176,page176.pub
+177,page177.pub
+178,page178.pub
+179,page179.pub
+179a,page179a.pub
+180,page180 Cardiff City.pub
+181,page181.pub
+182,page182.pub
+183,page183.pub
+184,page184.pub
+185,page185.pub
+186,page186.pub
+187,page187.pub
+187a,page187a.pub
+188,page188 Casuals.pub
+189,page189.pub
+190,page190.pub
+191,page191.pub
+192,page192 Charlton.pub
+193,page193.pub
+194,page194.pub
+195,page195.pub
+196,page196.pub
+197,page197.pub
+198,page198.pub
+199,page199.pub
+200,page200 ladies football.pub
+201,page201 dick kerr ladies.pub
+202,page202 dick kerr ladies.pub
+203,page203 betting scandal.pub
+204,page204 Chelsea.pub
+205,page205.pub
+206,page206.pub
+207,page207.pub
+208,page208.pub
+209,page209.pub
+210,page210.pub
+211,page211.pub
+212,page212.pub
+213,page213 Chesterfield.pub
+214,page214.pub
+215,page215.pub
+216,page216.pub
+217,page217.pub
+218,page218.pub
+219,page219 Civil Service.pub
+220,page220.pub
+221,page221 Clapton.pub
+222,page222.pub
+223,page223.pub
+224,page224.pub
+225,page225 Clapton Orient.pub
+225,page225.pub
+226,page226.pub
+227,page227.pub
+228,page228.pub
+229,page229.pub
+230,page230 Corinthians.pub
+231,page231.pub
+232,page232.pub
+233,page233.pub
+234,page234.pub
+235,page235.pub
+236,page236.pub
+237,page237 Coventry City.pub
+238,page238.pub
+239,page239.pub
+240,page240.pub
+241,page241.pub
+242,page242.pub
+243,page243.pub
+244,page244 Crewe Alex.pub
+245,page245.pub
+246,page246.pub
+247,page247.pub
+247a,page247a.pub
+248,page248 Crystal Palace.pub
+249,page249.pub
+250,page250.pub
+251,page251.pub
+252,page252.pub
+252a,page252a.pub
+252b,page252b.pub
+253,page253 Glasgow Celtic.pub
+254,page254.pub
+255,page255.pub
+256,page256.pub
+257,page257.pub
+258,page258.pub
+259,page259.pub
+260,page260.pub
+261,page261.pub
+262,page262.pub
+263,page263.pub
+264,page264 Darlington.pub
+265,page265.pub
+266,page266.pub
+267,page267.pub
+268,page268.pub
+269,page269.pub
+269a,page269a.pub
+270,page270 Derby Co.pub
+271,page271.pub
+272,page272.pub
+273,page273.pub
+274,page274.pub
+275,page275.pub
+276,page276.pub
+277,page277.pub
+278,page278 Dulwich Hamlet.pub
+279,page279.pub
+280,page280.pub
+281,page281.pub
+282,page282  Durham.pub
+283,page283.pub
+284,page284.pub
+285,page285.pub
+286,page286.pub
+287,page287 Dumbarton.pub
+288,page288.pub
+289,page289.pub
+290,page290.pub
+291,page291.pub
+292,page292.pub
+293,page293.pub
+294,page294 Dundee.pub
+295,page295.pub
+296,page296.pub
+297,page297.pub
+298,page298.pub
+299,page299.pub
+300,page300.pub
+301,page301.pub
+301a,page301a.pub
+302,page302 Dunfermline.pub
+303,page303.pub
+304,page304 Everton.pub
+305,page305.pub
+306,page306.pub
+307,page307.pub
+308,page308.pub
+309,page309.pub
+310,page310.pub
+311,page311.pub
+311a,page311a.pub
+311b,page311b.pub
+312,page312 Exeter City.pub
+313,page313.pub
+314,page314.pub
+315,page315.pub
+316,page316.pub
+317,page317.pub
+318,page318.pub
+319,page319.pub
+319a,page319a.pub
+320,page320 Falkirk.pub
+321,page321.pub
+322,page322.pub
+323,page323.pub
+324,page324.pub
+325,page325.pub
+326,page326.pub
+327,page327.pub
+328,page328 Fulham.pub
+329,page329.pub
+330,page330.pub
+331,page331.pub
+332,page332.pub
+333,page333.pub
+334,page334.pub
+335,page335 Gillingham.pub
+336,page336.pub
+337,page337.pub
+338,page338.pub
+339,page339.pub
+340,page340.pub
+341,page341.pub
+342,page342 Grimsby Town.pub
+343,page343.pub
+344,page344.pub
+345,page345.pub
+346,page346.pub
+347,page347.pub
+348,page348.pub
+349,page349.pub
+350,page350 Hamilton Acc.pub
+351,page351.pub
+352,page352.pub
+353,page353.pub
+354,page354.pub
+355,page355.pub
+356,page356 Hearts.pub
+357,page357.pub
+358,page358.pub
+359,page359.pub
+400,page400.pub
+401,page401.pub
+402,page402.pub
+403,page403 Hibernian.pub
+404,page404.pub
+405,page405.pub
+406,page406.pub
+407,page407.pub
+408,page408.pub
+409,page409 Halifax Town.pub
+410,page410.pub
+411,page411.pub
+412,page412.pub
+413,page413.pub
+414,page414 Hartlepool Utd.pub
+415,page415.pub
+416,page416.pub
+417,page417.pub
+418,page418.pub
+419,page419.pub
+420,page420 Huddersfield Town.pub
+421,page421.pub
+422,page422.pub
+423,page423.pub
+424,page424.pub
+425,page425.pub
+426,page426.pub
+427,page427.pub
+428,page428 Hull City.pub
+429,page429.pub
+430,page430.pub
+431,page431.pub
+432,page432.pub
+433,page433.pub
+434,page434.pub
+435,page435.pub
+436,page436.pub
+437,page437 Ilford.pub
+438,page438.pub
+439,page439 Kilmarnock.pub
+440,page440.pub
+441,page441.pub
+442,page442.pub
+443,page443.pub
+444,page444.pub
+445,page445.pub
+446,page446.pub
+447,page447 Leeds United.pub
+448,page448.pub
+449,page449.pub
+450,page450.pub
+451,page451.pub
+452,page452.pub
+453,page453.pub
+454,page454.pub
+455,page455.pub
+456,page456 Leicester City.pub
+457,page457.pub
+458,page458.pub
+459,page459.pub
+460,page460.pub
+461,page461.pub
+462,page462.pub
+463,page463.pub
+464,page464.pub
+465,page465 Lincoln City.pub
+466,page466.pub
+467,page467.pub
+468,page468.pub
+469,page469.pub
+470,page470.pub
+471,page471.pub
+472,page472 Leytonstone.pub
+473,page473.pub
+474,page474.pub
+475,page475 Liverpool.pub
+476,page476.pub
+477,page477.pub
+478,page478.pub
+479,page479.pub
+480,page480.pub
+481,page481.pub
+482,page482.pub
+483,page483.pub
+484,page484.pub
+485,page485.pub
+486,page486.pub
+487,page487.pub
+488,page488 Luton Town.pub
+489,page489.pub
+490,page490.pub
+491,page491.pub
+492,page492.pub
+493,page493.pub
+494,page494.pub
+495,page495.pub
+496,page496.pub
+497,page497 Merthyr Town.pub
+498,page498.pub
+499,page499.pub
+500,page500.pub
+501,page501.pub
+502,page502.pub
+503,page503.pub
+504,page504.pub
+505,page505.pub
+506,page506 Morton.pub
+507,page507.pub
+508,page508.pub
+509,page509.pub
+510,page510.pub
+511,page511.pub
+512,page512.pub
+513,page513 Motherwell.pub
+514,page514.pub
+515,page515.pub
+516,page516.pub
+517,page517.pub
+518,page518.pub
+519,page519 Manchester City.pub
+520,page520.pub
+521,page521.pub
+522,page522.pub
+523,page523.pub
+524,page524.pub
+525,page525.pub
+526,page526.pub
+527,page527.pub
+528,page528.pub
+529,page529.pub
+530,page530.pub
+531,page531.pub
+532,page532.pub
+533,page533.pub
+534,page534.pub
+535,page535.pub
+536,page536 Manchester Utd.pub
+537,page537.pub
+538,page538.pub
+539,page539.pub
+540,page540.pub
+541,page541.pub
+542,page542.pub
+543,page543.pub
+544,page544.pub
+545,page545.pub
+546,page546.pub
+547,page547 Middlesbrough.pub
+548,page548.pub
+549,page549.pub
+550,page550.pub
+551,page551.pub
+552,page552.pub
+553,page553.pub
+554,page554.pub
+555,page555.pub
+556,page556.pub
+557,page557.pub
+558,page558 Millwall.pub
+559,page559.pub
+560,page560.pub
+561,page561.pub
+562,page562.pub
+563,page563.pub
+564,page564.pub
+565,page565.pub
+566,page566.pub
+567,page567.pub
+568,page568.pub
+569,page569.pub
+570,page570 Newport County.pub
+571,page571.pub
+572,page572.pub
+573,page573.pub
+574,page574.pub
+575,page575.pub
+576,page576.pub
+577,page577.pub
+578,page578.pub
+579,page579.pub
+580,page580.pub
+581,page581 Nelson.pub
+582,page582.pub
+583,page583.pub
+584,page584.pub
+585,page585.pub
+586,page586.pub
+587,page587.pub
+588,page588.pub
+589,page589.pub
+590,page590 Newcastle Utd.pub
+591,page591.pub
+592,page592.pub
+593,page593.pub
+594,page594.pub
+595,page595.pub
+596,page596.pub
+597,page597.pub
+598,page598.pub
+599,page599.pub
+600,page600.pub
+601,page601.pub
+602,page602 Northampton Town.pub
+603,page603.pub
+604,page604.pub
+605,page605.pub
+606,page606.pub
+607,page607.pub
+608,page608.pub
+609,page609.pub
+610,page610.pub
+611,page611.pub
+612,page612 Norwich City.pub
+613,page613.pub
+614,page614.pub
+615,page615.pub
+616,page616.pub
+617,page617.pub
+618,page618.pub
+619,page619.pub
+620,page620.pub
+621,page621.pub
+622,page622.pub
+623,page623.pub
+624,page624 Notts County.pub
+625,page625.pub
+626,page626.pub
+627,page627.pub
+628,page628.pub
+629,page629.pub
+630,page630.pub
+631,page631.pub
+632,page632.pub
+633,page633 Nottingham Forest.pub
+634,page634.pub
+635,page635.pub
+636,page636.pub
+637,page637.pub
+638,page638.pub
+639,page639.pub
+640,page640.pub
+641,page641 Nunhead.pub
+642,page642.pub
+643,page643 Oldham Ath.pub
+644,page644.pub
+645,page645.pub
+646,page646.pub
+647,page647.pub
+648,page648.pub
+649,page649.pub
+650,page650.pub
+651,page651.pub
+652,page652.pub
+653,page653.pub
+654,page654.pub
+655,page655.pub
+656,page656.pub
+657,page657 Oxford City.pub
+658,page658.pub
+659,page659 Partick Thistle.pub
+660,page660.pub
+661,page661.pub
+662,page662.pub
+663,page663.pub
+664,page664.pub
+665,page665.pub
+666,page666.pub
+667,page667.pub
+668,page668.pub
+669,page669.pub
+670,page670 Plymouth Argyle.pub
+671,page671.pub
+672,page672.pub
+673,page673.pub
+674,page674.pub
+675,page675.pub
+676,page676.pub
+677,page677.pub
+678,page678.pub
+679,page679 Port Vale.pub
+680,page680.pub
+681,page681.pub
+682,page682.pub
+683,page683.pub
+684,page684.pub
+685,page685.pub
+686,page686.pub
+687,page687.pub
+688,page688.pub
+689,page689.pub
+690,page690 Portsmouth.pub
+691,page691.pub
+692,page692.pub
+693,page693.pub
+694,page694.pub
+695,page695.pub
+696,page696.pub
+697,page697.pub
+698,page698 Preston North End.pub
+699,page699.pub
+700,page700.pub
+701,page701.pub
+702,page702.pub
+703,page703.pub
+704,page704.pub
+705,page705.pub
+706,page706.pub
+707,page707 Queens Park.pub
+708,page708.pub
+709,page709.pub
+710,page710.pub
+711,page711.pub
+712,page712.pub
+713,page713.pub
+714,page714 Queens Park Rangers.pub
+715,page715.pub
+716,page716.pub
+717,page717.pub
+718,page718.pub
+719,page719.pub
+720,page720.pub
+721,page721.pub
+722,page722.pub
+723,page723.pub
+724,page724.pub
+725,page725 Raith Rovers.pub
+726,page726.pub
+727,page727.pub
+728,page728.pub
+729,page729.pub
+730,page730.pub
+731,page731.pub
+732,page732.pub
+733,page733 Raith Shipwreck article.pub
+734,page734.pub
+735,page735.pub
+736,page736 Reading.pub
+737,page737.pub
+738,page738.pub
+739,page739.pub
+740,page740.pub
+741,page741.pub
+742,page742.pub
+743,page743.pub
+744,page744.pub
+745,page745.pub
+746,page746.pub
+747,page747 Glasgow Rangers.pub
+748,page748.pub
+749,page749.pub
+750,page750.pub
+751,page751.pub
+752,page752.pub
+753,page753.pub
+754,page754.pub
+755,page755.pub
+756,page756.pub
+757,page757 Rochdale.pub
+758,page758.pub
+759,page759.pub
+760,page760.pub
+761,page761.pub
+762,page762 Rotherham County.pub
+763,page763.pub
+764,page764.pub
+765,page765.pub
+766,page766.pub
+767,page767.pub
+768,page768.pub
+769,page769.pub
+770,page770 Swansea Town.pub
+771,page771.pub
+772,page772.pub
+773,page773.pub
+774,page774.pub
+775,page775.pub
+776,page776.pub
+777,page777 St Mirren.pub
+778,page778.pub
+779,page779.pub
+780,page780.pub
+781,page781.pub
+782,page782.pub
+783,page783.pub
+784,page784 Sheffield United.pub
+785,page785.pub
+786,page786.pub
+787,page787.pub
+788,page788.pub
+789,page789.pub
+790,page790.pub
+791,page791.pub
+792,page792.pub
+793,page793.pub
+794,page794 Sheffield Wednesday.pub
+795,page795.pub
+796,page796.pub
+797,page797.pub
+798,page798.pub
+799,page799.pub
+800,page800.pub
+801,page801.pub
+802,page802.pub
+803,page803.pub
+804,page804 South Shields.pub
+805,page805.pub
+806,page806.pub
+807,page807.pub
+808,page808.pub
+809,page809.pub
+810,page810.pub
+811,page811.pub
+812,page812.pub
+813,page813.pub
+814,page814 Southampton.pub
+815,page815.pub
+816,page816.pub
+817,page817.pub
+818,page818.pub
+819,page819.pub
+820,page820.pub
+821,page821.pub
+822,page822.pub
+823,page823.pub
+824,page824.pub
+825,page825 Southend United.pub
+826,page826.pub
+827,page827.pub
+828,page828.pub
+829,page829.pub
+830,page830.pub
+831,page831.pub
+832,page832.pub
+833,page833.pub
+834,page834 Southport.pub
+835,page835.pub
+836,page836.pub
+837,page837.pub
+838,page838.pub
+839,page839.pub
+840,page840 Stalybridge Celtic.pub
+841,page841.pub
+842,page842.pub
+843,page843.pub
+844,page844.pub
+845,page845.pub
+846,page846 Stockport County.pub
+847,page847.pub
+848,page848.pub
+849,page849.pub
+850,page850.pub
+851,page851.pub
+852,page852.pub
+853,page853.pub
+854,page854.pub
+855,page855 Stoke.pub
+856,page856.pub
+857,page857.pub
+858,page858.pub
+859,page859.pub
+860,page860.pub
+861,page861.pub
+862,page862.pub
+863,page863.pub
+864,page864 Sunderland.pub
+865,page865.pub
+866,page866.pub
+867,page867.pub
+868,page868.pub
+869,page869.pub
+870,page870.pub
+871,page871.pub
+872,page872.pub
+873,page873.pub
+874,page874 Swindon Town.pub
+875,page875.pub
+876,page876.pub
+877,page877.pub
+878,page878.pub
+879,page879.pub
+880,page880.pub
+881,page881.pub
+882,page882 Third Lanark.pub
+883,page883.pub
+884,page884.pub
+885,page885.pub
+886,page886.pub
+887,page887.pub
+888,page888.pub
+889,page889 Third Lanark tour article.pub
+890,page890 Tottenham Hotspur.pub
+891,page891.pub
+892,page892.pub
+893,page893.pub
+894,page894.pub
+895,page895.pub
+896,page896.pub
+897,page897.pub
+898,page898.pub
+899,page899 Tranmere Rovers.pub
+900,page900.pub
+901,page901.pub
+902,page902.pub
+903,page903.pub
+904,page904.pub
+905,page905 Tufnell Park.pub
+906,page906.pub
+907,page907.pub
+908,page908 Wrexham.pub
+909,page909.pub
+910,page910.pub
+911,page911.pub
+912,page912.pub
+913,page913.pub
+914,page914 Walsall.pub
+915,page915.pub
+916,page916.pub
+917,page917.pub
+918,page918.pub
+919,page919 Watford.pub
+920,page920.pub
+921,page921.pub
+922,page922.pub
+923,page923.pub
+924,page924.pub
+925,page925.pub
+926,page926 West Browich Albion.pub
+927,page927.pub
+928,page928.pub
+929,page929.pub
+930,page930.pub
+931,page931.pub
+932,page932.pub
+933,page933.pub
+934,page934.pub
+935,page935 West Ham United.pub
+936,page936.pub
+937,page937.pub
+938,page938.pub
+939,page939.pub
+940,page940.pub
+941,page941.pub
+942,page942.pub
+943,page943.pub
+944,page944.pub
+945,page945.pub
+946,page946.pub
+947,page947 West Norwood.pub
+948,page948.pub
+949,page949 article.pub
+950,page950.pub
+951,page951 Wigan.pub
+952,page952.pub
+953,page953.pub
+954,page954.pub
+955,page955.pub
+956,page956.pub
+957,page957 Wimbledon.pub
+958,page958.pub
+959,page959.pub
+960,page960.pub
+961,page961.pub
+962,page962.pub
+963,page963 Woking.pub
+964,page964.pub
+965,page965.pub
+966,page966.pub
+967,page967.pub
+968,page968 Wolverhampton Wanderers.pub
+969,page969.pub
+970,page970.pub
+971,page971.pub
+972,page972.pub
+973,page973.pub
+974,page974.pub
+975,page975.pub
+976,page976.pub
+977,page977.pub
+978,page978 Wycombe Wanderers.pub
+979,page979.pub
+980,page980.pub
