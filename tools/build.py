@@ -23,7 +23,7 @@ esc = html.escape
 # Named looks a maintainer can pick in content/site.md. Each is a set of layers styled in style.css.
 STYLES = {"classic": "", "programme": "programme", "album": "album", "club": "club",
           "matchday": "programme album club"}
-SETTINGS = {"style": "classic", "style_picker": "yes"}
+SETTINGS = {"style": "classic", "style_picker": "yes", "theme": "system"}
 
 # Appended to asset URLs so browsers fetch the new file after each change instead of a cached copy.
 VERSION = ""
@@ -52,6 +52,7 @@ def head_script():
             "    l.href = 'https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap';\n"
             "    document.head.appendChild(l); }\n"
             "};\n"
+            + (f"d.dataset.theme = {json.dumps(SETTINGS['theme'])};\n" if SETTINGS.get("theme") in ("light", "dark") else "") +
             "var s = null; try {\n"
             "  var t = localStorage.getItem('pinnace-theme'); if (t) d.dataset.theme = t;\n"
             + ("  s = new URLSearchParams(location.search).get('style');\n"
