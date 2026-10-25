@@ -222,6 +222,17 @@
     });
   })();
 
+  // ---------------------------------------------------------------- previous / next
+
+  // Left and right arrow keys follow the floating previous/next links.
+  document.addEventListener("keydown", function (ev) {
+    if (ev.altKey || ev.ctrlKey || ev.metaKey || ev.shiftKey) return;
+    if (/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) return;
+    var rel = { ArrowLeft: "prev", ArrowRight: "next" }[ev.key];
+    var a = rel && document.querySelector('[data-pager="' + rel + '"]');
+    if (a) location.href = a.href;
+  });
+
   // ---------------------------------------------------------------- header search
 
   function fold(t) { return String(t).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase(); }

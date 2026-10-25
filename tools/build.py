@@ -68,7 +68,33 @@ def style_picker():
     return f'<label class="style-picker no-print">Style <select id="style-picker">{opts}</select></label>'
 
 
-def page(title, body, depth=0, active="", club=None, robots=""):
+PAGER = {}  # "players/0042-bown.html" -> ((path, label) or None, (path, label) or None); set in main()
+
+
+def sequence(paths_and_labels):
+    """Previous/next links for pages read in this order."""
+    items = list(paths_and_labels)
+    return {path: (items[i - 1] if i else None, items[i + 1] if i + 1 < len(items) else None)
+            for i, (path, _) in enumerate(items)}
+
+
+def pager(key, up):
+    """Floating previous/next buttons for the page at `key` (its path from the site root)."""
+    prev, nxt = PAGER.get(key, (None, None))
+    if not (prev or nxt):
+        return ""
+
+    def btn(target, rel, text):
+        if not target:
+            return f'<span class="pager-off" aria-hidden="true">{text}</span>'
+        return (f'<a href="{up}{target[0]}" rel="{rel}" data-pager="{rel}" title="{esc(target[1])}">'
+                f'{text}<span class="pager-label">{esc(target[1])}</span></a>')
+
+    return (f'<nav class="pager" aria-label="Previous and next">{btn(prev, "prev", "‹ Previous")}'
+            f'{btn(nxt, "next", "Next ›")}</nav>')
+
+
+def page(title, body, depth=0, active="", club=None, robots="", key=None):
     up = "../" * depth
     nav = [("index.html", "Teams", "teams"), ("features.html", "Features", "features"),
            ("players.html", "Players", "players"), ("checklist.html", "My checklist", "checklist")]
@@ -98,7 +124,7 @@ def page(title, body, depth=0, active="", club=None, robots=""):
 {body}
 </main>
 <footer class="site">Text and research from the Pinnace Bio Project. Your checklist is saved in this browser only.</footer>
-{style_picker()}
+<div class="floating no-print">{pager(key, up) if key else ""}{style_picker()}</div>
 <script src="{up}search-index.js?v={VERSION}"></script>
 <script src="{up}app.js?v={VERSION}"></script>
 </body>
@@ -216,7 +242,7 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
     {fn.html()}
   </div>
 </article>"""
-    return page(c["name"], body, depth=1, club=sec)
+    return page(c["name"], body, depth=1, club=sec, key=f"players/{c['id']}.html")
 
 
 def feature_item(f, up, teams_by_id=None, show_team=False):
@@ -260,7 +286,7 @@ def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
 {grid}
 {extra}
 {tin}"""
-    return page(sec["title"], body, depth=1, club=sec)
+    return page(sec["title"], body, depth=1, club=sec, key=f"teams/{sec['id']}.html")
 
 
 def index_page(teams, cards_by_team):
@@ -501,7 +527,7 @@ def feature_page(f, teams_by_id):
 {related}
 {fn.html()}
 </article>"""
-    return page(f["title"], body, depth=1, club=teams_by_id.get(f.get("team")))
+    return page(f["title"], body, depth=1, club=teams_by_id.get(f.get("team")), key=f"features/{f['id']}.html")
 
 
 def maintainers_page(teams, features, cards):
@@ -736,6 +762,13 @@ def main():
     for f in sorted(WEB.iterdir()):
         digest.update(f.read_bytes())
     VERSION = digest.hexdigest()[:8]
+    # Reading order: teams alphabetically (as on the home page), players by card number within a team
+    # (as on the team page), features in book order.
+    alpha = sorted(teams, key=lambda t: t["title"].lower())
+    PAGER.update(sequence((f"teams/{t['id']}.html", t["title"]) for t in alpha))
+    PAGER.update(sequence((f"players/{c['id']}.html", f"{c['name']} ({t['title']})")
+                          for t in alpha for c in by_team.get(t["id"], [])))
+    PAGER.update(sequence((f"features/{f['id']}.html", f["title"]) for f in features))
     (SITE / "index.html").write_text(index_page(teams, by_team))
     (SITE / "features.html").write_text(features_index(features, sections_by_id))
     (SITE / "players.html").write_text(players_page(cards, sections_by_id))
