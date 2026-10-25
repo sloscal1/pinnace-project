@@ -124,8 +124,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 <main>
 {body}
 </main>
-<footer class="site">© Michael Postles (compilation and original text). Text adapted from Wikipedia is under
-CC BY-SA; other sources are credited where used. <a href="{up}copyright.html">Copyright and sources</a>.<br>
+<footer class="site"><a href="{up}copyright.html">© Copyright and sources</a> ·
 Your checklist is saved in this browser only.</footer>
 <div class="floating no-print">{pager(key, up) if key else ""}{style_picker()}</div>
 <script src="{up}search-index.js?v={VERSION}"></script>
@@ -302,7 +301,7 @@ def index_page(teams, cards_by_team):
         items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
 <span class="team-count">{count}</span></a></li>""")
     body = f"""<h1>Pinnace Collection Biographies</h1>
-<p class="lede">Biographies of the players on the Pinnace football cards, arranged by club, compiled by Michael Postles.
+<p class="lede">Biographies of the players on the Pinnace football cards, arranged by club.
 Tick the cards you own and your checklist is kept on this device.
 New here? Start with <a href="features.html#about">About the collection</a>, or browse all <a href="features.html">features</a>.</p>
 <h2 class="band">Teams</h2>

@@ -80,7 +80,7 @@ Images are added with "Add file → Upload files" into `content/img/`.
 ## Copyright
 
 `COPYRIGHT.md` is the copyright statement; the site shows it as `copyright.html`, linked from every
-page's footer. In short: the compilation and Michael Postles's own text are © Michael Postles; text
+page's footer ("© Copyright and sources"). In short: the compilation and Michael Postles's own text are © Michael Postles; text
 adapted from Wikipedia stays under CC BY-SA; other sources remain their authors' and are credited
 where used.
 
