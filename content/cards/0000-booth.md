@@ -29,7 +29,6 @@ see_page:
 
 Curtis "Tommy" Booth was born on 12 October 1891 in Gateshead and died in the Dutch city of Amsterdam on 29 October 1949. An inside-forward, Booth played for Newcastle United, Norwich City and Accrington Stanley either side of the First World War, during which he served as a soldier in the British Army. Booth later worked as a coach in a number of countries, including the Netherlands where he lived until his death.
 
-
 Booth began his career in the north-east of England where he played for amateur side Wallsend Elm Villa. In November 1913, Booth signed professional terms at Newcastle United and made his debut on 9 September 1914 in a 0-0 draw with the Wednesday at St James' Park. He would play 18 further league games for Newcastle during the 1914/15 season, scoring twice before official competition was suspended for the duration of the war.
 
 Left without a club when Newcastle took the decision to suspend all footballing operations, Booth was among a number of players who moved to Leeds City ahead of the 1915/16 campaign. Despite working in the north-east, Booth managed to play eight games as a wartime 'guest' for Leeds as they finished 10th in the Midland Section Principal Tournament and won the Northern Division of the Midland Subsidiary competition.
