@@ -11,7 +11,7 @@ position: Goalkeeper
 height: 5'9"
 born: - 26th August 1882, Newbold, Derbyshire, England
 died: - 24th October, Chesterfield, Derbyshire, England
-image: 
+image: card-0004-hardy.jpg
 source_page: 6
 see_page: 
 ---

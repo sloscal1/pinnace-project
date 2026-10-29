@@ -11,7 +11,7 @@ position: Left Winger
 height: 5'6"
 born: 30th March 1896 Small Heath Birmingham, Warwickshire, England
 died: 13th September 1942 Alum Rock Birmingham, Warwickshire, England
-image: 
+image: card-0677-dorrell.jpg
 source_page: 7
 see_page: 
 ---

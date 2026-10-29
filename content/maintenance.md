@@ -136,11 +136,8 @@ Footnotes whose source is still `TO TRACE` (26). Find the reference in the Wikip
 <!-- generated: details -->
 Cards with a missing detail. Often the book simply has none; check the .pub page and fill it in, or tick the item.
 
-<details><summary>no card scan (3)</summary>
+<details><summary>no card scan (0)</summary>
 
-- [ ] `0004-hardy` (Aston Villa, p6)
-- [ ] `0677-dorrell` (Aston Villa, p7)
-- [ ] `1747-ball` (Aston Villa, p8)
 
 </details>
 
