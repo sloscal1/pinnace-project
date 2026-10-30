@@ -43,7 +43,7 @@ Smith won another winners' medal in 1926 in a 1–0 victory over Manchester City
 
 ## Sources
 
-[^3]: TO TRACE: reference 3 of the Wikipedia article this text was copied from.
-[^4]: TO TRACE: reference 4 of the Wikipedia article this text was copied from.
+[^3]: "The story of John Reid Smith". Bolton Evening News. 6 November 2003. https://www.theboltonnews.co.uk/news/5917875.The_story_of_John_Reid_Smith/?ref=arc (cited in "Jack Smith (footballer, born 1895)", Wikipedia, https://en.wikipedia.org/wiki/Jack_Smith_(footballer,_born_1895))
+[^4]: "Smith JR "Jack" Image 1 Bolton Wanderers 1923". Vintage Footballers. http://vintagefootballers.com/product/smith-jack-image-1-bolton-wanderers-1923/ (cited in "Jack Smith (footballer, born 1895)", Wikipedia, https://en.wikipedia.org/wiki/Jack_Smith_(footballer,_born_1895))
 
 ## Collector notes

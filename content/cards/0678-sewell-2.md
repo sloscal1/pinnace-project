@@ -45,6 +45,6 @@ Sewell died in Lincoln County Hospital in 1945 aged 54
 
 ## Sources
 
-[^5]: TO TRACE: reference 5 of the Wikipedia article this text was copied from.
+[^5]: Gainsborough Evening News, Tuesday 12 March 1929 (cited in "Ronnie Sewell", Wikipedia, https://en.wikipedia.org/wiki/Ronnie_Sewell)
 
 ## Collector notes

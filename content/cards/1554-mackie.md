@@ -34,6 +34,6 @@ After his retirement from football, he became the licensee of the Regents Park H
 
 ## Sources
 
-[^4]: TO TRACE: reference 4 of the Wikipedia article this text was copied from.
+[^4]: Holley, Duncan; Chalk, Gary (1992). The Alphabet of the Saints. ACL & Polar Publishing. pp. 225–226. ISBN 0-9514862-3-3. (cited in "Jerry Mackie (footballer)", Wikipedia, https://en.wikipedia.org/wiki/Jerry_Mackie_(footballer))
 
 ## Collector notes

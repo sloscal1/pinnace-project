@@ -62,8 +62,8 @@ Jane Percy, Duchess of Northumberland, is Woosnam's sororal grandniece.
 
 ## Sources
 
-[^24]: TO TRACE: reference 24 of the Wikipedia article this text was copied from.
-[^25]: TO TRACE: reference 25 of the Wikipedia article this text was copied from.
-[^26]: TO TRACE: reference 26 of the Wikipedia article this text was copied from.
+[^24]: Penney, Ian (1995). The Maine Road Encyclopedia. Edinburgh: Mainstream. p. 214. ISBN 1-85158-710-1. (cited in "Max Woosnam", Wikipedia, https://en.wikipedia.org/wiki/Max_Woosnam)
+[^25]: Edwards, Ken (1992). A Team for All Seasons. Chester: Cheshire County Publishing. pp. 144–148. ISBN 0-949001-08-2. (cited in "Max Woosnam", Wikipedia, https://en.wikipedia.org/wiki/Max_Woosnam)
+[^26]: Collins, Mick (2006). All Round Genius: The Unknown Story of Britain's Greatest Sportsman (Max Woosnam). Aurum Press. ISBN 1-84513-137-1. (cited in "Max Woosnam", Wikipedia, https://en.wikipedia.org/wiki/Max_Woosnam)
 
 ## Collector notes

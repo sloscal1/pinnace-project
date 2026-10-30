@@ -47,6 +47,6 @@ England: (1920–1923) 5 caps (Ephraim also captained his country, the first Liv
 
 ## Sources
 
-[^1]: TO TRACE: reference 1 of the Wikipedia article this text was copied from.
+[^1]: Marc White (24 October 2012). 101 Things You May Not Have Known About Liverpool. Andrews UK Limited. pp. 28–. ISBN 978-1-909143-74-6. https://books.google.com/books?id=G4W5BAAAQBAJ&pg=PT28 (cited in "Ephraim Longworth", Wikipedia, https://en.wikipedia.org/wiki/Ephraim_Longworth)
 
 ## Collector notes

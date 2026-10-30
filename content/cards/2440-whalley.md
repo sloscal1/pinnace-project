@@ -31,7 +31,7 @@ Whalley enlisted as a reservist in the Loyal North Lancashire Regiment of the Br
 
 ## Sources
 
-[^2]: TO TRACE: reference 2 of the Wikipedia article this text was copied from.
-[^4]: TO TRACE: reference 4 of the Wikipedia article this text was copied from.
+[^2]: "2339 Pte. F. Whalley. L.N.LAN.R." The Loyal North Lancashire Regiment. 24 August 2015. https://www.loyalregiment.com/2339-pte-f-whalley-l-n-lan-r/ (cited in "Fred Whalley", Wikipedia, https://en.wikipedia.org/wiki/Fred_Whalley)
+[^4]: "Whalley Fred Leeds United 1922". Vintage Footballers. https://www.vintagefootballers.com/product/whalley-fred-image-2-leeds-united-1922/ (cited in "Fred Whalley", Wikipedia, https://en.wikipedia.org/wiki/Fred_Whalley)
 
 ## Collector notes

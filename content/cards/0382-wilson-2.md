@@ -65,6 +65,6 @@ His younger son, Jimmy, (20/4/1942), survived a tour as a tail-gunner in the far
 
 ## Sources
 
-[^9]: TO TRACE: reference 9 of the Wikipedia article this text was copied from.
+[^9]: "QosFC: Legends – Ian Dickson". qosfc.com. http://qosfc.com/content-legendsView.aspx?playerid=1059 (cited in "Andrew Wilson (footballer, born 1896)", Wikipedia, https://en.wikipedia.org/wiki/Andrew_Wilson_(footballer,_born_1896))
 
 ## Collector notes

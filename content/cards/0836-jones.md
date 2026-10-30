@@ -110,6 +110,6 @@ The Football League XI
 
 ## Sources
 
-[^1]: TO TRACE: reference 1 of the Wikipedia article this text was copied from.
+[^1]: Matthews, Tony (1994). The Encyclopaedia of Stoke City. Lion Press. ISBN 0-9524151-0-0. (cited in "Joe Jones (footballer)", Wikipedia, https://en.wikipedia.org/wiki/Joe_Jones_(footballer))
 
 ## Collector notes

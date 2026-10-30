@@ -35,6 +35,6 @@ He missed only one match in the 1920–21 season as Birmingham won the Second Di
 
 ## Sources
 
-[^6]: TO TRACE: reference 6 of the Wikipedia article this text was copied from.
+[^6]: Matthews, Tony (2010). Birmingham City: The Complete Record. Derby: DB Publishing. p. 283. ISBN 978-1-85983-853-2 (cited in "Percy Barton", Wikipedia, https://en.wikipedia.org/wiki/Percy_Barton)
 
 ## Collector notes

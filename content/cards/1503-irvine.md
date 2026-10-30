@@ -46,6 +46,6 @@ Irvine returned to England in May 1933 with Division Three (South) club, Watford
 
 ## Sources
 
-[^1]: TO TRACE: reference 1 of the Wikipedia article this text was copied from.
+[^1]: Chas Sumner (1997). On the Borderline: The Official History of Chester City 1885-1997. Yore Publications. p. 48. ISBN 1-874427-52-6. (cited in "Bobby Irvine (footballer, born 1900)", Wikipedia, https://en.wikipedia.org/wiki/Bobby_Irvine_(footballer,_born_1900))
 
 ## Collector notes

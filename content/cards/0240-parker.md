@@ -40,6 +40,6 @@ He was appointed manager at Norwich City on 8th March 1933, with immediate succe
 
 ## Sources
 
-[^4]: TO TRACE: reference 4 of the Wikipedia article this text was copied from.
+[^4]: "Tom Parker". Spartacus Educational.com. https://spartacus-educational.com/ARSEparker.htm (cited in "Tom Parker (footballer, born 1897)", Wikipedia, https://en.wikipedia.org/wiki/Tom_Parker_(footballer,_born_1897))
 
 ## Collector notes

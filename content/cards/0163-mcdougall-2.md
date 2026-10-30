@@ -36,6 +36,6 @@ With Bob McDermid also having joined them Bob McDougall was with Queen of the So
 
 ## Sources
 
-[^2]: TO TRACE: reference 2 of the Wikipedia article this text was copied from.
+[^2]: "The Queens" by Iain McCartney on Creedon Publications, 2004 (cited in "Bob McDougall", Wikipedia, https://en.wikipedia.org/wiki/Bob_McDougall)
 
 ## Collector notes

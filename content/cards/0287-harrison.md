@@ -48,6 +48,6 @@ A stalwart in the United team for over a decade, he played 322 league games scor
 
 ## Sources
 
-[^3]: TO TRACE: reference 3 of the Wikipedia article this text was copied from.
+[^3]: Matthews, Tony (2001). The Wolves Who's Who. West Midlands: Britespot. p. 47. ISBN 1-904103-01-4 (cited in "Billy Harrison (footballer, born 1886)", Wikipedia, https://en.wikipedia.org/wiki/Billy_Harrison_(footballer,_born_1886))
 
 ## Collector notes

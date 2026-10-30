@@ -30,6 +30,6 @@ Wilding played football while serving with the Grenadier Guards. In 1919 he join
 
 ## Sources
 
-[^3]: TO TRACE: reference 3 of the Wikipedia article this text was copied from.
+[^3]: Chelsea F.C. players' database, http://chelsea2.chelseafc.com/cgi-bin/playersearch.pl (cited in "Harry Wilding", Wikipedia, https://en.wikipedia.org/wiki/Harry_Wilding)
 
 ## Collector notes

@@ -30,8 +30,8 @@ Tom Ferguson was a Scottish footballer who played as a goalkeeper. He spent his 
 
 ## Sources
 
-[^5]: TO TRACE: reference 5 of the Wikipedia article this text was copied from.
-[^2]: TO TRACE: reference 2 of the Wikipedia article this text was copied from.
-[^6]: TO TRACE: reference 6 of the Wikipedia article this text was copied from.
+[^5]: John Litster (October 2012). "A Record of pre-war Scottish League Players". Scottish Football Historian magazine (cited in "Thomas Ferguson (goalkeeper)", Wikipedia, https://en.wikipedia.org/wiki/Thomas_Ferguson_(goalkeeper))
+[^2]: Thomas Ferguson = Falkirk FC, Falkirk Football Historian, 12 October 2010, http://www.falkirk-football-history.co.uk/2010/10/thomas-ferguson-falkirk-fc.html?m=1 (cited in "Thomas Ferguson (goalkeeper)", Wikipedia, https://en.wikipedia.org/wiki/Thomas_Ferguson_(goalkeeper))
+[^6]: "[SFL player] Thomas Ferguson". London Hearts Supporters' Club. https://londonhearts.com/sfl/players/thomasferguson.html (cited in "Thomas Ferguson (goalkeeper)", Wikipedia, https://en.wikipedia.org/wiki/Thomas_Ferguson_(goalkeeper))
 
 ## Collector notes

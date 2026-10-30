@@ -76,7 +76,7 @@ Manager: Bohemians: League of Ireland champions: 1933–34, FAI Cup winners: 193
 
 ## Sources
 
-[^2]: TO TRACE: reference 2 of the Wikipedia article this text was copied from.
-[^4]: TO TRACE: reference 4 of the Wikipedia article this text was copied from.
+[^2]: "Irish Cup finals". http://planet_shels.tripod.com/history/performances/irishcupfinals.html#1905 (cited in "Bill Lacey (footballer)", Wikipedia, https://en.wikipedia.org/wiki/Bill_Lacey_(footballer))
+[^4]: Matthews, Tony (6 July 2006). Who's Who of Liverpool. Mainstream Publishing. ASIN 1845961404 – via Amazon. https://www.amazon.co.uk/dp/1845961404 (cited in "Bill Lacey (footballer)", Wikipedia, https://en.wikipedia.org/wiki/Bill_Lacey_(footballer))
 
 ## Collector notes

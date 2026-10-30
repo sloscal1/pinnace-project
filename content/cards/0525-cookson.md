@@ -41,7 +41,7 @@ Cookson is regarded as one of Manchester City's greatest ever players. In 1977 M
 
 ## Sources
 
-[^2]: TO TRACE: reference 2 of the Wikipedia article this text was copied from.
-[^3]: TO TRACE: reference 3 of the Wikipedia article this text was copied from.
+[^2]: Penney, Ian (2000). The Essential History of Manchester City. Swindon: Headline. p. 46. ISBN 0-7472-7034-1. (cited in "Sam Cookson (English footballer)", Wikipedia, https://en.wikipedia.org/wiki/Sam_Cookson_(English_footballer))
+[^3]: Ward, Andrew (1984). The Manchester City Story. Derby: Breedon Books Publishing Limited. p. 28. ISBN 0-907969-05-4. (cited in "Sam Cookson (English footballer)", Wikipedia, https://en.wikipedia.org/wiki/Sam_Cookson_(English_footballer))
 
 ## Collector notes

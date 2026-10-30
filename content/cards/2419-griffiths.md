@@ -40,6 +40,6 @@ The 1939 Register records Griffiths employed as a labourer in an iron foundry an
 
 ## Sources
 
-[^6]: TO TRACE: reference 6 of the Wikipedia article this text was copied from.
+[^6]: "Local footballer for Lincoln". Shields Daily News. 24 August 1922. p. 1 – via British Newspaper Archive. https://www.britishnewspaperarchive.co.uk/viewer/bl/0001168/19220824/012/0001 (cited in "Tommy Griffiths (footballer, born 1901)", Wikipedia, https://en.wikipedia.org/wiki/Tommy_Griffiths_(footballer,_born_1901))
 
 ## Collector notes

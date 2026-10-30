@@ -73,6 +73,6 @@ Scottish Cup (6): 1903–04, 1906–07, 1907–08, 1910–11, 1911–12, 1913–
 
 ## Sources
 
-[^27]: TO TRACE: reference 27 of the Wikipedia article this text was copied from.
+[^27]: "Celtic all-time appearance age records". Fitbastats. http://www.fitbastats.com/celtic/player_records_age.php (cited in "Jimmy McMenemy", Wikipedia, https://en.wikipedia.org/wiki/Jimmy_McMenemy)
 
 ## Collector notes

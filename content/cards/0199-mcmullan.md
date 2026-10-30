@@ -62,6 +62,6 @@ Thanks to : www.thethistlearchive.net. For some stats on this page.
 
 ## Sources
 
-[^5]: TO TRACE: reference 5 of the Wikipedia article this text was copied from.
+[^5]: Lamming, Douglas (1987). A Scottish Soccer Internationalists Who's Who, 1872–1986. Hutton Press. ISBN 0-907033-47-4 (cited in "Jimmy McMullan", Wikipedia, https://en.wikipedia.org/wiki/Jimmy_McMullan)
 
 ## Collector notes

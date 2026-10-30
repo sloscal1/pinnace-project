@@ -55,6 +55,6 @@ Two of his sons Tommy and Willie also became footballers, as did his grandsons B
 
 ## Sources
 
-[^13]: TO TRACE: reference 13 of the Wikipedia article this text was copied from.
+[^13]: Campbell, Tom; Woods, Pat (1987). The Glory & The Dream. Grafton. p. 119. ISBN 9780586200056 (cited in "Patsy Gallacher", Wikipedia, https://en.wikipedia.org/wiki/Patsy_Gallacher)
 
 ## Collector notes

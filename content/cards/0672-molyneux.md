@@ -35,6 +35,6 @@ Molyneux was an English footballer who played for Stockport County and Chelsea. 
 
 ## Sources
 
-[^3]: TO TRACE: reference 3 of the Wikipedia article this text was copied from.
+[^3]: "The Cup Final". Manchester Guardian. 26 April 1915. p. 9. (cited in "Jim Molyneux", Wikipedia, https://en.wikipedia.org/wiki/Jim_Molyneux)
 
 ## Collector notes

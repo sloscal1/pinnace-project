@@ -99,36 +99,8 @@ Career tables with biography text in a row (12), or a card header read as a care
 ## Sources to trace (generated)
 
 <!-- generated: sources -->
-Footnotes whose source is still `TO TRACE` (28). Find the reference in the Wikipedia article the text came from and replace the source line (see the README).
+Footnotes whose source is still `TO TRACE` (0). Find the reference in the Wikipedia article the text came from and replace the source line (see the README).
 
-- [ ] `0030-barton` (Birmingham, p78): [^6]
-- [ ] `0147-carr` (Reading, p738): [^2], [^3], [^4], [^5]
-- [ ] `0161-ferguson` (Falkirk, p321): [^5], [^2], [^6]
-- [ ] `0163-mcdougall-2` (Falkirk, p321): [^2]
-- [ ] `0181-gallacher` (Glasgow Celtic, p255): [^13]
-- [ ] `0198-mcmenemy` (Partick Thistle, p661): [^27]
-- [ ] `0199-mcmullan` (Partick Thistle, p663): [^5]
-- [ ] `0240-parker` (Southampton, p817): [^4]
-- [ ] `0281-wilding` (Chelsea, p206): [^3]
-- [ ] `0287-harrison` (Manchester Utd, p538): [^3]
-- [ ] `0290-longworth` (Liverpool, p476): [^1]
-- [ ] `0291-lacey` (Liverpool, p477): [^2], [^4]
-- [ ] `0329-clennell` (Cardiff City, p184): [^1]
-- [ ] `0382-wilson-2` (Dunfermline, p303): [^9]
-- [ ] `0391-shaw` (Glasgow Celtic, p258): [^7]
-- [ ] `0522-woosnam` (Manchester City, p533): [^24], [^25], [^26]
-- [ ] `0525-cookson` (Manchester City, p534): [^2], [^3]
-- [ ] `0672-molyneux` (Chelsea, p209): [^3]
-- [ ] `0678-sewell-2` (Blackburn Rovers, p88a): [^5]
-- [ ] `0836-jones` (Coventry City, p238): [^1]
-- [ ] `0874-moore-2` (Leeds United, p451): [^1]
-- [ ] `1143-fox` (Middlesbrough, p556): [^6]
-- [ ] `1335-robb` (Glasgow Rangers, p751): [^9]
-- [ ] `1341-smith` (Glasgow Rangers, p754): [^3], [^4]
-- [ ] `1503-irvine` (Everton, p310): [^1]
-- [ ] `1554-mackie` (Portsmouth, p697): [^4]
-- [ ] `2419-griffiths` (Lincoln City, p470): [^6]
-- [ ] `2440-whalley` (Leeds United, p455): [^2], [^4]
 <!-- end generated -->
 
 ## Cards missing a detail (generated)
