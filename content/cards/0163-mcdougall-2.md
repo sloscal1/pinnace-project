@@ -20,8 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1813-1915 | Liverpool | 8 | 1 |  |
 | 1910-1912 | St Cuthberts Wanderers x2, Dumfries |  |  |  |
+| 1913-1915 | Liverpool | 8 | 1 |  |
 | 1915-1921 | Falkirk | 92 | 13 | Wanderers. |
 | 1921-1922 | Ayr Utd | 35 | 3 |  |
 | 1922-1923 | Queen of South & St Cuthberts |  |  |  |

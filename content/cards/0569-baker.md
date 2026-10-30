@@ -7,8 +7,8 @@ nickname: Alf
 surname: Baker
 name_note: 
 team: arsenal
-position: 
-height: 
+position: Right Half/Right Full Back
+height: 5'8"
 born: 27th April 1898, Ilkeston, Derbyshire, England
 died: 1st April 1955
 image: card-0569-baker.jpg
@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Right Half/Right Full Back 5' 8" |  |  | Eastwood Rangers |
+|  | Eastwood Rangers |  |  |  |
 | 1919-1931 | Arsenal | 351 | 23 |  |
 
 ## Representative

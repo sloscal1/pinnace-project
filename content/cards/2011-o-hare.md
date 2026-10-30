@@ -24,7 +24,8 @@ see_page:
 | 1922-1925 | Partick T | 46 | 0 |  |
 | 1924-1925 | G.Celtic |  |  |  |
 | 1925-1931 | Partick T | 142 | 0 |  |
-| 1931-1932 | Cork C 1932-1934 Cercle Athlétique de Paris |  |  |  |
+| 1931-1932 | Cork C |  |  |  |
+| 1932-1934 | Cercle Athlétique de Paris |  |  |  |
 | 1933-1934 | Southport (trial) |  |  |  |
 
 ## Collector notes

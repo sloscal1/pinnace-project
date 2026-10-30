@@ -7,10 +7,10 @@ nickname:
 surname: Donkin
 name_note: 
 team: barnsley
-position: 
+position: Winger
 height: 
-born: 
-died: 
+born: 1st December 1892 Carlton South Yorkshire
+died: 1927
 image: card-0594-donkin.jpg
 source_page: 67
 see_page: 
@@ -20,7 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Born : 1st December 1892 Carlton South Yorkshire Died : |  |  | 1927 Winger 1910-1911 Wharncliffe Woodmoor 1913 Mirfield Utd 1911-1912 Royston Midland 1912-1913 Monkton Athletic |
+| 1910-1911 | Wharncliffe Woodmoor |  |  |  |
+| 1911-1912 | Royston Midland |  |  |  |
+| 1912-1913 | Monkton Athletic |  |  |  |
+| 1913 | Mirfield Utd |  |  |  |
 | 1913-1925 | Barnsley | 230 | 20 |  |
 
 ## Biography

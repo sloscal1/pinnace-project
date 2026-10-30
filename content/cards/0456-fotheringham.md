@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1919– Larkhill Thistle |  |  |  |
+| 1919 | Larkhill Thistle |  |  |  |
 | 1919-1921 | Airdrieonians | 81 | 0 |  |
 | 1921-1924 | Dudee | 115 | 0 |  |
 | 1924-1927 | Morton | 105 | 0 |  |

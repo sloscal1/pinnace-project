@@ -26,7 +26,9 @@ see_page:
 | 1913-1914 | Oldham Ath | 1 | 0 |  |
 | 1914-1915 | Leeds C | 6 | 0 |  |
 | 1915-1919 | Dundee Hibernian, Morton | 8 |  |  |
-| 1919-1911 | Newcastle U (trial) Dumbarton | 11 |  | , Shildon Athletic |
+|  | Newcastle U (trial) |  |  | years given as 1919-1911 |
+|  | Dumbarton | 11 |  |  |
+|  | Shildon Athletic |  |  |  |
 | 1921-1922 | Southend U | 19 | 0 |  |
 | 1922-1923 | Artillery, Tunbridge Wells Rang |  |  |  |
 

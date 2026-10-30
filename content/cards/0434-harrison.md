@@ -7,8 +7,8 @@ nickname:
 surname: Harrison
 name_note: 
 team: everton
-position: 
-height: 
+position: Winger
+height: 5'7"
 born: 18th July 1892 Church Gresley, Derbyshire, England
 died: 12th February 1939 Church Gresley, Derbyshire, England
 image: card-0434-harrison.jpg
@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Winger 5' 7" Junior football at Church Gresley 1910 |  |  |  |
+| 1910 | Church Gresley |  |  | Junior football |
 | 1910-1913 | Leicester Fosse | 60 | 12 |  |
 | 1913-1924 | Everton | 190 | 18 |  |
 | 1923-1931 | Preston NE | 284 | 102 |  |

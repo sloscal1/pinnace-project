@@ -20,10 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1824-1926 | Crystal P | 59 | 0 |  |
 | 1920 | Wishaw |  |  |  |
 | 1921-1923 | Sunderland | 28 | 0 |  |
 | 1923-1924 | Manchester C | 4 | 0 |  |
+| 1924-1926 | Crystal P | 59 | 0 |  |
 | 1926-1927 | Luton T | 34 | 0 |  |
 | 1927-1928 | Weymouth, Callender Athletic |  |  |  |
 

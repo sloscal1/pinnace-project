@@ -23,8 +23,11 @@ see_page:
 |  | Larkhall Thistle, Hall Russell |  |  |  |
 | 1918-1919 | Bellshill Athletic |  |  |  |
 | 1919-1926 | Aberdeen | 239 | 13 |  |
-| 1923-1928 | he represented the full Scottish team on 10 occasions scoring one goal and the Scottish League XI 4 times |  |  |  |
 | 1926-1933 | Blackburn R | 128 | 4 |  |
+
+## Representative
+
+- 1923-1928 he represented the full Scottish team on 10 occasions scoring one goal and the Scottish League XI 4 times.
 
 ## Honours
 

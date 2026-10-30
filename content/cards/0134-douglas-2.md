@@ -20,7 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1909 | St Saviour's, 1910 Custom House, 1911 Ilford |  |  |  |
+| 1909 | St Saviour's |  |  |  |
+| 1910 | Custom House |  |  |  |
+| 1911 | Ilford |  |  |  |
 | 1912-1921 | Leicester Fosse/City | 133 | 11 |  |
 | 1920-1922 | Burnley | 5 | 0 |  |
 | 1922-1926 | Oldham Ath | 141 | 9 |  |

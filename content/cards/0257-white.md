@@ -7,8 +7,8 @@ nickname: Willie
 surname: White
 name_note: 
 team: hamilton-acc
-position: 
-height: 
+position: Goalkeeper
+height: 5'10"
 born: 5th March 1895 Airdrie, Scotland
 died: 28th November 1974 Glasgow, Scotland
 image: card-0257-white.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Goalkeeper 5' 10" |  |  |  |
 | 1919-1923 | Hamilton Acc | 111 | 0 |  |
 | 1923-1928 | Hearts | 160 | 0 |  |
 | 1928-1932 | Southampton | 101 | 0 |  |

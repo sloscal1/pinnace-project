@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1919-1921 | Fulham | 25 | 9 |  |
-| 1922-1023 | Exeter C | 31 | 22 |  |
+| 1922-1923 | Exeter C | 31 | 22 |  |
 | 1923-1924 | Port Vale | 6 | 2 |  |
 | 1923-1925 | Chesterfield | 56 | 30 |  |
 | 1924-1925 | Gillingham | 7 | 1 |  |

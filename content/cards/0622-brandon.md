@@ -20,7 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1909-1920 | Blackburn Rovers, Rossendale Utd, Darwen, 1911-1913 South Liverpool, West Ham Utd, 1919-1920 Bristol Rovers |  |  |  |
+| 1909 | Blackburn Rovers, Rossendale Utd, Darwen |  |  |  |
+| 1911-1913 | South Liverpool, West Ham Utd |  |  |  |
+| 1919-1920 | Bristol Rovers |  |  |  |
 | 1920-1922 | Hull City | 56 | 3 |  |
 | 1922-1925 | Bradford PA | 85 | 0 |  |
 | 1926-1926 | Wigan Borough | 8 | 0 |  |

@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1919 | Welbeck Colliery (Notts) (and again briefly in 1921) |  |  |  |
+| 1919 | Welbeck Colliery (Notts) |  |  | and again briefly in 1921 |
 | 1920-1922 | Gillingham | 36 | 0 |  |
 | 1922-1927 | Bradford City | 69 | 1 |  |
 | 1927 | Staveley Town |  |  |  |

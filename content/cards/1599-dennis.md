@@ -7,8 +7,8 @@ nickname: Billy
 surname: Dennis
 name_note: 
 team: stalybridge-celtic
-position: 
-height: 
+position: Full Back
+height: 5'9"
 born: 21st September 1895, Mossley, Manchester, Lancashire, England
 died: January 1952, Ashton, Cheshire, England
 image: card-1599-dennis.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Full Back 5' 9" |  |  |  |
 | 1911-1918 | Ashton PSA, Denton (trial), Stalybridge Celtic (amateur, no defined records) |  |  |  |
 | 1919-1929 | Blackburn R | 5 | 0 |  |
 | 1921-1923 | Stalybridge C | 80 | 0 |  |

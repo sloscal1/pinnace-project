@@ -25,7 +25,7 @@ see_page:
 | 1920 | Peterborough & Fletton Utd |  |  |  |
 | 1920 | Vale of Clyde |  |  |  |
 | 1920-1928 | Ayr Utd | 128 | 0 |  |
-| 1924-1925 | Galston FC (loan) I app |  | 0 |  |
+| 1924-1925 | Galston FC (loan) | 1 | 0 |  |
 
 ## Biography
 

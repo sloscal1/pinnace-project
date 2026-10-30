@@ -7,8 +7,8 @@ nickname: Bill
 surname: Palmer
 name_note: 
 team: gillingham
-position: 
-height: 
+position: Outside Left
+height: 5'9"
 born: 22nd November 1887 Barnsley, Yorkshire, England
 died: April 1958 Hemsworth, Doncaster, Yorkshire, England
 image: card-0759-palmer-2.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Outside Left 5' 9" |  |  |  |
 | 1906-1907 | Ardsley Nelson, Barnsley Mexborough |  |  |  |
 | 1909-1910 | Nottingham For | 16 | 1 |  |
 | 1910 | Rotherham Co |  |  |  |

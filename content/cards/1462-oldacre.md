@@ -7,8 +7,8 @@ nickname:
 surname: Oldacre
 name_note: 
 team: sheffield-united
-position: 
-height: 
+position: Inside/Centre Forward
+height: 5'9"
 born: 25th October 1892, Stoke on Trent, Staffordshire, England
 died: 26th January 1970,Stoke on Trent, Staffordshire, England
 image: card-1462-oldacre.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside/Centre Forward 5' 9" |  |  |  |
 | 1912-1920 | Hanley Providence, Etruria Village, Aston Villa (trial), Castleford Town |  |  |  |
 | 1919-1920 | Exeter City | 33 | 8 |  |
 | 1921-1923 | Sheffield U | 6 | 5 |  |

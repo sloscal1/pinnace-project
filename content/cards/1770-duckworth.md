@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | ????-1915 Accrington S |  |  |  |
+|  | Accrington S |  |  | until 1915 |
 | 1915-1921 | Blackburn R | 5 | 0 |  |
 | 1921-1924 | Aberdare Ath | 84 | 0 |  |
 | 1924-1930 |  | 202 | 0 |  |

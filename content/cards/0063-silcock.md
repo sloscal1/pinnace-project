@@ -22,8 +22,11 @@ see_page:
 |---|---|---|---|---|
 | 1915 | Atherton (Amateur) |  |  |  |
 | 1919-1934 | Manchester Utd | 449 | 3 |  |
-| 1921-1923 | 3 England appearances, the first v Wales at Ninian Park, Cardiff, Wales, a 0-0 draw March 14th 1921, his last, a friendly v Sweden in Stockholm a 3-1 win 24th May 1923 |  |  |  |
 | 1934 | Droylsden |  |  |  |
 | 1934-1935 | Oldham Ath (trial) |  |  |  |
+
+## Representative
+
+- 1921-1923 3 England appearances, the first v Wales at Ninian Park, Cardiff, Wales, a 0-0 draw March 14th 1921, his last, a friendly v Sweden in Stockholm a 3-1 win 24th May 1923.
 
 ## Collector notes

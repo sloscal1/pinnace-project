@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1913-914 Leith, Benwell Adelaide |  |  |  |
+| 1913-1914 | Leith, Benwell Adelaide |  |  |  |
 | 1919-1923 | South Shields | 160 | 6 | Salisbury City, Shirley Town |
 | 1923-1924 | Middlesbrough | 26 | 0 | Leamington Town. |
 | 1924-1930 | Newcastle U | 163 | 0 |  |

@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1910-19114 Wycombe W |  |  |  |
+| 1910-1914 | Wycombe W |  |  |  |
 | 1919-1929 | Wycombe W | 331 | 104 | (both periods) |
 
 ## Collector notes

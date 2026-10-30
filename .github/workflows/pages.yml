@@ -25,6 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: python tools/check.py    # stop before publishing if a content file breaks a rule
       - run: python tools/report.py   # refresh the checklist's generated sections
       - run: python tools/build.py
       - uses: actions/configure-pages@v5

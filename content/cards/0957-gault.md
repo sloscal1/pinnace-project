@@ -7,8 +7,8 @@ nickname: Ernie
 surname: Gault
 name_note: 
 team: stockport-county
-position: 
-height: 
+position: Inside Forward
+height: 5'9"
 born: 20th September 1889,Wallsend, Newcastle upon Tyne, Northumberland, England
 died: 1980
 image: card-0957-gault.jpg
@@ -20,10 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside Forward 5' 9" |  |  |  |
 | 1911-1912 | Jarrow Caledonians |  |  |  |
 | 1912-1913 | Everton | 8 | 1 |  |
-| 1913-1915 | Stockport C | 65 |  | 21 |
+| 1913-1915 | Stockport C | 65 | 21 |  |
 | 1919-1920 | Everton | 22 | 12 |  |
 | 1920-1921 | Cardiff C | 2 | 0 |  |
 | 1920-1922 | Stockport C | 42 | 33 |  |

@@ -23,7 +23,7 @@ see_page:
 | 1906 | Kilnhurst Town |  |  |  |
 | 1907-1909 | Grimsby T | 10 | 0 |  |
 | 1909 | Denaby Town |  |  |  |
-| 1910-1815 | The Wednesday | 133 | 42 |  |
+| 1910-1915 | The Wednesday | 133 | 42 |  |
 | 1919-1921 | Rotherham C* | 66 | 17 |  |
 
 ## Biography

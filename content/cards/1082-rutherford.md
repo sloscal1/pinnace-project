@@ -7,8 +7,8 @@ nickname: Jock
 surname: Rutherford
 name_note: 
 team: arsenal
-position: 
-height: 
+position: Outside Right
+height: 5'8½"
 born: 12th October 1884 Percy Main, Northumberland, England
 died: 21st April 1963
 image: card-1082-rutherford.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Outside Right 5' 8½" |  |  |  |
 | 1902-1913 | Newcastle Utd | 290 | 78 |  |
 | 1913-1923 | Arsenal | 177 | 21 |  |
 | 1923-1926 | Arsenal | 45 | 4 |  |

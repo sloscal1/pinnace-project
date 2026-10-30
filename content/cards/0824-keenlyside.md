@@ -25,6 +25,6 @@ see_page:
 | 1911 | Jarrow Croft |  |  |  |
 | 1920-1923 | South Shields | 105 | 12 |  |
 | 1923-1924 | Hartlepools U | 27 | 2 |  |
-| 1934-1925 | Chester le Street Jarrow |  |  |  |
+| 1924-1925 | Chester le Street Jarrow |  |  |  |
 
 ## Collector notes

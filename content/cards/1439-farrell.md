@@ -7,7 +7,7 @@ nickname:
 surname: Farrell
 name_note: 
 team: clyde
-position: Cumbernauld Thistle, Bellshill Athletic.
+position: 
 height: 
 born: Glasgow, Scotland
 died: 
@@ -20,11 +20,12 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Cumbernauld Thistle, Bellshill Athletic |  |  |  |
 | 1911-1924 | Clyde | 277 |  | ? Goals |
 | 1913-1914 | Renton (loan) |  |  |  |
 | 1914-1915 | Partick Thistle (loan) |  |  |  |
 | 1916-1917 | Stevenston United (loan) |  |  |  |
-| 1917-1918 | Kilmarnock (loan) I app |  |  |  |
+| 1917-1918 | Kilmarnock (loan) | 1 |  |  |
 | 1924-1925 | Nairn County |  |  |  |
 
 ## Collector notes

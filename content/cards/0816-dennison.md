@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1919, Arnold St Mary's |  |  |  |
+| 1919 | Arnold St Mary's |  |  |  |
 | 1920-1924 | Norwich C | 126 | 38 |  |
 | 1924-1925 | Brighton & HA | 28 | 13 |  |
 | 1925-1926 | Manchester C | 9 | 4 |  |

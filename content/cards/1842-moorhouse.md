@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1920-1921 | Leeds U (trial) | 0 | 0 |  |
 | 1921-1922 | Tranmere R | 2 | 0 |  |
-| 1923 | Montreal CPR (Canada) ? Apps |  |  |  |
+| 1923 | Montreal CPR (Canada) |  |  | ? apps |
 | 1923 | Brooklyn Wanderers | 3 | 1 |  |
 | 1923-1930 | New York Giants | 250 | 45 |  |
 | 1930 | New York Soccer Club (loan) | 25 | 5 |  |

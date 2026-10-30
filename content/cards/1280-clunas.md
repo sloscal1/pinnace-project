@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1917-2918 | Kilbarchan Athletic |  |  |  |
+| 1917-1918 | Kilbarchan Athletic |  |  |  |
 | 1918-1919 | Johnstone |  |  |  |
 | 1919 | Luton T (trial) |  |  |  |
 | 1920-1923 | St Mirren | 89 | 9 |  |

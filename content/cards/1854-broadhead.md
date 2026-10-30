@@ -20,9 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1912-1920 | Kimberworth Old Boys, Rotherham County, Norwich City, South Shields, Lincoln & |  |  | Lindsey United. |
+| 1912-1920 | Kimberworth Old Boys, Rotherham County, Norwich City, South Shields, Lincoln & Lindsey United |  |  |  |
 | 1922-1928 | Nelson | 69 | 1 |  |
-| 1928-1930 | Horwich RMI , Morecambe. 1926 Barnoldswick T |  |  |  |
+| 1926 | Barnoldswick T |  |  |  |
+| 1928-1930 | Horwich RMI, Morecambe |  |  |  |
 
 ## Biography
 

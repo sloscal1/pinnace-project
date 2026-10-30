@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1908-1920 | Wallsend Park Villa, St. Mirren, Cardiff City, Ashington (1914), Belfast Utd |  |  |  |
+| 1908-1920 | Wallsend Park Villa, St. Mirren, Cardiff City, Ashington, Belfast Utd |  |  | Ashington from 1914 |
 | 1921-1923 | Ashington | 71 | 3 |  |
 | 1923-1924 | Halifax Town | 20 | 2 |  |
 | 1924-1926 | Victoria Garesfield (Northumberland), Stanley Utd |  |  |  |

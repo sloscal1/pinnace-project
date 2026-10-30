@@ -7,8 +7,8 @@ nickname:
 surname: Sommerville
 name_note: 
 team: hamilton-acc
-position: 
-height: 
+position: Goalkeeper
+height: 5'10"
 born: 21st December 1900 Dalziel Scotland
 died: December 1984 Bristol, Somerset, England
 image: card-1539-sommerville.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Goalkeeper 5' 10" |  |  |  |
 | 1919-1920 | Holytown Violet, Strathclyde |  |  |  |
 | 1921 | Hamilton Acc | 138 | 0 |  |
 | 1926-1932 | Burnley | 118 | 0 |  |

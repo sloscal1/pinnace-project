@@ -25,7 +25,7 @@ see_page:
 | 1921-1923 | Dundee | 29 | 0 |  |
 | 1923-1925 | Fulham | 16 | 0 |  |
 | 1927-1930 | Providence (America) |  |  |  |
-| 1931 | Fall River a app |  | 0 |  |
+| 1931 | Fall River | 1 | 0 |  |
 | 1931 | New York Giants | 2 | 0 |  |
 
 ## Biography

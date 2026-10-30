@@ -20,9 +20,16 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1908-1920 | Belfast Celtic 1908, Distillery1909 &1918, Glenavon 1910, Shelbourne 1915, Belfast Utd 1917, Tranmere Rovers 1920, Everton 1921 |  |  |  |
+| 1908 | Belfast Celtic |  |  |  |
+| 1909 | Distillery |  |  |  |
+| 1910 | Glenavon |  |  |  |
+| 1915 | Shelbourne |  |  |  |
+| 1917 | Belfast Utd |  |  |  |
+| 1918 | Distillery |  |  |  |
+| 1920 | Tranmere Rovers |  |  |  |
+| 1921 | Everton |  |  |  |
 | 1921-1923 | Chesterfield | 49 | 9 |  |
-| 1923-2924 | Grimsby T | 13 | 0 |  |
+| 1923-1924 | Grimsby T | 13 | 0 |  |
 | 1924-1925 | Shamrock Rovers, & Frankfort (Dublin) |  |  |  |
 
 ## Collector notes

@@ -20,7 +20,9 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1904-1908 | Multi junior sides including Bolton Wan (trial 1906), and Rochdale (1908) |  |  |  |
+| 1904-1908 | Multi junior sides |  |  |  |
+| 1906 | Bolton Wan (trial) |  |  |  |
+| 1908 | Rochdale |  |  |  |
 | 1910-1923 | Everton | 285 | 10 |  |
 | 1923-1924 | Oldham Ath | 5 | 0 |  |
 | 1924 | Chester |  |  |  |

@@ -7,8 +7,8 @@ nickname:
 surname: Newman
 name_note: 
 team: exeter-city
-position: 
-height: 
+position: Winger
+height: 5'6"
 born: 14th October 1898 Nuneaton, Warwickshire, England
 died: 1977
 image: card-0859-newman.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Winger 5' 6" |  |  |  |
 | 1919-1920 | Aston Villa |  |  |  |
 | 1920-1921 | Port Vale | 20 | 0 |  |
 | 1921-1923 | Exeter C | 60 | 2 |  |

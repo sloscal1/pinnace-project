@@ -7,8 +7,8 @@ nickname:
 surname: Hannah
 name_note: 
 team: aberdeen
-position: 
-height: 
+position: Right Back
+height: 5'7"
 born: Aberdeen, Scotland
 died: 
 image: card-0194-hannah.jpg
@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Right Back 5' 7" |  |  | Aberdeen East End |
+|  | Aberdeen East End |  |  |  |
 | 1908-1914 | Aberdeen |  |  |  |
 | 1919-1921 | Peterhead |  |  |  |
 | 1922 | Forfar Athletic |  |  |  |

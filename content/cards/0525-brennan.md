@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Hollinwood Utd, Denton |  |  |  |
-| 1812-1913 | Glossop | 21 | 0 |  |
+| 1912-1913 | Glossop | 21 | 0 |  |
 | 1913-1914 | Bradford C | 11 | 0 |  |
 | 1914-1922 | Manchester C | 60 | 0 |  |
 | 1922-1923 | Rochdale |  |  |  |

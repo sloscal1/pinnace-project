@@ -7,8 +7,8 @@ nickname: Tom
 surname: Crighton
 name_note: 
 team: partick-thistle
-position: 
-height: 
+position: Right Back
+height: 5'11"
 born: 28th June 1893, Sanquhar, Dumbartonshire, Scotland
 died: 15th August 1936 Sanquhar, Dumbartonshire, Scotland
 image: card-1357-crighton.jpg
@@ -20,13 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Right Back 5' 11" |  |  |  |
+|  | Nithsdale Wanderers |  |  |  |
+| 1918-1926 | Partick T | 188 | 0 |  |
 
 ## Biography
-
-Nithsdale Wanderers
-
-1918-1926 Partick T 188 apps 0 goals
 
 Tom Crichton began his football career with Nithsdale Wanderers and played Army football during the First World War before joining Scottish League club Partick Thistle in January 1919 shortly after the conflict was over, initially playing centre half before moving position to right back, making his Scottish League debut in a 2-1 defeat at Celtic the following month.
 

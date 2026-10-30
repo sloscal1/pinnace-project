@@ -7,8 +7,8 @@ nickname: Willy
 surname: Crilly
 name_note: 
 team: alloa
-position: 
-height: 
+position: Centre Forward
+height: 5'3"
 born: 29th August 1901 Cowcaddens, Glasgow, Scotland
 died: 17th September 1955 New York City, U.S.A
 image: card-1124-crilly.jpg
@@ -20,29 +20,27 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Centre Forward 5' 3" |  |  |  |
+| 1918-1919 | R&J Dick Ltd Welfare |  |  |  |
+| 1918-1921 | Clyde (trial), Shawfield Juniors (trial), Cambuslang Rangers |  |  |  |
+| 1920-1921 | Alloa | 12 | 51 | (this record is incomplete) |
+| 1922-1923 | Glasgow Celtic | 3 | 1 |  |
+| 1922-1923 | Alloa |  |  | (no records available) |
+| 1922-1924 | New York | 7 | 5 |  |
+| 1923-1924 | New York giants | 2 | 1 |  |
+| 1924-1925 | Indiana flooring | 11 | 4 |  |
+| 1925-1927 | J&P Coats | 9 | 3 |  |
+| 1926-1927 | Philadelphia Field Club | 2 | 1 |  |
+| 1927-1928 | New York Nationals | 4 | 1 |  |
+| 1927-1928 | New York Hispano |  |  |  |
+| 1929-1931 | Alloa |  |  | (no records available) (This record is supplied by Scottish League Players Records 1890-1939) |
+| 1930 | Newark Americans | 2 | 2 |  |
+| 1930 | New York SC | 1 | 0 |  |
+| 1931 | Fall River | 5 | 0 |  |
+| 1931 | Brooklyn wanderers | 7 | 14 |  |
+| 1931 | New York Americans | 10 | 9 |  |
+|  | Bohemian Queens Club, Nassau, Brooklyn Hispano, St Mary's Celtic |  |  | Crilly played for these clubs but dates and details are unknown |
 
 ## Biography
-
-Centre Forward
-
-1918-1919 R&J Dick Ltd Welfare
-
-1918-1921 Clyde (trial), Shawfield Juniors (trial) Cambuslang Rangers.
-
-1920-1921 Alloa 12 apps 51 goals (this record is incomplete)
-
-1922-1923 Glasgow Celtic 3 apps 1 goal 1930 Newark Americans 2 apps 2 goals
-
-1922-1923 Alloa (no records available) 1930 New York SC 1 app 0 goals
-
-1922-1924 New York 7 apps 5 goals 1931 Fall River 5 apps 0 goals
-
-1923-1924 New York giants 2 apps 1 goal 1931 Brooklyn wanderers 7 apps 14 goals
-
-1924-1925 Indiana flooring 11 apps 4 goals 1931 New York Americans 10 apps 9 goals 1925-1927 J&P Coats 9 apps 3 goals Bohemian Queens Club, Nassau, 1926-1927 Philadelphia Field Club 2 apps 1 goal Brooklyn Hispano, St Mary's Celtic 1927-1928 New York Nationals 4 apps 1 goal (Crilly played for the above clubs but dates 1927-1928 New York Hispano and details are unknown)
-
-1929-1931 Alloa (no records available) (This record is supplied by Scottish League Players Records 1890-1939)
 
 Willie was without doubt, Alloa Athletics' greatest ever player, small in stature, standing just over five foot in height and slightly built. However what he could do with a ball at his feet was uncanny, his ball control and his confidence were shattering to the opposition. One anecdote from his career goes that he once went between the legs of a tall centre half against Kings Park, and after rounding a bemused keeper he asked the delighted Alloa fans behind the goal where they would like him to place the ball!
 

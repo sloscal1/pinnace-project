@@ -7,8 +7,8 @@ nickname: Joe
 surname: Eddleston
 name_note: 
 team: nelson
-position: 
-height: 
+position: Inside Forward/Centre Forward
+height: 5'6½"
 born: 19th December 1896, Oswaldwhistle, Accrington, Lancashire, England
 died: 24th March 1959, Blackburn, Lancashire, England
 image: card-1863-eddleston.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside Forward/Centre Forward 5' 6½" |  |  |  |
 | 1918 | St Mary's RC (Oswaldwhistle) |  |  |  |
 | 1919-1920 | Blackburn R | 7 | 3 |  |
 | 1921-1926 | Nelson | 193 | 100 |  |

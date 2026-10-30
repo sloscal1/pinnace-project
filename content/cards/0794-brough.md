@@ -7,8 +7,8 @@ nickname: Joe
 surname: Brough
 name_note: 
 team: port-vale
-position: 
-height: 
+position: Inside Forward / Half Back
+height: 5'8½"
 born: 9th November 1886, Burslem, Stoke on Trent, Staffordshire, England
 died: 5th October 1968, Stockton Brook, Stoke on Trent, Staffordshire, England
 image: card-0794-brough.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside Forward / Half Back 5' 8½" |  |  |  |
 | 1901-1906 | Burslem Park, Smallthorne |  |  |  |
 | 1906-1907 | Burslem Port Vale* | 11 | 1 |  |
 | 1907-1908 | Stoke C | 1 | 0 |  |

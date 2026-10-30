@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1916-1923 | Dulwich Hamlet (1923 is assumption given the dates the cards were photographed) |  |  |  |
+| 1916-1923 | Dulwich Hamlet |  |  | 1923 is assumption given the dates the cards were photographed |
 | 1924-1927 | Fulham | 4 | 1 |  |
 | 1927 | Sheppey Utd |  |  |  |
 

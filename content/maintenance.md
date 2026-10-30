@@ -80,14 +80,11 @@ Card numbers given to players with different names (42). Usually a typo in the n
 ## Career rows to check (generated)
 
 <!-- generated: career -->
-Career tables with biography text in a row (15), or a card header read as a career row. Move the text to the biography, or rewrite the row from the .pub page.
+Career tables with biography text in a row (12), or a card header read as a career row. Move the text to the biography, or rewrite the row from the .pub page.
 
-- [ ] `0033-dobson` (Barnsley, p67): no years row: the card's header was read as a career row
 - [ ] `0044-wren-2` (Notts County, p625): 1919-1922 row: biography text in the table
 - [ ] `0141-skiller` (Swindon Town, p875): 1920-1922 row: biography text in the table
 - [ ] `0245-gould-2` (Glasgow Rangers, p750): 1921-1924 row: biography text in the table
-- [ ] `0594-donkin` (Barnsley, p67): no years row: the card's header was read as a career row
-- [ ] `0597-wainscoat` (Barnsley, p67): no years row: the card's header was read as a career row
 - [ ] `0762-lennon` (Luton Town, p490): 1919-1920 row: biography text in the table
 - [ ] `0763-tirrell` (Luton Town, p490): 1920-1924 row: biography text in the table
 - [ ] `1147-brown` (Raith Rovers, p728): 1924-1925 row: biography text in the table
@@ -235,67 +232,36 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 
 </details>
 
-<details><summary>no position (138)</summary>
+<details><summary>no position (100)</summary>
 
-- [ ] `0027-carr` (Middlesbrough, p549)
-- [ ] `0033-dobson` (Barnsley, p67)
-- [ ] `0073-smith` (South Shields, p805)
 - [ ] `0086-boyle` (Burnley, p153)
 - [ ] `0141-skiller` (Swindon Town, p875)
 - [ ] `0146-harbridge` (Charlton, p195)
-- [ ] `0151-bleakley` (Hull City, p429)
 - [ ] `0192-gibbon` (Dundee, p295)
-- [ ] `0194-hannah` (Aberdeen, p19)
-- [ ] `0200-kinloch` (Partick Thistle, p664)
 - [ ] `0242-walker` (Third Lanark, p883)
 - [ ] `0246-dickson-2` (Queens Park, p708)
 - [ ] `0246-dickson` (Hamilton Acc, p351)
-- [ ] `0257-white` (Hamilton Acc, p352)
 - [ ] `0272-kerr` (Hibernian, p404)
 - [ ] `0282-cock-2` (Everton, p311a)
-- [ ] `0385-davies` (Everton, p306)
 - [ ] `0389-mcalpine` (Queens Park, p709)
-- [ ] `0405-clay` (Tottenham Hotspur, p893)
-- [ ] `0434-harrison` (Everton, p306)
 - [ ] `0465-walker` (Third Lanark, p885)
-- [ ] `0533-gregory` (Wolverhampton Wanderers, p973)
 - [ ] `0538-seddon` (Bolton Wanderers, p98)
-- [ ] `0569-baker` (Arsenal, p56b)
-- [ ] `0594-donkin` (Barnsley, p67)
-- [ ] `0597-wainscoat` (Barnsley, p67)
-- [ ] `0625-lodge` (Hull City, p432)
 - [ ] `0633-bown` (Halifax Town, p411)
 - [ ] `0635-pynegar` (Leicester City, p461)
-- [ ] `0657-cope` (West Ham United, p939)
-- [ ] `0659-kay` (West Ham United, p940)
 - [ ] `0665-james` (West Ham United, p943)
-- [ ] `0675-moss` (Aston Villa, p9)
 - [ ] `0748-lyons` (Derby Co, p274)
-- [ ] `0759-palmer-2` (Gillingham, p339)
-- [ ] `0794-brough` (Port Vale, p684)
-- [ ] `0795-briscoe` (Port Vale, p685)
 - [ ] `0802-short` (Watford, p922)
 - [ ] `0817-smith` (Norwich City, p618)
 - [ ] `0830-hole` (Swansea Town, p774)
 - [ ] `0852-walters` (Millwall, p569)
-- [ ] `0859-newman` (Exeter City, p315)
-- [ ] `0871-carrick` (Oldham Ath, p652)
 - [ ] `0874-moore` (Brighton & Hove, p130)
 - [ ] `0876-lawrence` (Derby Co, p274)
-- [ ] `0957-gault` (Stockport County, p850)
 - [ ] `0960-butcher` (Corinthians, p236)
 - [ ] `0964-ashton` (Corinthians, p232)
-- [ ] `1082-rutherford` (Arsenal, p56)
-- [ ] `1114-blackburn` (Aston Villa, p11c)
-- [ ] `1124-crilly` (Alloa, p38)
-- [ ] `1148-hall` (Halifax Town, p411)
-- [ ] `1159-kidd` (Wigan, p952)
 - [ ] `1174-` (Wimbledon, p958)
-- [ ] `1187-nimmo` (Barrow, p70)
 - [ ] `1193-moss` (Crewe Alex, p245)
 - [ ] `1221-archer` (Swindon Town, p879)
 - [ ] `1245-noble` (Albion Rovers, p31a)
-- [ ] `1254-gallacher` (Airdrie, p23)
 - [ ] `1270-sneddon` (Queens Park, p710)
 - [ ] `1278-duff` (St Mirren, p782)
 - [ ] `1291-ford` (Alloa, p41a)
@@ -305,7 +271,6 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 - [ ] `1304-nicol` (Dundee, p297)
 - [ ] `1323-sivewright` (Dulwich Hamlet, p281)
 - [ ] `1345-mcclure` (Clyde, p173b)
-- [ ] `1357-crighton` (Partick Thistle, p665)
 - [ ] `1359-guilliard` (Dulwich Hamlet, p281)
 - [ ] `1367-brooker` (Dulwich Hamlet, p281)
 - [ ] `1368-goodliffe` (Dulwich Hamlet, p281)
@@ -320,23 +285,18 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 - [ ] `1413-calderwood` (Queens Park, p713)
 - [ ] `1423-wallace` (Clydebank, p176)
 - [ ] `1424-shaw` (Woking, p964)
+- [ ] `1439-farrell` (Clyde, p173c)
 - [ ] `1452-meikle` (Airdrie, p25)
-- [ ] `1462-oldacre` (Sheffield United, p787)
-- [ ] `1492-marshall` (Oldham Ath, p654)
 - [ ] `1524-hunt` (Dulwich Hamlet, p281)
-- [ ] `1539-sommerville` (Hamilton Acc, p353)
 - [ ] `1542-johnstone` (Hamilton Acc, p353)
-- [ ] `1595-stafford` (Stalybridge Celtic, p843)
-- [ ] `1599-dennis` (Stalybridge Celtic, p844)
 - [ ] `1648-harvey` (Kilmarnock, p445)
 - [ ] `1654-dickson` (Queens Park, p711)
+- [ ] `1655-bell` (Clydebank, p176)
 - [ ] `1657-mckechnie` (Partick Thistle, p668)
 - [ ] `1663-muir` (Ayr Utd, p46c)
 - [ ] `1664-nesbit` (Ayr Utd, p46c)
-- [ ] `1686-kay` (Barnsley, p68a)
 - [ ] `1765-gillespie` (Aberdare, p36c)
 - [ ] `1836-gatland` (Ilford, p438)
-- [ ] `1863-eddleston` (Nelson, p582)
 - [ ] `1877-three` (Durham, p285)
 - [ ] `1879-elliott` (Durham, p286)
 - [ ] `1880-young` (Durham, p286)
@@ -351,7 +311,6 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 - [ ] `2076-edelston` (Fulham, p334)
 - [ ] `2109-timmins` (Walsall, p915)
 - [ ] `2144-jenkins` (Brighton & Hove, p132)
-- [ ] `2176-williams` (Manchester Utd, p546)
 - [ ] `2200-garratt` (Chesterfield, p215)
 - [ ] `2318-green` (Corinthians, p236)
 - [ ] `2319-bell` (Corinthians, p233)
@@ -378,10 +337,9 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 
 </details>
 
-<details><summary>no birth line (91)</summary>
+<details><summary>no birth line (86)</summary>
 
 - [ ] `0004-hardy-2` (Nottingham Forest, p634)
-- [ ] `0033-dobson` (Barnsley, p67)
 - [ ] `0135-anderson` (Clyde, p173c)
 - [ ] `0167-spencer` (Brighton & Hove, p132a)
 - [ ] `0210-ferrier` (Morton, p507)
@@ -396,8 +354,6 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 - [ ] `0388-thom` (Queens Park, p709)
 - [ ] `0430-feebury` (Crystal Palace, p252a)
 - [ ] `0433-stephenson` (Huddersfield Town, p423)
-- [ ] `0594-donkin` (Barnsley, p67)
-- [ ] `0597-wainscoat` (Barnsley, p67)
 - [ ] `0695-woodhouse` (Preston North End, p702)
 - [ ] `0960-butcher` (Corinthians, p236)
 - [ ] `1147-brown` (Raith Rovers, p728)
@@ -434,14 +390,12 @@ Cards with a missing detail. Often the book simply has none; check the .pub page
 - [ ] `1567-adams` (Wycombe Wanderers, p979)
 - [ ] `1568-o-gorman` (Wycombe Wanderers, p979)
 - [ ] `1587-howard` (Stalybridge Celtic, p841)
-- [ ] `1642-turnbull` (Kilmarnock, p444)
 - [ ] `1653-maiden` (Dundee, p298)
 - [ ] `1663-mclean` (Ayr Utd, p46c)
 - [ ] `1664-nesbit` (Ayr Utd, p46c)
 - [ ] `1798-robertson` (Dumbarton, p289)
 - [ ] `1812-ross` (Wimbledon, p960)
 - [ ] `1844-winn` (Tranmere Rovers, p901)
-- [ ] `1862-howson` (Nelson, p587)
 - [ ] `1960-bond` (Wimbledon, p960)
 - [ ] `1977-swan` (Clydebank, p179a)
 - [ ] `1978-fleming` (Clydebank, p177)

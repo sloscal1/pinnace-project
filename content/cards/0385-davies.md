@@ -7,8 +7,8 @@ nickname: Stan
 surname: Davies
 name_note: 
 team: everton
-position: 
-height: 
+position: Forward
+height: 5'10½"
 born: 24th March 1898 Chirk, Clwyd, Wales
 died: 17th January 1972 Birmingham, Warwickshire, England
 image: card-0385-davies.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Forward 5' 10½" |  |  |  |
 | 1919 | Rochdale |  |  |  |
 | 1919-1921 | Preston NE | 24 | 11 |  |
 | 1921 | Everton | 20 | 9 |  |

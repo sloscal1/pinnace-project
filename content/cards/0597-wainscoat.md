@@ -7,10 +7,10 @@ nickname:
 surname: Wainscoat
 name_note: 
 team: barnsley
-position: 
+position: Inside Forward
 height: 
-born: 
-died: 
+born: 28th July 1898 Maltby, South Yorkshire, England.
+died: 1967
 image: card-0597-wainscoat.jpg
 source_page: 67
 see_page: 
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Born : 28th July 1898 Maltby, South Yorkshire, England. Death : |  |  | 1967 Inside Forward |
 | 1919-1924 | Barnsley | 154 | 56 |  |
 | 1923-1925 | Middlesbrough | 36 | 5 |  |
 | 1924-1932 | Leeds Utd | 226 | 93 |  |

@@ -24,7 +24,7 @@ see_page:
 | 1914-1920 | Glentoran | 166 | 48 |  |
 | 1920-1924 | Falkirk | 117 | 5 |  |
 | 1924-1926 | Lincoln C | 33 | 2 |  |
-| 1925-1926 | Ards Apps Not known |  | 7 |  |
+| 1925-1926 | Ards |  | 7 | apps not known |
 | 1926-1929 | Glentoran | 100 | 38 |  |
 
 ## Representative

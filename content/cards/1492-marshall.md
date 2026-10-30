@@ -7,8 +7,8 @@ nickname:
 surname: Marshall
 name_note: 
 team: oldham-ath
-position: 
-height: 
+position: Centre Forward
+height: 5'11"
 born: 18th June 1890, Peterhead, Aberdeenshire, Scotland. (conflict, could be 1893)
 died: 8th July 1958, Cathcart
 image: card-1492-marshall.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Centre Forward 5' 11" |  |  |  |
 | 1908-1910 | Winchburgh, Vale of Grange, Bo'ness |  |  |  |
 | 1911-1914 | Partick T | 46 | 20 |  |
 | 1914-1916 | Bradford C | 12 | 3 |  |

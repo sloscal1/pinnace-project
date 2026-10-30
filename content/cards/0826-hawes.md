@@ -25,7 +25,7 @@ see_page:
 | 1921-1927 | Sunderland | 147 | 39 |  |
 | 1927-1929 | Bradford PA | 54 | 18 |  |
 | 1929-1930 | Accrington S | 11 | 0 | Goole Town, Frost's Atheletic. |
-| 1930-1831 | Nelson | 29 | 4 |  |
+| 1930-1931 | Nelson | 29 | 4 |  |
 | 1931-1932 | Rochdale | 13 | 0 | . |
 | 1931-1935 | Hyde United, Wombwell |  |  |  |
 

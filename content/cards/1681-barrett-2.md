@@ -20,8 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Leytonstone 1925-1926 (believed an amateur playing loosely for the club) |  |  |  |
-| 1927-1935 | Racing Club Roubaix (1895-1964), Olympic Lille, Séte (interesting history) |  |  |  |
+| 1925-1926 | Leytonstone |  |  | believed an amateur playing loosely for the club |
+| 1927-1935 | Racing Club Roubaix, Olympic Lille, Séte |  |  | Racing Club Roubaix (1895-1964); interesting history |
 
 ## Biography
 

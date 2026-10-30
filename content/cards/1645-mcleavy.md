@@ -21,10 +21,10 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Rutherglen Glencairn |  |  |  |
-| 1823-1924 | Vale of Leven |  |  |  |
 | 1921-1922 | Falkirk | 4 | 4 |  |
 | 1922-1923 | Kilmarnock | 2 | 0 |  |
 | 1922-1923 | Bo'ness | 1 | 1 |  |
+| 1923-1924 | Vale of Leven |  |  |  |
 | 1923-1925 | J&P Coates | 27 | 12 |  |
 | 1924-1925 | Providence Clamdiggers | 7 | 0 |  |
 | 1925-1926 | Dykehead |  |  |  |

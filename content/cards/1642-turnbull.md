@@ -7,9 +7,9 @@ nickname:
 surname: Turnbull
 name_note: 
 team: kilmarnock
-position: Borth : Hurlford, Ayrshire, Scotland.
+position: Defender
 height: 
-born: 
+born: Hurlford, Ayrshire, Scotland.
 died: 
 image: card-1642-turnbull.jpg
 source_page: 444
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Defender |  |  |  |
 |  | Kilmarnock Parkvale |  |  |  |
 | 1921-1922 | Queen of the South Wan. Queen of the South |  |  |  |
 | 1922-1923 | Kilmarnock | 23 |  | ? Goals |

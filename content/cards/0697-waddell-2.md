@@ -26,7 +26,7 @@ see_page:
 | 1914-1915 | Bradford C | 6 | 1 |  |
 | 1915-1916 | Royal Albert, Stevenston Utd |  |  |  |
 | 1916-1918 | Ayr U | 38 | 4 |  |
-| 1917-1918 | Abercorn Indistinct period post 1925. Chorley, Fraserburgh |  |  |  |
+| 1917-1918 | Abercorn |  |  |  |
 | 1919-1921 | Bradford C | 17 | 0 | Dick Kerr's XI, Ribble Motors. |
 | 1920-1922 | Preston NE | 40 | 2 |  |
 | 1922-1923 | Birmingham C | 2 | 0 |  |
@@ -35,6 +35,7 @@ see_page:
 | 1923-1924 | New Brighton | 3 | 0 |  |
 | 1923-1924 | Wolves |  |  |  |
 | 1924-1925 | Aberham Athletic |  |  |  |
+|  | Chorley, Fraserburgh |  |  | Indistinct period post 1925 |
 
 ## Biography
 

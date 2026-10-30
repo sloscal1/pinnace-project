@@ -7,8 +7,8 @@ nickname: Jack
 surname: Smith
 name_note: 
 team: south-shields
-position: 
-height: 
+position: Inside Forward
+height: 5'9½"
 born: 28th October 1898, Whitburn, Sunderland, Co Durham, England
 died: 19th January 1977, Stockton-on-Tees, Co Durham, England
 image: card-0073-smith.jpg
@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside Forward 5' 9½" |  |  | North Shields Athletic |
+|  | North Shields Athletic |  |  |  |
 | 1919-1927 | South Shields | 264 | 84 |  |
 | 1927-1934 | Portsmouth | 261 | 61 |  |
 | 1934-1936 | Bournemouth & Bos | 41 | 2 | 1931, England 3 apps 4 goals.(See below) |

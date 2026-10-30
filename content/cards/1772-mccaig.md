@@ -21,9 +21,14 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1912-1914 | Larbert Central, Law Volunteers, Newarthill Thistle |  |  |  |
-| 1918 | Falkirk, 1919 Alloa Athletic,1920 Stenhousemuir |  |  |  |
+| 1918 | Falkirk |  |  |  |
+| 1919 | Alloa Athletic |  |  |  |
+| 1920 | Stenhousemuir |  |  |  |
 | 1921-1922 | Coventry C | 10 | 2 |  |
 | 1922-1923 | Reading | 16 | 2 |  |
-| 1923 | Cowdenbeath, 1923 Stenhousemuir, 1928 St Bernards, 1928 Stenhousemuir |  |  |  |
+| 1923 | Cowdenbeath |  |  |  |
+| 1923 | Stenhousemuir |  |  |  |
+| 1928 | St Bernards |  |  |  |
+| 1928 | Stenhousemuir |  |  |  |
 
 ## Collector notes

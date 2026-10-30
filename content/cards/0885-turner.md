@@ -20,10 +20,11 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1915-1918 | Sandwell Rovers, Darlaston, Rubery Owen. 1927-1928 Torquay U | 38 | 14 |  |
+| 1915-1918 | Sandwell Rovers, Darlaston, Rubery Owen |  |  |  |
 | 1920-1925 | Merthyr T | 145 | 34 |  |
 | 1924-1926 | Coventry C | 31 | 7 |  |
 | 1926 | Brierley Hill Hinckley Utd, Standard Athletic |  |  |  |
+| 1927-1928 | Torquay U | 38 | 14 |  |
 | 1928-1929 | Bristol R | 10 | 1 |  |
 | 1929-1933 | Brierley Hill Alliance |  |  |  |
 

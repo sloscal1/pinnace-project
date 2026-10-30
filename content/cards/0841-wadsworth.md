@@ -20,9 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1913-1914 | Bootle St Matthew's, Tranmere Rov. 1927-1928 Nottingham F | 35 | 10 |  |
+| 1913-1914 | Bootle St Matthew's, Tranmere Rov. |  |  |  |
 | 1919-1924 | Liverpool | 54 | 3 |  |
 | 1924-1927 | Liecester C | 105 | 7 | . |
+| 1927-1928 | Nottingham F | 35 | 10 |  |
 | 1928-1931 | Millwall | 78 | 12 |  |
 
 ## Biography

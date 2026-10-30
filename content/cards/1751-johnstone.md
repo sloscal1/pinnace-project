@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1919-192 Dundee Hibernian |  |  |  |
+| 1919-1920 | Dundee Hibernian |  |  |  |
 | 1920-1921 | Dundee |  |  |  |
 | 1921-1927 | Aston V | 115 | 1 |  |
 | 1928-1929 | Reading | 6 | 0 |  |

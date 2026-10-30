@@ -7,8 +7,8 @@ nickname: Jim
 surname: Carrick
 name_note: 
 team: oldham-ath
-position: 
-height: 
+position: Half Back
+height: 5'10"
 born: 17th February 1901, Boothstown, Manchester, Lancashire, England
 died: 
 image: card-0871-carrick.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Half Back 5' 10" |  |  |  |
 | 1918-1919 | Blackburn Wanderers, Astley Wanderers, Plank Lane, Manchester City, Airdrie |  |  |  |
 | 1920-1921 | Exeter C | 42 | 3 |  |
 | 1921-1923 | Oldham Ath | 6 | 0 |  |

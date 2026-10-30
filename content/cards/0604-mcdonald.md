@@ -21,11 +21,11 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1913 | Shotts Utd |  |  |  |
-| 1913-1914 | Barnsley 0 aoos |  | 0 |  |
+| 1913-1914 | Barnsley | 0 | 0 |  |
 | 1914-1916 | Motherwell | 2 | 0 |  |
 | 1916-1920 | Airdrionions | 114 | 0 |  |
 | 1920-1927 | Everton | 225 | 0 |  |
-| 1927-1921 | New Brighton | 168 | 5 |  |
+| 1927-1931 | New Brighton | 168 | 5 |  |
 | 1931-1932 | Connah's Quay, Colwyn Bay Utd |  |  |  |
 
 ## Biography

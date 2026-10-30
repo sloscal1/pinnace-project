@@ -7,8 +7,8 @@ nickname: Jimmy
 surname: Kinloch
 name_note: 
 team: partick-thistle
-position: 
-height: 
+position: Inside Right
+height: 5'8"
 born: 14th April 1898, Govan, Glasgow, Scotland
 died: 21st October 1962, Bearsden, Glasgow, Scotland
 image: card-0200-kinloch.jpg
@@ -20,19 +20,15 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Inside Right 5' 8" |  |  |  |
+|  | Parkhead Juniors, Anderston Thornbank |  |  |  |
+| 1918-1920 | Queens Park | 62 | 19 |  |
+| 1920-1928 | Partick T | 194 | 56 |  |
 
 ## Honours
 
 - Partick Thistle :  Scottish Cup winner 1921. Scotland : 1 appearance 1922
 
 ## Biography
-
-Parkhead Juniors, Anderston Thornbank.
-
-1918-1920 Queens Park 62 apps 19 goals
-
-1920-1928 Partick T 194 apps 56 goals
 
 Glasgow born inside right James Kinloch began his senior football career with Scottish League amateur club Queen's Park, making his debut in a Glasgow Cup semi final defeat to Rangers in September 1918. His Scottish League debut was also in a defeat to Rangers 9 days later, and he scored a hat-trick in a 4-3 win over Partick Thistle in February 1919. Having scored 19 goals in 62 Scottish League and Cup appearances over two seasons for The Spiders he transferred to Partick Thistle in the summer of 1920.
 

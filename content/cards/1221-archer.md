@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1914-1919 | Swindon Rovers, Swindon Town (1916 Amateur), Bristol Rovers (1919) |  |  |  |
+| 1914-1919 | Swindon Rovers, Swindon Town, Bristol Rovers |  |  | Swindon Town 1916 (amateur), Bristol Rovers 1919 |
 | 1920-1931 | Swindon T | 208 | 4 |  |
 
 ## Biography

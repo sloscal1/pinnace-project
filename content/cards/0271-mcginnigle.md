@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 |  | Cambulsang Rangers |  |  |  |
 | 1918 | Hibernian | 30 |  | ? goals |
-| 1918 | G.Celtic a app |  | 0 | (loan) |
+| 1918 | G.Celtic | 1 | 0 | (loan) |
 | 1919-1929 | Hibernian | 268 | 2 | or (conflict 297 App 4 goals) |
 | 1929-1931 | Coleraine & Larne |  |  |  |
 

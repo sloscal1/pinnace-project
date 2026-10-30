@@ -20,7 +20,10 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1917-1925 | Parkhead White Rose 1917, Vale of Clyde1918, Parkhead Juniors1919, Neilston Victoria 1920 |  |  |  |
+| 1917 | Parkhead White Rose |  |  |  |
+| 1918 | Vale of Clyde |  |  |  |
+| 1919 | Parkhead Juniors |  |  |  |
+| 1920 | Neilston Victoria |  |  |  |
 | 1921-1925 | Morton | 142 | 28 |  |
 | 1925-1926 | Rangers | 25 | 7 |  |
 | 1926-1928 | Newcastle U | 28 | 11 |  |

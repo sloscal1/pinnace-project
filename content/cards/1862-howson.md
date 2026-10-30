@@ -7,9 +7,9 @@ nickname: Charlie
 surname: Howson
 name_note: 
 team: nelson
-position: 18th July 1896, Wombwell, Rotherham, Yorkshire, England.
-height: 
-born: 
+position: Right Back
+height: 5'11"
+born: 18th July 1896, Wombwell, Rotherham, Yorkshire, England.
 died: July 1976, Wombwell, Rotherham, Yorkshire, England
 image: card-1862-howson.jpg
 source_page: 587
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Right Back 5' 11" |  |  |  |
 | 1919-1920 | Wombwell, Rotherham County |  |  |  |
 | 1922 | Mansfield T |  |  |  |
 | 1922-1923 | Nelson (trial) | 1 | 0 |  |

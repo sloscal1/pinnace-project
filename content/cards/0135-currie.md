@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1906 | Kilwinning Rangers, 1908 St Mirren (trial) |  |  |  |
+| 1906 | Kilwinning Rangers |  |  |  |
+| 1908 | St Mirren (trial) |  |  |  |
 | 1909-1923 | Leicester Fosse/City | 248 | 11 |  |
 | 1922-1924 | Wigan Borough | 39 | 5 |  |
 

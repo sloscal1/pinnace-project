@@ -7,9 +7,9 @@ nickname: Tom
 surname: Fleming
 name_note: 
 team: fulham
-position: Stating 1894)
+position: Full Back
 height: 
-born: 15th November 1901 Glasgow, Scotland (Other journals are vague giving year of birth only
+born: 15th November 1901 Glasgow, Scotland (Other journals are vague giving year of birth only Stating 1894)
 died: 1948
 image: card-1096-fleming.jpg
 source_page: 333
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Full Back |  |  |  |
 | 1914 | Shettleston |  |  |  |
 | 1919-1922 | Dundee | 14 | 0 |  |
 | 1921-1926 | Fulham | 114 | 0 |  |

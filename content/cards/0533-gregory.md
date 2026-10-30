@@ -7,8 +7,8 @@ nickname: Val
 surname: Gregory
 name_note: 
 team: wolverhampton-wanderers
-position: 
-height: 
+position: Wing Half
+height: 5'9"
 born: 14th February 1888, Hendon, London, England. (conflict place could be Pinner)
 died: 10th March 1940, Wolverhampton, Staffordshire, England
 image: card-0533-gregory.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Wing Half 5' 9" |  |  |  |
 | 1910-1911 | Pinner & Reading |  |  |  |
 | 1911-1920 | Watford | 155 | 13 |  |
 | 1920-1923 | Wolverhampton W | 106 | 2 |  |

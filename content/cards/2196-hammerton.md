@@ -24,7 +24,10 @@ see_page:
 | 1919-1923 | Barnsley | 30 | 9 |  |
 | 1923-1926 | Rotherham County | 67 | 36 | (2 seasons as County 1 season as United) |
 | 1926-1927 | Barnsley |  |  |  |
-| 1926-1927 | Crewe Alexandre 1927-1928 Oldham Athletic 1927 York City 1928 Mansfield Town |  |  |  |
+| 1926-1927 | Crewe Alexandre |  |  |  |
+| 1927-1928 | Oldham Athletic |  |  |  |
+| 1927 | York City |  |  |  |
+| 1928 | Mansfield Town |  |  |  |
 
 ## Biography
 

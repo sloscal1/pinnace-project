@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1823-1924 | The Wednesday | 19 | 5 |  |
 | 1909-1910 | New Cumnock, Lugar Boswell |  |  |  |
 | 1911-1913 | Bradford C | 5 | 0 |  |
 | 1912 | Lanemark (possible loan) |  |  |  |
@@ -28,6 +27,7 @@ see_page:
 | 1919-1920 | Coventry C | 22 | 8 | Redditch, Halesowen Town. |
 | 1920-1923 | Merthyr T | 86 | 28 |  |
 | 1922-1924 | Bristol C | 39 | 10 |  |
+| 1923-1924 | The Wednesday | 19 | 5 |  |
 | 1924-1929 | Weymouth, Leamington Town x2 |  |  |  |
 
 ## Biography

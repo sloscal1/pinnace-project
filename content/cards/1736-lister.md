@@ -29,7 +29,8 @@ see_page:
 | 1927-1928 | Stoke City | 1 | 0 |  |
 | 1929-1930 | West Ham Utd |  |  |  |
 | 1930-1931 | Exeter City | 8 | 1 |  |
-| 1931 | Rhyl Ath 1932 Shrewsbury Town |  |  |  |
+| 1931 | Rhyl Ath |  |  |  |
+| 1932 | Shrewsbury Town |  |  |  |
 
 ## Biography
 

@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | -1921 Kilwinning Rangers |  |  |  |
+|  | Kilwinning Rangers |  |  | until 1921 |
 | 1921-1924 | Alloa A | 25 | 1 |  |
 | 1924-1927 | Queen of the South |  |  |  |
 | 1927-1928 | Kilwinning Rangers |  |  |  |

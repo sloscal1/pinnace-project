@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Romsey Comrades |  |  |  |
-| 1815-1919 | Military Football |  |  |  |
+| 1915-1919 | Military Football |  |  |  |
 | 1919-1932 | Southampton | 410 | 9 | . Eastleigh |
 
 ## Honours

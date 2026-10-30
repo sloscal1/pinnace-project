@@ -7,8 +7,8 @@ nickname:
 surname: Lodge
 name_note: aka William James 'Jimmy' Barrass
 team: hull-city
-position: 
-height: 
+position: Full Back
+height: 5'8"
 born: 11th January 1895 Felling, Gateshead, Northumberland, England
 died: 24th October 1971
 image: card-0625-lodge.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Full Back 5' 8" |  |  |  |
 | 1913-1918 | Coxlodge, Scotswood (Newcastle), Newburn |  |  |  |
 | 1919-1924 | Hull City | 43 | 0 |  |
 | 1924-1925 | Halifax T | 83 | 0 |  |

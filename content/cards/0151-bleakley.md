@@ -7,8 +7,8 @@ nickname: Tommy
 surname: Bleakley
 name_note: 
 team: hull-city
-position: 
-height: 
+position: Wing Half
+height: 5'8"
 born: 16th May 1893 Little Hulton, Lancashire, England
 died: 1951
 image: card-0151-bleakley.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Wing Half 5' 8" |  |  |  |
 | 1909-1913 | Cleggs Lane, Walkden Central |  |  |  |
 | 1914-1915 | Bolton Wanderers Wombwell |  |  |  |
 | 1919-1930 | Hull City | 389 | 7 |  |

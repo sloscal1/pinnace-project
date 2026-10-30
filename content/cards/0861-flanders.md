@@ -25,7 +25,7 @@ see_page:
 | 1913 | Newport Co |  |  |  |
 | 1919 | Mansfield Town |  |  |  |
 | 1921-1922 | Newport Co | 19 | 0 |  |
-| 1922-1923 | Hartlepools Utd s apps |  | 0 |  |
+| 1922-1923 | Hartlepools Utd |  | 0 | apps given as 's' |
 | 1923 | Nuneaton Town |  |  |  |
 
 ## Collector notes

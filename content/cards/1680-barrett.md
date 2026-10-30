@@ -25,7 +25,7 @@ see_page:
 | 1923-1924 | West Ham Utd | 0 | 0 |  |
 | 1924 | Leytonstone (amateur) |  |  |  |
 | 1924-1925 | Southampton | 1 | 0 |  |
-| 1925-1937 | Fulham 419; apps |  | 28 |  |
+| 1925-1937 | Fulham | 419 | 28 |  |
 
 ## Biography
 

@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1919-1913 | Southwick, Sunderland Comrades |  |  |  |
+|  | Southwick, Sunderland Comrades |  |  | years given as 1919-1913 |
 | 1920-1921 | Brighton & HA | 1 | 0 |  |
 | 1921-1923 | QPR | 33 | 0 |  |
 | 1923-1924 | Durham C | 23 | 0 |  |

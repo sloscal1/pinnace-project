@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1918-1919 | Edgewick |  |  |  |
-| 1919-1823 | Coventry City | 54 | 4 | Nuneaton Town |
+| 1919-1923 | Coventry City | 54 | 4 | Nuneaton Town |
 | 1924-1925 | Halifax T | 0 | 0 |  |
 | 1925-1927 | Foleshill Great Heath x 2 |  |  |  |
 

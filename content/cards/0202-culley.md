@@ -22,7 +22,8 @@ see_page:
 |---|---|---|---|---|
 |  | Kilwinning Eglington, Kilwinning Rangers, Ardrossan Winton Rovers |  |  |  |
 | 1911-1923 | Kilmarnock | 301 | 149 |  |
-| 1914 | Third Lanark & 1915 Renton (referenced as loans but possibly WW1 guesting. No sats available) |  |  |  |
+| 1914 | Third Lanark |  |  | referenced as loans but possibly WW1 guesting. No sats available |
+| 1915 | Renton |  |  | referenced as loans but possibly WW1 guesting. No sats available |
 | 1922-1924 | Clyde | 25 | 5 |  |
 | 1924-1925 | Weymouth |  |  |  |
 | 1925-1928 | Bristol Rov | 47 | 45 | Kilwinning Eglington. |

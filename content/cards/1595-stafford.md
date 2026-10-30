@@ -7,8 +7,8 @@ nickname: Harry
 surname: Stafford
 name_note: 
 team: stalybridge-celtic
-position: 
-height: 
+position: Winger (right)
+height: 5'9½"
 born: 28th February 1899, Clayton, Manchester, Lancashire, England
 died: 21st December 1947, Holcombe, Ramsbottom, Lancashire, England
 image: card-1595-stafford.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Winger (right) 5' 9½" |  |  |  |
 | 1918 | Manchester Zion, Openshaw |  |  |  |
 | 1921-1923 | Stalybridge C | 59 | 2 |  |
 | 1923-1924 | Manchester U | 0 | 0 |  |

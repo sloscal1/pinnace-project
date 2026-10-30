@@ -8,7 +8,7 @@ surname: Mayson
 name_note: 
 team: aberdare
 position: Inside Forward
-height: 
+height: 5'8"
 born: 8th December 1886 Whitehaven, Cumbria
 died: 1972
 image: card-1764-mayson.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 5' 8" |  |  |  |
 | 1907-1911 | Burnley | 67 | 14 |  |
 | 1911-1915 | Grimsby Town | 85 | 28 |  |
 | 1919-1920 | Everton | 1 | 1 |  |

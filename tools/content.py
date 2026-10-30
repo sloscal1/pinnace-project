@@ -105,16 +105,19 @@ def cell(v):
     return "" if v is None else str(v).replace("|", "/")
 
 
+def career_to_md(career):
+    """The `## Career` section for a list of career rows."""
+    out = ["## Career\n", "| " + " | ".join(CAREER_COLS) + " |", "|" + "---|" * len(CAREER_COLS)]
+    for e in career:
+        years = "" if e["from"] is None else (f"{e['from']}-{e['to']}" if e["to"] else str(e["from"]))
+        out.append("| " + " | ".join(cell(v) for v in (years, e["club"], e["apps"], e["goals"], e["note"])) + " |")
+    return "\n".join(out) + "\n"
+
+
 def card_to_md(c):
     out = [front_matter(c, CARD_KEYS)]
     if c["career"]:
-        out.append("## Career\n")
-        out.append("| " + " | ".join(CAREER_COLS) + " |")
-        out.append("|" + "---|" * len(CAREER_COLS))
-        for e in c["career"]:
-            years = "" if e["from"] is None else (f"{e['from']}-{e['to']}" if e["to"] else str(e["from"]))
-            out.append("| " + " | ".join(cell(v) for v in (years, e["club"], e["apps"], e["goals"], e["note"])) + " |")
-        out.append("")
+        out.append(career_to_md(c["career"]))
     for heading, key in (("Representative", "representative"), ("Honours", "honours")):
         if c[key]:
             out.append(f"## {heading}\n")
@@ -146,6 +149,43 @@ def parse_career(text):
                      "years": years, "club": club, "apps": int(apps) if apps.isdigit() else (apps or None),
                      "goals": int(goals) if goals.isdigit() else (goals or None), "note": note or None})
     return rows
+
+
+CAREER_YEARS = re.compile(r"^(\d{4})(?:-(\d{4}))?$")
+FIRST_YEAR, LAST_YEAR = 1870, 1960  # the cards' players were active between the 1880s and the 1950s
+CLUBS_NAMED_WITH_A_YEAR = ("B 1903",)  # Boldklubben 1903, Copenhagen
+POSITION_WORDS = {"inside", "outside", "centre", "center", "right", "left", "wing", "winger", "forward", "half",
+                  "back", "full", "goalkeeper", "keeper", "defender"}
+
+
+def career_problems(row):
+    """What is wrong with a career row (as parse_career returns it), as a list of messages.
+
+    Years is blank (the book gives no dates for some early clubs), a year, or a range of years;
+    the club has no years, apps or goals in it and is not the card's position, height or birth
+    line; apps and goals are whole numbers or blank."""
+    out = []
+    years = row["years"]
+    m = CAREER_YEARS.match(years)
+    if years and not m:
+        out.append(f"years '{years}' should be a year (1921) or a range (1921-1923)")
+    elif m:
+        start, end = int(m.group(1)), int(m.group(2) or m.group(1))
+        if not FIRST_YEAR <= start <= end <= LAST_YEAR:
+            out.append(f"years '{years}' are out of order or outside {FIRST_YEAR}-{LAST_YEAR}")
+    club = row["club"] or ""
+    if re.search(r"\b1[89]\d\d\b", club) and club not in CLUBS_NAMED_WITH_A_YEAR:
+        out.append("the club has a year in it")
+    words = re.findall(r"[a-z]+", club.lower())
+    if (re.search(r"\d'\s*\d", club) or re.match(r"(Born|Birth|Died|Death)\b", club)
+            or (words and set(words) <= POSITION_WORDS)):
+        out.append("the club is the card's position, height or birth line")
+    if re.search(r"\b(apps?|appa|goals?)\b", club, re.I):
+        out.append("the club has apps or goals in it")
+    for key in ("apps", "goals"):
+        if row[key] is not None and not isinstance(row[key], int):
+            out.append(f"{key} '{row[key]}' should be a number or blank")
+    return out
 
 
 def load_card(path):

@@ -7,8 +7,8 @@ nickname: Billy
 surname: Briscoe
 name_note: 
 team: port-vale
-position: 
-height: 
+position: Wing Half
+height: 5'8"
 born: 6th November 1896, Longton, Stoke on Trent, Staffordshire, England
 died: 7th February 1994, Broadstairs, Kent, England
 image: card-0795-briscoe.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Wing Half 5' 8" |  |  |  |
 | 1915 | Watford, Stoke |  |  |  |
 | 1916-1917 | Milton Brotherhood, Leek United |  |  |  |
 | 1919-1930 | Port Vale | 307 | 49 |  |

@@ -22,7 +22,8 @@ see_page:
 |---|---|---|---|---|
 | 1908-1909 | Wiseton,, Worksop Town |  |  |  |
 | 1910-1911 | Gainsborough T | 9 | 0 |  |
-| 1911 | Worksop T 1919—1920 Rotherham C | 28 | 1 |  |
+| 1911 | Worksop T |  |  |  |
+| 1919-1920 | Rotherham C | 28 | 1 |  |
 | 1920-1923 | Millwall | 66 | 4 |  |
 | 1923 | Llanelly |  |  |  |
 

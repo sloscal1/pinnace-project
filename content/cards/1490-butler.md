@@ -20,12 +20,12 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+| 1909-1914 | Stillington St John's, Stockton Amateurs, Spennymoor Utd, Middlesbrough, Hartlepools Utd |  |  |  |
 | 1918-1919 | Hartlepool Utd |  |  |  |
-| 1919-1914 | Stillington St John's, Stockton Amateurs, Spennymoor Utd, Middlesbrough, Hartlepools Utd |  |  |  |
 | 1919-1920 | Middlesbrough | 28 | 11 |  |
 | 1920-1923 | Oldham Ath | 78 | 32 |  |
 | 1923-1924 | Bury | 21 | 13 |  |
-| 1924-1926 | Bradford C 1924-1926 | 43 | 16 | Bacup Borough x2, Rossendale Utd. |
+| 1924-1926 | Bradford C | 43 | 16 | Bacup Borough x2, Rossendale Utd. |
 | 1925-1926 | Crewe Alex | 11 | 2 |  |
 | 1926-1927 | Rochdale | 5 | 0 |  |
 | 1927-1928 | Accrington S | 28 | 8 |  |

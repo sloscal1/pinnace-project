@@ -21,7 +21,7 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Roslyn Juniors |  |  |  |
-| 1921-1919 | St Mirren | 220 | 0 |  |
+| 1921-1929 | St Mirren | 220 | 0 |  |
 | 1929-1930 | Dundee U | 9 | 0 |  |
 | 1930-1931 | Cork City (Ireland) |  |  |  |
 

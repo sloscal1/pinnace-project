@@ -24,7 +24,7 @@ see_page:
 | 1920-1926 | Dundee | 158 | 5 |  |
 | 1926-1928 | Cardiff City | 47 | 7 |  |
 | 1928-1932 | Chelsea | 89 | 5 |  |
-| 1932-1833 | Bristol Rov | 21 | 1 |  |
+| 1932-1933 | Bristol Rov | 21 | 1 |  |
 
 ## Representative
 

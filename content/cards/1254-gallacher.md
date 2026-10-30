@@ -7,8 +7,8 @@ nickname:
 surname: Gallacher
 name_note: 
 team: airdrie
-position: 
-height: 
+position: Centre Forward
+height: 5'5"
 born: 2nd February 1903 Bellshill Scotland
 died: 11th June 1957 Gateshead Northumberland, England
 image: card-1254-gallacher.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Centre Forward 5' 5" |  |  |  |
 | 1921 | Queen of the South | 0 | 0 |  |
 | 1921-1925 | Airdrie | 111 | 90 |  |
 | 1925-1930 | Newcastle Utd | 160 | 133 |  |

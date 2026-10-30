@@ -7,8 +7,8 @@ nickname:
 surname: Blackburn
 name_note: 
 team: aston-villa
-position: 
-height: 
+position: Half Back
+height: 5'11"
 born: 25th April 1899, Handsworth, Birmingham, Staffordshire, England
 died: 9th December 1969, Handsworth, Birmingham, Staffordshire, England
 image: card-1114-blackburn.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Half Back. 5' 11" |  |  |  |
 | 1919-1920 | Hamstead Town |  |  |  |
 | 1920-1926 | Aston V | 145 | 2 |  |
 | 1926-1931 | Cardiff C | 118 | 1 |  |

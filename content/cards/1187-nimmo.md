@@ -7,8 +7,8 @@ nickname: Mike
 surname: Nimmo
 name_note: 
 team: barrow
-position: 
-height: 
+position: Centre Half
+height: 5'10"
 born: 27th October 1892 Bothwell, Lanarkshire, Scotland
 died: 
 image: card-1187-nimmo.jpg
@@ -20,7 +20,6 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Centre Half 5' 10" |  |  |  |
 | 1918-1919 | Glasgow Ashfield |  |  |  |
 | 1919-1921 | Hamilton Academicals |  |  |  |
 | 1921-1923 | Barrow AFC | 60 | 2 |  |

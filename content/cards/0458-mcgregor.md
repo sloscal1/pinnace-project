@@ -21,8 +21,8 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 |  | Laurieston Villa, Kilsyth Emmett |  |  |  |
-| 1813-1914 | (loan) Motherwell |  |  |  |
 | 1910-1919 | G.Celtic | 80 | 0 |  |
+| 1913-1914 | (loan) Motherwell |  |  |  |
 | 1917-1918 | (loan) Dumbarton Harp |  |  |  |
 | 1918-1919 | Dumbarton (loan) | 6 | 0 |  |
 | 1918-1919 | (loan) Clydebank | 2 | 0 |  |

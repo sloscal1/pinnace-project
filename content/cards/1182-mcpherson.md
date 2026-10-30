@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1918- Barrow Shipbuilders |  |  |  |
+| 1918 | Barrow Shipbuilders |  |  |  |
 | 1918-1919 | Partick T |  |  |  |
 | 1919-1920 | Barrow Shipbuilders x2, Chesterfield Municipal |  |  |  |
 | 1921-1923 | Barrow | 62 | 5 |  |

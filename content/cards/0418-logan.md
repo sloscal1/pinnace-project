@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1908-1910 | Arthurlie 22(7) & 1922, Falkirk 95(29) |  |  |  |
+| 1908-1910 | Arthurlie | 22 | 7 |  |
+| 1922 | Falkirk | 95 | 29 |  |
 | 1913-1915 | Chelsea | 77 | 8 | Falkirk (all loans) |
 | 1915-1917 | Partick T, Dunfermline Ath |  |  |  |
 | 1919-1921 | Chelsea | 40 | 2 |  |

@@ -20,8 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1814-1920 | Leeds C | 11 | 6 |  |
 | 1913 | Leyland (Lancashire) |  |  |  |
+| 1914-1920 | Leeds C | 11 | 6 |  |
 | 1919-1920 | The Wednesday | 14 | 2 |  |
 | 1920-1923 | Swansea T | 70 | 39 |  |
 | 1923-1924 | Exeter C | 6 | 1 |  |

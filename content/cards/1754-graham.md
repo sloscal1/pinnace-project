@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | 1921-19122 Capworth |  |  |  |
+| 1921-1922 | Capworth |  |  |  |
 | 1922 | Leytonstone (Amateur) |  |  |  |
 | 1923-1924 | Millwall | 341 | 8 |  |
 

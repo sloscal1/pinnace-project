@@ -20,7 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1912 | Players Ath, 1913 Ripley Ath |  |  |  |
+| 1912 | Players Ath |  |  |  |
+| 1913 | Ripley Ath |  |  |  |
 | 1914 | Notts Co | 3 |  | later Hucknall Byron |
 | 1920-1922 | Gillingham | 75 | 0 |  |
 | 1923 | Barrow (trial( |  |  |  |

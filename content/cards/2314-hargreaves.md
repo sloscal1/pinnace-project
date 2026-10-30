@@ -25,7 +25,7 @@ see_page:
 | 1921-1923 | Wolverhampton W | 55 | 8 |  |
 | 1923 | Pontypridd |  |  |  |
 | 1923-1926 | Tottenham H | 34 | 7 |  |
-| 1926-1925 | Burnley | 26 | 6 |  |
+| 1926-1928 | Burnley | 26 | 6 |  |
 | 1928-1929 | Rotherham U | 0 |  | 0 |
 | 1930-1936 | Rossendale Utd, Barnoldswick |  |  | Nelson Town. |
 
