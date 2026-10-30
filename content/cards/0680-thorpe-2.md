@@ -20,7 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-|  | Seaham Albion, Seaham White Star, Seaham Harbour |  |  | years given as 1807-1919 |
+| 1907-1919 | Seaham Albion, Seaham White Star, Seaham Harbour |  |  |  |
 | 1910-1914 | Blackpool | 98 | 1 |  |
 | 1913 | Bradford C 9 (Trial) |  |  |  |
 | 1913-1920 | Burnley | 79 | 5 |  |

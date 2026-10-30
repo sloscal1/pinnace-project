@@ -171,8 +171,10 @@ def career_problems(row):
         out.append(f"years '{years}' should be a year (1921) or a range (1921-1923)")
     elif m:
         start, end = int(m.group(1)), int(m.group(2) or m.group(1))
-        if not FIRST_YEAR <= start <= end <= LAST_YEAR:
-            out.append(f"years '{years}' are out of order or outside {FIRST_YEAR}-{LAST_YEAR}")
+        if start > end:
+            out.append(f"years '{years}' are not in chronological order")
+        if not (FIRST_YEAR <= start <= LAST_YEAR and FIRST_YEAR <= end <= LAST_YEAR):
+            out.append(f"years '{years}' are outside {FIRST_YEAR}-{LAST_YEAR}")
     club = row["club"] or ""
     if re.search(r"\b1[89]\d\d\b", club) and club not in CLUBS_NAMED_WITH_A_YEAR:
         out.append("the club has a year in it")

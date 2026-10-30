@@ -23,6 +23,6 @@ see_page:
 | 1907-1907 | Hucknall, Bulwell Whit Star (Not |  |  |  |
 | 1909-1920 | Bolton W | 192 | 16 | (9 pens) |
 | 1921-1924 | Brighton & HA | 67 | 3 | (3pens) |
-|  | Exeter C | 42 | 2 | (2pens) years given as 1929-1921 |
+| 1920-1921 | Exeter C | 42 | 2 | (2pens) |
 
 ## Collector notes

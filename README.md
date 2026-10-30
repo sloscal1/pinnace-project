@@ -83,11 +83,12 @@ A card file (here `content/cards/0929-martin.md`, shortened) starts with lines o
 - Facts are `name: value`, one per line. Leave the value empty rather than deleting the line.
 - Never change a card's `uid`: visitors' saved checklists depend on it.
 - Each career row has five cells separated by `|`, even when some are empty: years, club, apps,
-  goals, note. Years are written `1926-1927` or `1926`, or left empty if the book gives none. The
-  club cell holds only the club: years, apps, goals and remarks such as "(1916 amateur)" go in their
-  own cells, and two clubs with their own years get a row each. Apps and goals are numbers or empty
-  (put "? apps" or "apps not known" in the note). The publish step checks these rules and stops,
-  with a red cross, if a row breaks one; the Actions log names the file and the row.
+  goals, note. Years are written `1926-1927` (earlier year first, both between 1870 and 1960) or
+  `1926`, or left empty if the book gives none. The club cell holds only the club: years, apps,
+  goals and remarks such as "(1916 amateur)" go in their own cells, and two clubs with their own
+  years get a row each. Apps and goals are numbers or empty (put "? apps" or "apps not known" in
+  the note). The publish step checks these rules and stops, with a red cross, if a row breaks one;
+  the Actions log names the file and the row.
 - To credit a source, see "Sources and footnotes" below.
 - To replace a card scan: open the `content/img` folder, click **Add file → Upload files**, and
   upload the new image with exactly the same file name as the old one (the card file's `image:`
