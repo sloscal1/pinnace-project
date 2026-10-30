@@ -1,17 +1,17 @@
 ---
 uid: 1094
-number: 1681
+number: 1682
 name: William Frederick Barrett
 full_name: William Frederick Barrett
 nickname: 
 surname: Barrett
-name_note: 
+name_note: The heading for this card reads: Card 1681; the card itself shows 1682
 team: leytonstone
 position: Inside Forward
 height: 
 born: 17th April 1901, Poplar, London, England
 died: 
-image: card-1681-barrett-2.jpg
+image: card-1682-barrett.jpg
 source_page: 473
 see_page: 
 ---
