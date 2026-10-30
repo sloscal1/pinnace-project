@@ -20,12 +20,13 @@ anywhere outside the generated sections.
 - [ ] p236 `2318-green`: listed as "F.N.E. Green", but the scan reads "F. N. S. Creek".
 - [ ] p761 `2057-foweather`: given 2057, the same as `2057-short`; Foweather's scan shows 1763.
 - [ ] p344: Thomas 'Tommy' Talks has a biography but no "Card" heading, so he is not a card yet. His text is at the end of `0941-smith`; his scan is with the Grimsby Town photos.
-- [ ] p303: Andrew Nesbit Wilson's biography has no "Card" heading either; it is a note on the Dunfermline page.
+- [ ] p303: Andrew Nesbit Wilson's biography has no "Card" heading either. His scan shows card 382 with Dunfermline on the front, so he is `0382-wilson-2`, a second version of `0382-wilson` (Middlesbrough, p551). Check the two biographies against each other: they differ in places (e.g. his son's details).
 - [ ] p67, p183, p186, p189, p210, p592, p856: one more card scan than cards. The extra scan is with the team's photos; it may be a second version of one of the cards.
 - [ ] p144 (Bristol Rovers): a page about 'Tancy' Lea's 1921 Cup Final shirt and programme, shown as team photos and a note. It could become a feature.
 - [ ] Copyright: confirm the statement in `COPYRIGHT.md` with Michael Postles.
 - [ ] Wikipedia credit: many card biographies are adapted from Wikipedia without naming the article. CC BY-SA asks for credit, so add a source footnote linking the article (as the features have) when checking each card.
 - [ ] Unidentified players: the compiler could not trace these and they are notes on the team page. Where the page gives card numbers (p236, p281) they are also name-only cards. p220 Civil Service, p224 Clapton, p236 Corinthians, p281 Dulwich Hamlet, p658 Oxford City, p906 Tufnell Park, p948 West Norwood, p980 Wycombe Wanderers.
+- [ ] Unidentified players have numbered cards: the scans on those team pages show card numbers (on Civil Service, numbers in the 2390s and 2400s) and some names differ from the typed list (scan "A. E. Batchelor", typed "A.E.Butcher"; "F. J. Hayns" / "F.J. Haynes"). Decide whether they should be name-only cards on the checklist, as on p236 and p281. On p220, C.W. Harbridge is now card `0146-harbridge-3`, the Civil Service version of card 146.
 
 ## Card numbers given to different players (generated)
 
@@ -101,7 +102,7 @@ Career tables with biography text in a row (15), or a card header read as a care
 ## Sources to trace (generated)
 
 <!-- generated: sources -->
-Footnotes whose source is still `TO TRACE` (26). Find the reference in the Wikipedia article the text came from and replace the source line (see the README).
+Footnotes whose source is still `TO TRACE` (28). Find the reference in the Wikipedia article the text came from and replace the source line (see the README).
 
 - [ ] `0030-barton` (Birmingham, p78): [^6]
 - [ ] `0147-carr` (Reading, p738): [^2], [^3], [^4], [^5]
@@ -116,7 +117,9 @@ Footnotes whose source is still `TO TRACE` (26). Find the reference in the Wikip
 - [ ] `0290-longworth` (Liverpool, p476): [^1]
 - [ ] `0291-lacey` (Liverpool, p477): [^2], [^4]
 - [ ] `0329-clennell` (Cardiff City, p184): [^1]
+- [ ] `0382-wilson-2` (Dunfermline, p303): [^9]
 - [ ] `0391-shaw` (Glasgow Celtic, p258): [^7]
+- [ ] `0522-woosnam` (Manchester City, p533): [^24], [^25], [^26]
 - [ ] `0525-cookson` (Manchester City, p534): [^2], [^3]
 - [ ] `0672-molyneux` (Chelsea, p209): [^3]
 - [ ] `0678-sewell-2` (Blackburn Rovers, p88a): [^5]

@@ -46,4 +46,24 @@ After the war, Woosnam continued his amateur sporting career, taking part in sev
 
 Playing at centre half, Woosnam eventually became Manchester City captain at the recommendation of his teammates. This was highly unusual for an amateur among professionals. Eventually his success allowed him to play for England (both for the amateur team and as a full international as captain). Woosnam was also selected to captain the British football team at the Olympics, but refused, having already committed himself to the tennis team. He continued other sporting endeavours outside of football however, winning doubles titles at Wimbledon and the Olympics, and captaining the Great Britain Davis Cup team.
 
+Woosnam had been working for chemical company ICI in Winnington, Northwich, and, while still being on Manchester City's books, he played for Winnington Park and then for Northwich Victoria in the Cheshire County League. He made his debut for Northwich on Christmas Day, 1924, in a derby match against Witton Albion, resulting in a 3–0 victory for Northwich. He sometimes captained the side, before ending his football career in February 1926 due to injuries and other commitments.[^24][^25]
+
+He was appointed to the board of ICI, and died in 1965 of respiratory failure, having been a heavy smoker all his life.[^26]
+
+His life is chronicled in the book All Round Genius – The Unknown Story of Britain's Greatest Sportsman, by Mick Collins.[^26]
+
+Woosnam's uncle, Hylton Philipson, was a cricketer and played five Test matches for England.
+
+He once defeated actor and film director Charlie Chaplin at table tennis, playing with a butter knife instead of a bat.[^26]
+
+Besides being a pioneer for table tennis, he was very accomplished at snooker, once achieving a maximum break of 147.
+
+Jane Percy, Duchess of Northumberland, is Woosnam's sororal grandniece.
+
+## Sources
+
+[^24]: TO TRACE: reference 24 of the Wikipedia article this text was copied from.
+[^25]: TO TRACE: reference 25 of the Wikipedia article this text was copied from.
+[^26]: TO TRACE: reference 26 of the Wikipedia article this text was copied from.
+
 ## Collector notes
