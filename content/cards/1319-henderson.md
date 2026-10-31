@@ -7,7 +7,7 @@ nickname:
 surname: Henderson
 name_note: 
 team: hearts
-position: No data available in all
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-searches
+No data available in all searches
 
 ## Collector notes

@@ -7,10 +7,10 @@ nickname: Jimmy
 surname: Moore
 name_note: 
 team: brighton-hove
-position: 
-height: 
+position: Forward
+height: 5'8"
 born: 1st September 1891 Felling, Co Durham, England
-died: 1972 Forward 5' 8"
+died: 1972
 image: card-0874-moore.jpg
 source_page: 130
 see_page: 

@@ -6,6 +6,4 @@ images: newcastle-utd-p590-0.jpg, newcastle-utd-p592-0.jpg
 colours: #111111, #ffffff
 ---
 
-united
-
 This is not a Pinnace Collection issued team group, but it is adapted for effect, from an early 1900's Newcastle team group.

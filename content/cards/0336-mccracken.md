@@ -26,6 +26,7 @@ see_page:
 ## Honours
 
 - Distillery: Irish Football League: 1902–03, Irish Cup: 1903; runner-up: 1902
+- Newcastle United: Football League: 1904–05, 1906–07, 1908–09, FA Cup: 1910; runner-up: 1908, 1911 International Appearances : Ireland 1902-1923 16, one goal and 4 wartime appearances. 2 appearances for the IrishXI.
 
 ## Biography
 
@@ -42,7 +43,5 @@ McCracken is one of just a few players whose actions have brought changes to the
 After leaving Newcastle he went on to become Hull City manager in 1923, and he took them to the FA Cup semi-final in 1930. He left the club a year later.
 
 He later had a short term in charge of Gateshead, before managing Millwall from 1933 to 1936. He went on to manage the now defunct Aldershot, and later returned to Newcastle as a scout. In the 1970s, with McCracken in his 90s, he was scouting for Watford.
-
-Newcastle United: Football League: 1904–05, 1906–07, 1908–09, FA Cup: 1910; runner-up: 1908, 1911 International Appearances : Ireland 1902-1923 16, one goal and 4 wartime appearances. 2 appearances for the IrishXI.
 
 ## Collector notes

@@ -7,7 +7,7 @@ nickname:
 surname: Grant
 name_note: Full personal and positional data unavailable
 team: clydebank
-position: Giffnock FC (Glasgow, Scotland)
+position: 
 height: 
 born: 
 died: 
@@ -20,6 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Giffnock FC (Glasgow, Scotland) |  |  |  |
 | 1920-1922 | Clydebank | 7 |  |  |
 
 ## Collector notes

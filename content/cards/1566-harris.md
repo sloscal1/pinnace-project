@@ -7,8 +7,8 @@ nickname:
 surname: Harris
 name_note: 
 team: wycombe-wanderers
-position: Full & Half back 5. 9"
-height: 
+position: Full & Half back
+height: 5'9"
 born: 14th June 1904, High Wycombe, Buckinghamshire, England
 died: 6th July 1986, Watford Hertfordshire, England
 image: card-1566-harris.jpg

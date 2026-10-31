@@ -25,6 +25,10 @@ see_page:
 | 1926 | Barnoldswick T |  |  |  |
 | 1928-1930 | Horwich RMI, Morecambe |  |  |  |
 
+## Honours
+
+- Nelson: Football League Third Division North: 1922–23.
+
 ## Biography
 
 James Edward Broadhead was an English professional footballer who played as a defender. Born in Rotherham, he started his career with Runty in 1913, and then joined Norwich City in 1919. He later had spells with South Shields and Scunthorpe & Lindsey United before moving to Nelson, where he made 69 league and cup Football League appearances in two spells with the club. He played in non-League football towards the end of his career, before retiring to become a coach in the early 1930s.
@@ -38,7 +42,5 @@ In May 1922, Broadhead was recommended to Nelson player-manager David Wilson by 
 After one season with Barnoldswick, Broadhead returned to Nelson in a joint role as player and reserve team coach. After recovering from a knee injury, he played a number of matches for the second string as they were crowned champions of the Lancashire Combination for the 1927–28 season. Broadhead did make one appearance in the league for the first team, playing in the 2–3 loss to Bradford Park Avenue on 15 October 1927. In the summer of 1928, he transferred to Horwich RMI, before joining Morecambe in July 1930.
 
 Following a short spell as a player with Morecambe, Broadhead retired from football to become a full-time coach. He returned to Nelson in the early 1930s as a trainer, before being appointed to the Southampton coaching staff in August 1935. After leaving Southampton, his final coaching job, Broadhead returned to the north of England.
-
-Nelson: Football League Third Division North: 1922–23.
 
 ## Collector notes

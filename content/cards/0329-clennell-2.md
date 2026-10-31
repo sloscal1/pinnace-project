@@ -33,9 +33,6 @@ see_page:
 ## Honours
 
 - Blackburn Rovers : Football League First Division champions: 1911/12
-
-## Biography
-
-Everton : Football League First Division champions: 1914/15
+- Everton : Football League First Division champions: 1914/15
 
 ## Collector notes

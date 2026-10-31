@@ -7,7 +7,7 @@ nickname:
 surname: Feebury
 name_note: 
 team: crystal-palace
-position: Despite extensive research into the card character,
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-I have been unable to identify him
+Despite extensive research into the card character, I have been unable to identify him
 
 ## Collector notes

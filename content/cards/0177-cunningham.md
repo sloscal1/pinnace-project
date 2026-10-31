@@ -29,6 +29,7 @@ see_page:
 ## Honours
 
 - Rangers : Scottish League: 1918/19, 1919/20, 1920/21, 1922/23, 1923/24, 1924/25, 1927/28, 1927/28. Scottish Cup: 1927/28. Runner-up 1920/21, 1921/22.
+- Glasgow Cup: 1921/22, 1922/23, 1923/24, 1924/25. Newcastle United : FA Cup: 1931/32.
 
 ## Biography
 
@@ -45,7 +46,5 @@ He guided the club to FA Cup success in 1932 after beating Arsenal 2–1 in the 
 After his time with Newcastle, he returned to Scotland where he managed Dundee between 1937 and 1940 before becoming a sports writer after World War II.
 
 His younger brother William was also a footballer who played as a defender; the siblings were teammates at Kilmarnock for four seasons up to 1915, though William's career ended then after he qualified as a physician.
-
-Glasgow Cup: 1921/22, 1922/23, 1923/24, 1924/25. Newcastle United : FA Cup: 1931/32.
 
 ## Collector notes

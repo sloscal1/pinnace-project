@@ -30,6 +30,7 @@ see_page:
 ## Honours
 
 - Dundee : Southern League B Division: 1945/46, Scottish League Division B: 1946/47, Scottish League Cup: 1951/52, 1952/53
+- Individual : Dundee Hall of Fame.
 
 ## Biography
 
@@ -38,7 +39,5 @@ Anderson served in the Royal Artillery during WW1.
 On his retirement he became a successful business man and Town Councillor, and in 1930 returned to Aberdeen as a director. During WW2 he took over the running of Aberdeen, in company with Charles Forbes, another director.
 
 After WW2 he became manager of Dundee FC.
-
-Individual : Dundee Hall of Fame.
 
 ## Collector notes

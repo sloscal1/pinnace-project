@@ -7,7 +7,7 @@ nickname:
 surname: Thomson
 name_note: 
 team: raith-rovers
-position: Despite extensive searches with surname spelling variations
+position: 
 height: 
 born: 
 died: 
@@ -18,9 +18,7 @@ see_page:
 
 ## Biography
 
-there is no data, available that indicates to the identity of this card
-
-Character.
+Despite extensive searches with surname spelling variations there is no data, available that indicates to the identity of this card Character.
 
 Thanks to www.vintagefootballers.com
 

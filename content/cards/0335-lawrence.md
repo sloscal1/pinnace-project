@@ -26,6 +26,7 @@ see_page:
 ## Honours
 
 - Player : Newcastle United : Football League championship: 1904–05, 1906–07, 1908–09. FA Cup winner: 1910
+- Karlsruher FV : Baden regional championship: 1926, 1928, 1929, 1931, 1932
 
 ## Biography
 
@@ -42,7 +43,5 @@ Lawrence later returned to Scotland and in 1933 was elected chairman of Stranrae
 *He was thought to have been born in 1885, and used this year in his registration documents with Newcastle United, but sports historian Andy Mitchell found that he was in fact born six years earlier (along with a twin sister); this discovery makes him Newcastle United's oldest ever player.
 
 Runner-up: 1905, 1906, 1908, 1911
-
-Karlsruher FV : Baden regional championship: 1926, 1928, 1929, 1931, 1932
 
 ## Collector notes

@@ -8,9 +8,9 @@ surname: O'Kane
 name_note: 
 team: stalybridge-celtic
 position: Inside Forward
-height: 
+height: 5'9½"
 born: 18th May 1896, Milngavie, Dunbartonshire, Scotland
-died: 1969 5' 9½"
+died: 1969
 image: card-1594-o-kane.jpg
 source_page: 842
 see_page: 

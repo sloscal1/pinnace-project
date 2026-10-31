@@ -10,9 +10,7 @@ This image is not part from the Pinnace Collection but is a Wimbledon team group
 
 Please note :
 
-Like many minor early 1920's teams included in the Pinnace Collection, some, but not all of the
-
-players are not included in any recorded statistical books or web sites, I found details of Wimbledon players on, www.historicaldons.com.
+Like many minor early 1920's teams included in the Pinnace Collection, some, but not all of the players are not included in any recorded statistical books or web sites, I found details of Wimbledon players on, www.historicaldons.com.
 
 Unfortunately, the research on this site is a little vague but the owner allowed me to use the information within my project.
 

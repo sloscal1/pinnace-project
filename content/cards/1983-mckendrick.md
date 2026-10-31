@@ -7,7 +7,7 @@ nickname:
 surname: McKendrick
 name_note: Full personal and positional data unavailable
 team: clydebank
-position: St Anthony's FC (Glasgow, Scotland)
+position: 
 height: 
 born: Greenock
 died: 
@@ -20,6 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | St Anthony's FC (Glasgow, Scotland) |  |  |  |
 | 1922-1926 | Clydebank | 75 |  |  |
 | 1926-1927 | Partick Thistle | 14 |  |  |
 | 1928-1929 | Morton |  |  |  |

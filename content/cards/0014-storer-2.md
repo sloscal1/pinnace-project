@@ -7,7 +7,7 @@ nickname:
 surname: Storer
 name_note: 
 team: grimsby-town
-position: Already included in this book
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page: 272
 
 ## Biography
 
-See Page 272 Derby County
+Already included in this book See Page 272 Derby County
 
 ## Collector notes

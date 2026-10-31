@@ -7,8 +7,8 @@ nickname:
 surname: Forsyth
 name_note: 
 team: aberdeen
-position: Defender 5 ' 8"
-height: 
+position: Defender
+height: 5'8"
 born: 14th November 1896 Cathcart, Scotland
 died: 1979
 image: card-1356-forsyth.jpg

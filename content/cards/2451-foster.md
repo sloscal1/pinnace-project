@@ -31,9 +31,6 @@ see_page:
 ## Honours
 
 - Grimsby Town : Football League Division Three North: 1925–26   Bristol City : Football League Division Three South: 1926–27
-
-## Biography
-
-Brentford : Football League Division Three South: 1932–33
+- Brentford : Football League Division Three South: 1932–33
 
 ## Collector notes

@@ -7,7 +7,7 @@ nickname: Jack
 surname: Elvey
 name_note: 
 team: arsenal
-position: Luton Clarence (Athenian League 1920)
+position: 
 height: 
 born: September 1892 Sharpenhoe Bedfordshire
 died: 1970
@@ -20,6 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Luton Clarence |  |  | Athenian League 1920 |
 |  | Luton Tow |  |  |  |
 | 1920-1922 | Bolton Wanderers | 11 | 0 |  |
 | 1923 | Arsenal | 1 | 0 |  |

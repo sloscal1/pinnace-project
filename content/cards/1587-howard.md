@@ -7,7 +7,7 @@ nickname:
 surname: Howard
 name_note: 
 team: stalybridge-celtic
-position: Despite numerous searches and enquiries
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-I have not been able to identify this player.
+Despite numerous searches and enquiries I have not been able to identify this player.
 
 ## Collector notes

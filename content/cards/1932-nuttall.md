@@ -7,8 +7,8 @@ nickname: Harry
 surname: Nuttall
 name_note: 
 team: bolton-wanderers
-position: 
-height: 
+position: Wing Half
+height: 5'9"
 born: 9th November 1897 Bolton, Lancashire, England
 died: 30th April 1969 Bolton, Lancasire, England
 image: card-1932-nuttall.jpg

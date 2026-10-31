@@ -32,6 +32,7 @@ see_page:
 ## Honours
 
 - Sheffield United : FA Cup: 1924/25
+- As a manager : Derry City : City Cup: 1934/35, 1936/37
 
 ## Biography
 
@@ -44,7 +45,5 @@ Gillespie was offered the position of manager of Derry City in 1932, where he re
 His first cap came in 1913, his two goals giving Ireland their very first victory over England. He was a part of the Ireland side that won the 1914 British Home Championship outright after gaining wins over England and Wales and a draw against Scotland at Windsor Park. Gillespie scored seven goals against England, matching a record set by Scotland players George 'Geordie' Ker (1860-1922) and John Smith (no defined details). Gillespie played for the Ireland national team operated by the Irish Football Association (IFA), which now operates the Northern Ireland national football team. Gillespie held the IFA record for most international goals scored for 78 years, with 13 goals. His record was equalled by Colin Clarke in 1992 and broken by David Healy in 2004.
 
 Gillespie was born in Kerrykeel, County Donegal, where his father was a constable with the RIC. Gillespie was married to Rosie with two children, Billy and Peter. Gillespie served as a gunner during World War I, during which time he lost most of his hair. During World War II he returned to Sheffield where he worked at Hadfields munitions works. Gillespie moved to the south of England following his retirement and died in his sleep in Bexley, London, on 2 July 1981, aged 89. In September 2013, a commemorative plaque was erected at Rab's Park, Kerrykeel, the local community sport field, in recognition of Gillespie's achievements and his links to the town.
-
-As a manager : Derry City : City Cup: 1934/35, 1936/37
 
 ## Collector notes

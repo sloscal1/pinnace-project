@@ -30,6 +30,7 @@ see_page:
 ## Honours
 
 - Player:  Stenhousemuir: Scottish Qualifying Cup: 1900–01,  1901–02 Central Combination: 1900–01, 1901–02
+- Manager: Dundee: Forfarshire Cup: 1924–25, 1925–26
 
 ## Biography
 
@@ -48,7 +49,5 @@ McNair became manager of Dundee in June 1925. His first two seasons saw Dundee f
 Stirlingshire Cup: 1901–02
 
 Celtic: Scottish League champions: 1904–05, 1905–06, 1906–07, 1907–08, 1908–09, 1909–10, 1913–14, 1914–15, 1915–16, 1916–17, 1918–19, 1921–22 Scottish Cup: 1906–07, 1907–08, 1910–11, 1911–12, 1913–14, 1922–23 Glasgow Cup: 1906–07, 1907–08, 1909–10, 1915–16, 1916–17, 1919–20, 1920–21 Glasgow Charity Cup: 1904–05, 1911–12, 1912–13, 1913–14, 1914–15, 1915–16, 1916–17, 1917–18, 1919–20 War Fund Shield: 1917–18 Scotland British Home Championship: 1905–06 (shared), 1907–08 (shared), 1909–10, 1911–12 (shared)
-
-Manager: Dundee: Forfarshire Cup: 1924–25, 1925–26
 
 ## Collector notes

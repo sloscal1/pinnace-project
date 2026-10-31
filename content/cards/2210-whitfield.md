@@ -28,10 +28,12 @@ see_page:
 | 1929 | Nuneaton Town | 47 | 0 |  |
 | 1930 | Hinckley Town |  |  |  |
 
+## Honours
+
+- Nuneaton Town: Tamworth Charity Cup: 1928–29, 1929–30 Nuneaton Hospitals Cup: 1928–29 Nuneaton Charity Cup: 1928–29, 1929–30 Chapel End Nursing Cup: 1929–30 Atherstone Nursing Cup: 1929–30
+
 ## Biography
 
 Whitfield served as a gunner in the Royal Garrison Artillery during the First World War and was wounded during the course of his service.
-
-Nuneaton Town: Tamworth Charity Cup: 1928–29, 1929–30 Nuneaton Hospitals Cup: 1928–29 Nuneaton Charity Cup: 1928–29, 1929–30 Chapel End Nursing Cup: 1929–30 Atherstone Nursing Cup: 1929–30
 
 ## Collector notes

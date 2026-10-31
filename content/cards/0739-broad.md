@@ -33,6 +33,7 @@ see_page:
 ## Honours
 
 - Oldham Athletic : Football League Second Division runners-up: 1909/10.
+- Stoke : Football League Second Division runners-up: 1921/22
 
 ## Biography
 
@@ -45,7 +46,5 @@ Broad remained at Saltergate until the end of the 1908/09 season, at the end of 
 Broad remained with the Ashton Gate club until after the First World War, making over 110 appearances, before again returning to Lancashire and the First Division, with Manchester City. Two years at Hyde Road were followed by three seasons at Stoke where Broad along with his brother Jimmy helped the "Potters" finish as Second Division runners-up in 1921/22, followed by relegation the following season. After three years in the Potteries, where Broad made 89 league and cup appearances, scoring 4 goals, he moved to the South Coast to join Southampton.
 
 Broad still holds the distinction of being the oldest player ever signed by the "Saints", being just three weeks short of his 37th birthday. At The Dell, he was used as cover for Bill Henderson (1899-1934) and only had a run of three games in October, followed by six in April. In September 1925, Broad moved to Weymouth of the Western League, before playing out his career with Rhyl.
-
-Stoke : Football League Second Division runners-up: 1921/22
 
 ## Collector notes

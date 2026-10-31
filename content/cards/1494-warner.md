@@ -8,9 +8,9 @@ surname: Warner
 name_note: 
 team: manchester-city
 position: Inside Forward
-height: 
+height: 5'8"
 born: 1898 Q1 Woolwich, London, England
-died: 1950 5' 8"
+died: 1950
 image: card-1494-warner.jpg
 source_page: 528
 see_page: 

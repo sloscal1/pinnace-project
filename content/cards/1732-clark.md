@@ -8,9 +8,9 @@ surname: Clark
 name_note: 
 team: southampton
 position: Outside Left
-height: 
+height: 5'8"
 born: 15th February 1890, Willington Quay, Northumberland, England
-died: 1960 5' 8"
+died: 1960
 image: card-1732-clark.jpg
 source_page: 822
 see_page: 

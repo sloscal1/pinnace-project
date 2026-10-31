@@ -36,8 +36,6 @@ see_page:
 
 ## Biography
 
-911
-
 Brynteg, Wrexham born right half Tommy Matthias began his football career with Pentre Broughton in 1907 and played for Mold Town in 1908, Saltney and then Summerhill in 1909, joining Shrewsbury Town in 1910 and Chester in 1911. He then joined hometown Birmingham and District League club Wrexham, and won the first of 12 caps for Wales when making his debut against Scotland at Celtic Park, Glasgow in February 1914.
 
 He played both sides of the First World War for Wrexham and helped them win the Welsh Cup on several occasions, and when they joined The Football League in 1921, Matthias played in their inaugural League fixture, a home defeat to Hartlepools United in August 1921, and missed only one match per season in their first two League seasons. He won his last cap for Wales against Scotland at Love Street, Paisley in March 1923, but continued to play for Wrexham in their first six League seasons, eventually leaving The Racecourse Ground in 1928 to join non league Whitchurch after 10 goals in 164 appearances in those seasons. He finished his career with Oak Alyn Rovers in 1929 Thanks to .www.vintagefootballers.com

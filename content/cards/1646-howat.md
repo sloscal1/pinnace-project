@@ -28,8 +28,6 @@ see_page:
 
 ## Biography
 
-441
-
 Note: This player is referenced within several internet sites and stats books, but with vague information.
 
 ## Collector notes

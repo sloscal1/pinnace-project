@@ -29,6 +29,7 @@ see_page:
 ## Honours
 
 - B 1903 : Danish championship: 1920, 1937
+- Scottish Cup: Glasgow Rangers : 1923, 1924, 1925
 
 ## Biography
 
@@ -51,7 +52,5 @@ He trained the junior team of AB with great success in the 1930s; a team includi
 In 1952, Hansen was asked to train the Denmark national football team at the 1952 Summer Olympics in Helsinki, but he was not allowed to travel with the team for the tournament. Denmark reached the quarter-finals of the 1952 Olympics. He coached BK Frem in 1962.
 
 During the World War II, Hansen was arrested in 1943 and sentenced to four months imprisonment for having harassed a German. He spent four months in prison and in a German concentration camp in Neumünster. This later affected his nervous system greatly.
-
-Scottish Cup: Glasgow Rangers : 1923, 1924, 1925
 
 ## Collector notes

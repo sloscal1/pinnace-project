@@ -7,7 +7,7 @@ nickname:
 surname: McGee
 name_note: 
 team: portsmouth
-position: There are no statistics of this player available
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-Anywhere.
+There are no statistics of this player available Anywhere.
 
 ## Collector notes

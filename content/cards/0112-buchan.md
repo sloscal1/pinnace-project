@@ -30,6 +30,11 @@ see_page:
 
 - 1913-1924 England 6 apps 4 goals
 
+## Honours
+
+- Sunderland : First Division: 1912–13, FA Cup runner-up: 1912–13
+- Arsenal : FA Cup runner-up: 1926–27. England : British Home Championship: 1912–13 Individual : First Division Top Scorer : 1922–23. English Football Hall of Fame: 2013 Thanks www.vintagefootballers.com, for a very concise bio
+
 ## Biography
 
 One of the greatest of the greats, a war hero, a man who dedicated his life to football becoming a famous broadcaster and journalist in later life, publishing the eponymous Charles Buchan Football Monthly that older readers may remember, Plumstead, London born centre forward Charles Buchan is one of the most remarkable footballers to have played the game in the Vintage Footballers era, and not unnaturally is in the Vintage Footballers Heroes section.
@@ -79,9 +84,5 @@ A hearse subsequently arrived to take Buchan's body to Marseille but bizarrely o
 The News Chronicle commented on his passing; "that rare combination, the complete footballer and the perfect gentleman". Of his time on the Western Front he stated, shortly before his death that "it was tough, mighty tough, but I know now it did me all the good in the world. I was proud to belong to the Grenadier Guards".
 
 His older brother Tom (1889-1952) played with him at Leyton and also played for Bolton Wanderers.
-
-Honours : Sunderland : First Division: 1912–13, FA Cup runner-up: 1912–13
-
-Arsenal : FA Cup runner-up: 1926–27. England : British Home Championship: 1912–13 Individual : First Division Top Scorer : 1922–23. English Football Hall of Fame: 2013 Thanks www.vintagefootballers.com, for a very concise bio
 
 ## Collector notes

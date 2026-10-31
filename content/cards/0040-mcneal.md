@@ -26,6 +26,7 @@ see_page:
 ## Honours
 
 - West Bromwich Albion : Football League Second Division: 1910/11. FA Cup runner-up: 1912.
+- Football League First Division: 1919/20. FA Charity Shield: 1920.
 
 ## Biography
 
@@ -38,7 +39,5 @@ McNeal played football for the village team before becoming professional with We
 During the war he appeared as a guest player for Fulham, Middlesbrough, Notts County and Port Vale. McNeal was part of West Bromwich Albion's league championship-winning side of 1919/20. The team also won the 1920 Charity Shield with a 2–0 victory over Tottenham Hotspur at White Hart Lane. Albion then dropped to 14th and 13th-place finishes in 1920/21 and 1921–22. They finished seventh in 1922/23 and 16th in 1923/24 before posting a second-place finish in 1924/25 – they ended the campaign just two points behind champions Huddersfield Town. In May 1925, McNeal retired through injury and became a licensee of a pub in the West Bromwich area. From 1926 to 1927, McNeal served as Albion's coach on a part-time basis.
 
 McNeal earned two England caps during the 1914 British Home Championship, playing the two final England internationals before the onset of World War I, which caused the suspension of the competition until 1920. He was one of four England players to win their first cap on 16 March 1914 as Wales were defeated 2–0 at Ninian Park. His second and final cap came on 14 April as Scotland ran out 3–1 winners at Hampden Park. Overall the competition was something of a minor embarrassment for the country, as the Irish finished as champions and England finished third behind the Scots and just one point ahead of the Welsh.
-
-Football League First Division: 1919/20. FA Charity Shield: 1920.
 
 ## Collector notes

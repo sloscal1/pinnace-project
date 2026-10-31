@@ -28,6 +28,7 @@ see_page:
 ## Honours
 
 - Newcastle Utd : FA Cup winner 1923-24 season.
+- League Championship winner : 1926-27 season.
 
 ## Biography
 
@@ -46,7 +47,5 @@ At the age of 40 he joined Stockport County there finishing his career.
 Post retirement he ran a billiards hall in Newcastle, before going back into football as trainer at Burnley, retiring and living his days out in Lancashire.
 
 Hudspeth served as an able seaman in the Royal Navy during the First World War.
-
-League Championship winner : 1926-27 season.
 
 ## Collector notes

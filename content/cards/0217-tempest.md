@@ -25,9 +25,9 @@ see_page:
 | 1919-1924 | Stoke C | 174 |  |  |
 | 1924-1926 | Port Vale | 45 | 3 |  |
 
-## Biography
+## Honours
 
-Stoke : Southern League Division Two: 1914/15. Football League Second Division second-place promotion: 1921/22
+- Stoke : Southern League Division Two: 1914/15. Football League Second Division second-place promotion: 1921/22
 
 ## Collector notes
 

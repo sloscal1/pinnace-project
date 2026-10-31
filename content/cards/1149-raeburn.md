@@ -7,7 +7,7 @@ nickname:
 surname: Raeburn
 name_note: 
 team: raith-rovers
-position: Leith Benburb, Tranent Juniors.
+position: 
 height: 
 born: Edinburgh
 died: 
@@ -20,6 +20,8 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Leith Benburb |  |  |  |
+|  | Tranent Juniors |  |  |  |
 | 1920-1926 | Raith R | 147 | 4 |  |
 | 1926-1927 | St Bernards |  |  |  |
 

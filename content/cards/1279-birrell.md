@@ -28,11 +28,10 @@ see_page:
 ## Honours
 
 - Cowdenbeath: Scottish League Division Two (2): 1913–14, 1914–15. Eastern League (2): 1916–17, 1917–18
+- Heart of Midlothian: East of Scotland Shield (1): 1920–21. Wilson Cup (2): 1918–19, 1919–20 Rosebery Charity Cup (2): 1918–19, 1920–21 Individual: Cowdenbeath Hall of Fame
 
 ## Biography
 
 Younger brother of William 'Billy' Birrell (1897-1968) See page 550 Middlesbrough section.
-
-Heart of Midlothian: East of Scotland Shield (1): 1920–21. Wilson Cup (2): 1918–19, 1919–20 Rosebery Charity Cup (2): 1918–19, 1920–21 Individual: Cowdenbeath Hall of Fame
 
 ## Collector notes

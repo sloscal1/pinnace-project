@@ -7,7 +7,7 @@ nickname:
 surname: Martin
 name_note: 
 team: hamilton-acc
-position: Ghostly Apparitions
+position: 
 height: 
 born: 
 died: 

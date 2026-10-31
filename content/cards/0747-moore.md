@@ -28,8 +28,8 @@ see_page:
 
 - 1923 England 1 app v Sweden, 4-2 win, 21st May 1923 friendly in Stockholm
 
-## Biography
+## Honours
 
-NB: Honours: Derby County: Football League Second Division champions: 1914–15, Football League Second Division runners-up: 1925–26
+- Derby County: Football League Second Division champions: 1914–15, Football League Second Division runners-up: 1925–26
 
 ## Collector notes

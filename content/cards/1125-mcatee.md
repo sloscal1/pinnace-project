@@ -45,6 +45,4 @@ He made one appearance for Scotland in 1913 versus Wales but was selected more f
 
 In his later years he returned to Lanarkshire. He died in 1956 and is buried in the same Kilsyth cemetery as Jimmy Quinn - a memorial service in his honour was held at the cemetery in 2015, attended by club representatives Jim Craig and Tom Boyd.
 
-In his later years he returned to Lanarkshire. He died in 1956 and is buried in the same Kilsyth cemetery as Jimmy Quinn - a memorial service in his honour was held at the cemetery in 2015, attended by club representatives Jim Craig and Tom Boyd.
-
 ## Collector notes

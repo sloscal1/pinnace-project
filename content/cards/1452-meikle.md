@@ -28,6 +28,4 @@ Pinnace is notorious for re-printing mistakes and its possible, the Initial of F
 
 Angus had links with Dalserf village and Larkhall United, both of which, have strong links with Airdrie footballers, around the early to mid 1900's.
 
-.
-
 ## Collector notes

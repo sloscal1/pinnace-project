@@ -23,6 +23,10 @@ see_page:
 | 1914 | Hednesford Town |  |  |  |
 | 1920-1928 | Wolverhampton W | 242 | 0 |  |
 
+## Honours
+
+- Wolverhampton Wanderers : FA Cup finalists: 1921. Football League Third Division North champions: 1923–24
+
 ## Biography
 
 Born in Lichfield, always known as Noel, he started playing as a forward with Hednesford Town before joining the Royal Army Service Corps in World War I. It was during his days in the army that he switched to the goalkeeper position.
@@ -32,7 +36,5 @@ George was signed by Wolverhampton Wanderers in the summer of 1919, making his s
 He established himself as the Wolves keeper, and was an ever-present in the 1921/22, 1923/24 and 1924/25 seasons, and in all he made 242 senior competitive appearances for Wolves, 222 of which were in The Football League. He kept a total of 73 clean sheets for Wolves.
 
 George started to miss a number of games through injury in the 1925/26 and 1926/27 seasons and by November 1927 he was in the early stages of a terminal illness, and he retired in 1928. It was diagnosed as a disease of the gums and he died on October 16, 1929. His manager at Wolves, Frank Buckley, was convinced that his death was a result of ill-fitting dentures and thus from then on he ensured any of his players with dentures made regular visits to the dentist
-
-Wolverhampton Wanderers : FA Cup finalists: 1921. Football League Third Division North champions: 1923–24
 
 ## Collector notes

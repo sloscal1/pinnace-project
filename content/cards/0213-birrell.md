@@ -28,6 +28,7 @@ see_page:
 ## Honours
 
 - Player Middlesbrough : Football League Second Division: 1926–27
+- As a manager: Chelsea : Football League South War Cup: 1943–44, 1944–45
 
 ## Biography
 
@@ -38,7 +39,5 @@ On April 19 1939, he was appointed the new Chelsea manager. The Second World War
 In wartime, Birrell developed the idea of a youth team for Chelsea, and on May 25 1940, the Chelsea Junior team, a team which included future England manager Ron Greenwood, played their first match against Queens Park Rangers. Birrell's plan was fully implemented after the war, with the sponsorship of The Tudor Rose Boys' Club, allowing them to run four teams in the Harrow and Wembley League.
 
 Birrell's brother Robert 'Bob' Birrell (1890-1956) was also a footballer, playing for several Scottish league teams between 1912 and 1922 and playing once for a Scottish XI in 1921.
-
-As a manager: Chelsea : Football League South War Cup: 1943–44, 1944–45
 
 ## Collector notes

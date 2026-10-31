@@ -25,7 +25,7 @@ see_page:
 
 ## Honours
 
-- Scottish League: (9) 1920/21, 1922/23, 1923/24, 1924/25, 1926/27, 1927/28, 1928/29, 1929/30, 1930/31.
+- Scottish League: (9) 1920/21, 1922/23, 1923/24, 1924/25, 1926/27, 1927/28, 1928/29, 1929/30, 1930/31. 1927/28, 1929/30, 1931/32. Glasgow Cup: (5) 1922/23, 1923/24, 1924/25, 1929/30, 1931/32
 
 ## Biography
 
@@ -46,7 +46,5 @@ In addition he made 15 appearances (scoring 1 goal) for the Scottish League XI (
 After retiring Morton became an important administrator within Scottish sport. He was appointed to the Rangers board of directors and he remained there until the year of his death. Further afield, he demonstrated an inclination toward Unionist politics in reaction to the rise in post-War Scottish nationalism. He also owned a coal business in central Scotland. Today a portrait of Morton in his Scottish strip stands at the top of the marble staircase at Ibrox's Main Stand, such is his enduring stature at the club
 
 His elder brother Robert 'Bob' Morton (1891-1948) also played for Queen's Park, where the siblings were teammates for six season Scottish Cup: (3)
-
-1927/28, 1929/30, 1931/32. Glasgow Cup: (5) 1922/23, 1923/24, 1924/25, 1929/30, 1931/32
 
 ## Collector notes

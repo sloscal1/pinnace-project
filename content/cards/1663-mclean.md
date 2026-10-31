@@ -7,7 +7,7 @@ nickname:
 surname: McLean
 name_note: 
 team: ayr-utd
-position: Much confusion.
+position: 
 height: 
 born: 
 died: 
@@ -17,6 +17,8 @@ see_page:
 ---
 
 ## Biography
+
+Much confusion.
 
 Its thought his name is JAMES or JOHN McLEAN
 

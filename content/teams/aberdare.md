@@ -6,6 +6,4 @@ images: aberdare-p32-0.jpg
 colours:
 ---
 
-ABERDARE ATHLETIC
-
 Division three south 1921 - 1927

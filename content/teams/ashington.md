@@ -6,6 +6,4 @@ images: ashington-p57-0.jpg
 colours:
 ---
 
-Ashington afc
-
 Founder members of the Third Division (North) 1921

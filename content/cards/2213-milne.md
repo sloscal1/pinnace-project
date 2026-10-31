@@ -7,7 +7,7 @@ nickname:
 surname: Milne
 name_note: 
 team: clydebank
-position: Despite much research, I have been unable to
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-Identify this card character
+Despite much research, I have been unable to Identify this card character
 
 ## Collector notes

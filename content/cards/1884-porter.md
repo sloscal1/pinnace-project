@@ -8,9 +8,9 @@ surname: Porter
 name_note: 
 team: bury
 position: Right Half
-height: 
+height: 5'11"
 born: 31st July 1901 Hamilton, Scotland
-died: 1967 5' 11"
+died: 1967
 image: card-1884-porter.jpg
 source_page: 168
 see_page: 

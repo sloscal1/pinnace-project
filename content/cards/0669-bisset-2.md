@@ -22,6 +22,4 @@ See page 542 for bio of this card character.
 
 Included in the Manchester United section.
 
-C
-
 ## Collector notes

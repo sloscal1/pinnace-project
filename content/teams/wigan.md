@@ -6,10 +6,6 @@ images: wigan-p951-0.jpg
 colours:
 ---
 
-&
-
-wigan borough
-
 This image is not part of the Pinnace Collection but a 1921 Wigan Borough team group.
 
 Wigan were never called by a single name.

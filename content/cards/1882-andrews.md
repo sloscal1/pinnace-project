@@ -7,10 +7,10 @@ nickname:
 surname: Andrews
 name_note: 
 team: durham
-position: 
+position: Wing Half
 height: 
 born: 12th January 1901 Sunderland, Co Durham, England
-died: 1971 Wing Half
+died: 1971
 image: card-1882-andrews.jpg
 source_page: 286
 see_page: 

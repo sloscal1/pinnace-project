@@ -26,12 +26,10 @@ see_page:
 
 ## Honours
 
-- Shamrock Rovers : League of Ireland: 1924/25, 1926/27. FAI Cup: 1925. League of Ireland Shield:
+- Shamrock Rovers : League of Ireland: 1924/25, 1926/27. FAI Cup: 1925. League of Ireland Shield: 1924/25, 1926/27. Leinster Senior Cup: 1927
 
 ## Biography
 
 Ireland one appearance v Italy 1927.
-
-1924/25, 1926/27. Leinster Senior Cup: 1927
 
 ## Collector notes

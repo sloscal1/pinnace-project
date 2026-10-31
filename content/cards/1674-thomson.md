@@ -7,7 +7,7 @@ nickname:
 surname: Thomson
 name_note: 
 team: hamilton-acc
-position: Benburb (Co Tyrone, Ireland)
+position: 
 height: 
 born: Glasgow
 died: 
@@ -20,6 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Benburb (Co Tyrone, Ireland) |  |  |  |
 | 1920-1929 | Hamilton Acc | 240 | 8 |  |
 | 1929-1929 | Alloa |  |  |  |
 

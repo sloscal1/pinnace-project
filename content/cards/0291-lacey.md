@@ -26,6 +26,14 @@ see_page:
 | 1924-1925 | New Brighton | 7 | 0 |  |
 | 1925-1932 | Shelbourne x2, Hereford Utd |  |  |  |
 
+## Honours
+
+- Everton: First Division runners-up: 1908–09, 1911–12.
+- Ireland: 1914 British Home Championship: 1914.
+- Liverpool: Football League champions:1921–22, 1922–23, FA Cup runners-up: 1914.
+- Linfield: Irish Cup winners: 1918–19, runners-up: 1917–18.
+- Manager: Bohemians: League of Ireland champions: 1933–34, FAI Cup winners: 1935, League of Ireland Shield winners: 1934.
+
 ## Biography
 
 William Lacey was an Irish footballer who played for, among others, Shelbourne, Liverpool, Everton and Linfield. Lacey was a dual international and also played for both Ireland teams – the IFA XI and the FAI XI.
@@ -63,16 +71,6 @@ During the 1930s Lacey also coached the FAI XI on several occasions. At the time
 ### Bohemians
 
 Lacey was appointed coach of Bohemians at the start of the 1933–34 season and with a team that included Fred Horlacher and Billy Jordan he subsequently guided them to a League of Ireland and League of Ireland Shield double. He also guided them to an FAI Cup win in 1935 Honours: Player: Shelbourne: Irish Cup runners-up:1907–08, League of Ireland winners: 1925–26, League of Ireland Shield winners: 1926.
-
-Everton: First Division runners-up: 1908–09, 1911–12.
-
-Ireland: 1914 British Home Championship: 1914.
-
-Liverpool: Football League champions:1921–22, 1922–23, FA Cup runners-up: 1914.
-
-Linfield: Irish Cup winners: 1918–19, runners-up: 1917–18.
-
-Manager: Bohemians: League of Ireland champions: 1933–34, FAI Cup winners: 1935, League of Ireland Shield winners: 1934.
 
 ## Sources
 

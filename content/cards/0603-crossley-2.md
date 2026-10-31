@@ -7,8 +7,8 @@ nickname: Charlie
 surname: Crossley
 name_note: 
 team: west-ham-united
-position: Inside Forward 5; 7"
-height: 
+position: Inside Forward
+height: 5'7"
 born: 17th December 1891, Shortheath, Willenhall, Staffordshire, England
 died: 20th April 1965, Wolverhampton, Staffordshire, England
 image: card-0603-crossley-2.jpg

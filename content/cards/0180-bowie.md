@@ -31,6 +31,7 @@ see_page:
 ## Honours
 
 - Scottish League: 1910–11, 1911–12, 1912–13, 1917–18, 1919–20, 1920–21. Scottish Cup: Runner-up: 1920–21
+- Glasgow Cup: 1913–14, 1917–18, 1918–19
 
 ## Biography
 
@@ -41,7 +42,5 @@ Bowie won two Scotland caps in 1920, and also played in four wartime internation
 After retiring, he became a club director in 1925 and served as chairman from 1934 until 1947. The circumstances for Bowie's departure as chairman were due to a boardroom coup, after he suggested that then manager Bill Struth retire, being that he was 71 years old.
 
 He was also president of the Scottish Football League from 1939 to 1946.
-
-Glasgow Cup: 1913–14, 1917–18, 1918–19
 
 ## Collector notes

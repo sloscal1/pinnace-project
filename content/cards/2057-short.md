@@ -7,7 +7,7 @@ nickname:
 surname: Short
 name_note: 
 team: rochdale
-position: Research has drawn a negative on who this player is.
+position: 
 height: 
 born: 
 died: 
@@ -17,6 +17,8 @@ see_page:
 ---
 
 ## Biography
+
+Research has drawn a negative on who this player is.
 
 Searches done using name variations but without success.
 

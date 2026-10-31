@@ -29,6 +29,7 @@ see_page:
 ## Honours
 
 - Tottenham Hotspur : Football League Second Division: 1919/20.
+- FA Cup: 1920/21.
 
 ## Biography
 
@@ -45,7 +46,5 @@ Cantrell remains the oldest outfield player to appear for Spurs. Cantrell played
 He joined Midland League club Sutton Town on 8 October 1923, retiring in 1925.
 
 Cantrell returned to Nottingham where he became a golf professional. He died in Basford in 1960.
-
-FA Cup: 1920/21.
 
 ## Collector notes

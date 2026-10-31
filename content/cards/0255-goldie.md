@@ -7,7 +7,7 @@ nickname:
 surname: Goldie
 name_note: Personal and position data unavailable
 team: clydebank
-position: Clyde 1912-1913 11 apps 0 goals
+position: 
 height: 
 born: 
 died: 
@@ -20,6 +20,7 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+| 1912-1913 | Clyde | 11 | 0 |  |
 | 1913-1914 | St Bernards |  |  |  |
 |  | New Bedford Whalers | 1 | 0 |  |
 | 1914-1922 | Clydebank | 145 | 20 |  |

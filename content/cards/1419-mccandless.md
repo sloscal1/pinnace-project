@@ -31,6 +31,8 @@ see_page:
 ## Honours
 
 - , Player: Linfield SwiftsSteel And Sons Cup: 1915/16. Linfield : Irish Cup: 1916, 1919, County Antrim Shield: 1917.
+- Rangers : Scottish League: 1921, 1923, 1924, 1925, 1927, 1928
+- Manager : Newport County : Football League Third Division South: 1938–39. Cardiff City : Football League Third Division South: 1946–47 Swansea Town : Football League Third Division South: 1948–49.
 
 ## Biography
 
@@ -45,9 +47,5 @@ A month later he was appointed Cardiff City manager in 1946 and took the side to
 He died suddenly on 18 July 1955 at his home in Swansea, while still the club's manager.
 
 McCandless won his first Ireland cap on 25 October 1919 in the first post-war international, a 1–1 draw with England. He went on to win a total of 9 caps for Ireland, making his final appearance on 2 February 1929 in a 2–2 draw with Wales.
-
-Rangers : Scottish League: 1921, 1923, 1924, 1925, 1927, 1928
-
-Manager : Newport County : Football League Third Division South: 1938–39. Cardiff City : Football League Third Division South: 1946–47 Swansea Town : Football League Third Division South: 1948–49.
 
 ## Collector notes

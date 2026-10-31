@@ -7,7 +7,7 @@ nickname:
 surname: Charlton
 name_note: 
 team: crewe-alex
-position: Despite extensive research, I cannot not identify
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-This card character.
+Despite extensive research, I cannot not identify This card character.
 
 ## Collector notes

@@ -31,6 +31,10 @@ see_page:
 
 - 1895-1920 Wales 48 apps 11 goals
 
+## Honours
+
+- Chirk Welsh Cup: 1894 Manchester City Second Division: 1898–99 FA Cup: 1903–04 Manchester United First Division: 1907–08, 1910–11 FA Cup: 1908–09 FA Charity Shield: 1908, 1911 Wales British Home Championship: 1907, 1920 Individual: Football League 100 Legends: 1998 (inducted) English Football Hall of Fame: 2007 (inducted)
+
 ## Biography
 
 William Henry Meredith was a Welsh professional footballer. He was considered one of the early superstars of football due to his performances, notably for Manchester City and Manchester United. He won each domestic trophy in the English football league and gained 48 caps for Wales, for whom he scored 11 goals and won two British Home Championship titles. His favoured position was outside right, and his key skills were dribbling, passing, crossing and shooting. A dedicated and extremely fit professional, his habit of chewing on a toothpick during games made him instantly recognisable.
@@ -100,7 +104,5 @@ He married Ellen Negus in 1901, and the couple had two daughters. He was a suppo
 A Wales national team football shirt which was worn by Billy Meredith in the early 1900s, with Welsh cap, are on display at the National Football Museum in Manchester.
 
 Meredith died in Withington, Manchester in April 1958 at the age of 83 (two months after the Munich air disaster, which claimed the lives of eight Manchester United players), and was buried in Southern Cemetery, Manchester. After he spent many years in an unmarked grave, the Professional Footballers' Association, the Welsh FA, Manchester City and Manchester United all agreed to cover the cost of upkeep on a new headstone. Meredith is honoured in the hall of fame at the City of Manchester Stadium. It was announced in August 2007 that Meredith was one of the 10 new inductees for 2007 to the English Football Hall of Fame.
-
-Honours: Chirk Welsh Cup: 1894 Manchester City Second Division: 1898–99 FA Cup: 1903–04 Manchester United First Division: 1907–08, 1910–11 FA Cup: 1908–09 FA Charity Shield: 1908, 1911 Wales British Home Championship: 1907, 1920 Individual: Football League 100 Legends: 1998 (inducted) English Football Hall of Fame: 2007 (inducted)
 
 ## Collector notes

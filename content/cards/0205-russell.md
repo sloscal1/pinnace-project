@@ -35,6 +35,7 @@ see_page:
 ## Honours
 
 - Merthyr Town : South Wales & Monmouthshire FA Cup: 1912.
+- Individual : Merthyr Town Hall of Fame
 
 ## Biography
 
@@ -55,7 +56,5 @@ The arrival of Fred Titmuss (1898-1966) saw Russell return to the right back pos
 Thanks to www.vintagefootballers.com
 
 Wales : British Home Championship, 1920, 1924, 1928.
-
-Individual : Merthyr Town Hall of Fame
 
 ## Collector notes

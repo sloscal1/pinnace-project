@@ -27,8 +27,6 @@ see_page:
 
 ## Biography
 
-944
-
 Both players
 
 ## Collector notes

@@ -7,10 +7,10 @@ nickname:
 surname: Elliott
 name_note: 
 team: durham
-position: 
+position: Full Back
 height: 
 born: 1st May 1899 Annfield Plain. Co Durham, England
-died: 1966 Full Back
+died: 1966
 image: card-1879-elliott.jpg
 source_page: 286
 see_page: 

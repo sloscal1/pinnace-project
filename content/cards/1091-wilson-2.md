@@ -30,9 +30,6 @@ see_page:
 ## Honours
 
 - Tottenham Hotspur : Football League Second Division Champions: 1919/20
-
-## Biography
-
-Huddersfield Town :Football League First Division Champions (3): 1923/24, 1924/25, 1925/26 Stoke City : Football League Third Division North Champions: 1926/27
+- Huddersfield Town :Football League First Division Champions (3): 1923/24, 1924/25, 1925/26 Stoke City : Football League Third Division North Champions: 1926/27
 
 ## Collector notes

@@ -8,8 +8,4 @@ colours: #1b47a0, #ffffff
 
 Note:
 
-James 'Jimmy'Mitton is wrongly placed in this Everton team, so not included.
-
-Mitton was never an Everton player. He rightfully appears in the following set of cards,
-
-For Exeter City.
+James 'Jimmy'Mitton is wrongly placed in this Everton team, so not included. Mitton was never an Everton player. He rightfully appears in the following set of cards, For Exeter City.

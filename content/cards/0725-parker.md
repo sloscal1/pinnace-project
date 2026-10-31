@@ -30,6 +30,7 @@ see_page:
 ## Honours
 
 - Everton : Football League First Division: 1914–15. Nottingham Forest : Division Two Champions 1921-22
+- BohemianLeague of Ireland: 1927–28, FAI Cup: 1927–28, League of Ireland Shield: 1927–28, Leinster Senior Cup: 1927–28.
 
 ## Biography
 
@@ -38,7 +39,5 @@ Possilpark, Glasgow born centre forward Bobby Parker started with Glasgow Ashfie
 After retirement he became manager of Irish club Bohemians where he coached them to the Clean Sweep in 1927-28, winning the League of Ireland, FAI Cup, Shield and Leinster Senior Cup.
 
 Parker served as a private in the Royal Scots Fusiliers and Labour Corps during the First World War.
-
-BohemianLeague of Ireland: 1927–28, FAI Cup: 1927–28, League of Ireland Shield: 1927–28, Leinster Senior Cup: 1927–28.
 
 ## Collector notes

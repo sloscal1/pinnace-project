@@ -9,7 +9,7 @@ name_note:
 team: ayr-utd
 position: Outside Right/ Centre Forward
 height: 5'10"
-born: in Barrhead, Renfrewshire, but lived in Manchester from the age of 12. He played for Xaverian College, Higher
+born: 2nd July 1890 Barrhead, Scotland
 died: 1953 Ayr, Scotland (conflict could be 1957 Leicester, England)
 image: card-0266-quinn.jpg
 source_page: 44
@@ -29,7 +29,7 @@ see_page:
 
 ## Biography
 
-Broughton and Cheetham Hill as a youth, before attracting the attention of Manchester City at the age of 17. He signed for the club in November 1907 after scoring against Liverpool in a trial match for the reserve team; however, he refused to sign a new contract at the end of the season and joined Manchester United.
+Born in Barrhead, Renfrewshire, but lived in Manchester from the age of 12. He played for Xaverian College, Higher Broughton and Cheetham Hill as a youth, before attracting the attention of Manchester City at the age of 17. He signed for the club in November 1907 after scoring against Liverpool in a trial match for the reserve team; however, he refused to sign a new contract at the end of the season and joined Manchester United.
 
 He made his Football League debut at centre-forward, standing in for Jimmy Turnbull in a 2–0 away defeat to Sheffield Wednesday on 3 April 1909. His only other appearance for the club came on New Year's Day 1910, playing at outside right in a 2–0 win at Bradford City. During his time at Manchester United, Quinn was also a teacher, which left little time for training. This resulted in him being let go by Manchester United, and he joined Nelson at the end of the 1909–10 season. His time there was short, and he moved to Chorley before the end of the year, followed by a move to Eccles Borough in October 1911.
 

@@ -10,7 +10,7 @@ team: bradford-pa
 position: Goalkeeper
 height: 5'8"
 born: 29th May 1887 Riddings, Derbyshire, England
-died: 2nd July 1932 Creswell, Derbyshire, England Goalkeeper
+died: 2nd July 1932 Creswell, Derbyshire, England
 image: card-0065-scattergood.jpg
 source_page: 105
 see_page: 

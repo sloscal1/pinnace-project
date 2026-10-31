@@ -28,6 +28,8 @@ see_page:
 ## Honours
 
 - Player : Greenock Morton : Scottish Football League runner-up, 1916–17Great War Shield: 1914–15:
+- Newcastle United :Football League First Division: 1926–27 FA Cup: 1924
+- Manager : Newcastle United : FA Cup: 1951, 1952
 
 ## Biography
 
@@ -48,9 +50,5 @@ His son Stan Seymour, Jr. later became chairman of Newcastle United.
 Jackie Milburn was once quoted saying "There is a great debt owed by Newcastle United to Stan Seymour for all of his services to the club".
 
 The North Eastern League Cup (in which teams from the Northern Football Alliance Premier Division compete in) was renamed the Stan Seymour League Cup in his honour.
-
-Newcastle United :Football League First Division: 1926–27 FA Cup: 1924
-
-Manager : Newcastle United : FA Cup: 1951, 1952
 
 ## Collector notes

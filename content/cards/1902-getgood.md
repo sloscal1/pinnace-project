@@ -36,6 +36,7 @@ see_page:
 ## Honours
 
 - Southampton : Football League Third Division South champions: 1921/22
+- Wolverhampton Wanderers : Football League Third Division North champions: 1923/24
 
 ## Biography
 
@@ -52,7 +53,5 @@ In February 1923 he returned to the Midlands to join Wolverhampton Wanderers, wi
 Getgood was the licensee of the Great Western Hotel in Bewdley before returning to Scotland, where he appeared for Second Division sides Bathgate and Bo'ness. He then came back again to the Midlands where he took a job as a bus conductor and turned out for Nuneaton Town and his works team Midland Red Sports. He later worked as a porter in Worcester.
 
 He died in Kidderminster on 22 July 1970 aged 77.
-
-Wolverhampton Wanderers : Football League Third Division North champions: 1923/24
 
 ## Collector notes

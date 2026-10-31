@@ -28,9 +28,6 @@ see_page:
 ## Honours
 
 - Huddersfield Town: FA Cup winners: 1922=FA Charity Shield winners: 1922 FA Cup runners-up: 1920
-
-## Biography
-
-Second Division runners-up: 1919–20. Club leading scorer 1922. Birmingham: Club leading scorer 1925
+- Second Division runners-up: 1919–20. Club leading scorer 1922. Birmingham: Club leading scorer 1925
 
 ## Collector notes

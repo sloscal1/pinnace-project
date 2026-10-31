@@ -29,6 +29,7 @@ see_page:
 ## Honours
 
 - Huddersfield Town, Football League Division 1 Championship: 1923–24, 1924–25 & 1925–26
+- Division 1 Runner-up: 1926–27 & 1927–28, Division 2 Runner-up: 1919–20, FA Cup Winner: 1922. FA Cup finalist: 1920, 1928 & 1930 FA Charity Shield: 1922 (Biography courtesy of Wikipedia many thanks)
 
 ## Biography
 
@@ -39,7 +40,5 @@ Over the next 12 seasons, he was a virtual ever-present with Huddersfield, helpi
 He made one England appearance in a 5–1 defeat by Scotland on 31 March 1928.
 
 He left Huddersfield in 1931, having made 448 league appearances (4 goals) and another 52 appearances in FA Cup matches. He spent one season at Blackpool before retiring in 1932. He then returned to Huddersfield as assistant trainer. After World War II, he joined Barnsley as a trainer where he remained until his death in 1948 at the age of 51.
-
-Division 1 Runner-up: 1926–27 & 1927–28, Division 2 Runner-up: 1919–20, FA Cup Winner: 1922. FA Cup finalist: 1920, 1928 & 1930 FA Charity Shield: 1922 (Biography courtesy of Wikipedia many thanks)
 
 ## Collector notes

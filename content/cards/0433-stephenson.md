@@ -7,7 +7,7 @@ nickname: Clem
 surname: Stephenson
 name_note: 
 team: huddersfield-town
-position: A biography for this player
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-Is included on Page 11 in the Section for Aston Villa,
+A biography for this player Is included on Page 11 in the Section for Aston Villa,
 
 ## Collector notes

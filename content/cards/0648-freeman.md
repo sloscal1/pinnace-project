@@ -29,6 +29,7 @@ see_page:
 ## Honours
 
 - Player : Middlesbrough : Football League Second Division champions: 1926–27, 1928–29
+- Manager : Rotherham United : Football League Third Division North champions: 1950–51 Sheffield United : Football League Second Division champions: 1952–53
 
 ## Biography
 
@@ -37,7 +38,5 @@ New Brighton, Cheshire born left back Reg Freeman began his football career was 
 He signed for Middlesbrough for £3,600 (£ 179,000+ now) in May 1923 after 104 games for The Latics. At 'Boro he played seven seasons, winning the Second Division Championship in 1927 and 1929 (he was injured for most of their 1927-28 relegation season) and being Club Captain, making 187 appearances before joining Rotherham United for £150 (£ 8,000+ now) initially as a player in 1930.
 
 He went on to play 98 games for Rotherham scoring his only 3 career goals for them, he then served The Millers for 18 years as manager from January 1934 to 1952, winning the Third Division (North) Championship in 1951. In 1952 he became manager at Sheffield United and led them to the Second Division title in 1953, keeping them in the First Division over the next two seasons, however he died aged 61 before the start of the 1955-56 season.
-
-Manager : Rotherham United : Football League Third Division North champions: 1950–51 Sheffield United : Football League Second Division champions: 1952–53
 
 ## Collector notes

@@ -7,10 +7,10 @@ nickname: Ernie
 surname: Young
 name_note: 
 team: durham
-position: 
+position: Inside Forward
 height: 
 born: 21st August 1892 Sunderland, Co Durham, England
-died: 1962 Inside Forward
+died: 1962
 image: card-1880-young.jpg
 source_page: 286
 see_page: 

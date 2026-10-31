@@ -7,7 +7,7 @@ nickname:
 surname: Dickinson
 name_note: 
 team: barrow
-position: Unable to trace any details of this card character.
+position: 
 height: 
 born: 
 died: 
@@ -17,6 +17,8 @@ see_page:
 ---
 
 ## Biography
+
+Unable to trace any details of this card character.
 
 The only Dickinson affiliated to Barrow was during the 1930's
 

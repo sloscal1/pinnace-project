@@ -7,7 +7,7 @@ nickname:
 surname: Anderson
 name_note: 
 team: clyde
-position: Despite extensive research, I have not been able
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page:
 
 ## Biography
 
-to identify this card character.
+Despite extensive research, I have not been able to identify this card character.
 
 ## Collector notes

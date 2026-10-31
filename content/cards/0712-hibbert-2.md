@@ -7,7 +7,7 @@ nickname: Billy
 surname: Hibbert
 name_note: 
 team: oldham-ath
-position: Hibbert is included in the Bradford City section
+position: 
 height: 
 born: 
 died: 
@@ -18,6 +18,6 @@ see_page: 113
 
 ## Biography
 
-See Page 113.
+Hibbert is included in the Bradford City section See Page 113.
 
 ## Collector notes

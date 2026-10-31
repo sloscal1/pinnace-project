@@ -32,6 +32,7 @@ see_page:
 ## Honours
 
 - Darlington : North-Eastern League winners: 1920/21; runners-up: 1919/20.
+- Football League Third Division North winners: 1924/25; runners-up: 1921/22
 
 ## Biography
 
@@ -42,7 +43,5 @@ Winship played more regularly in 1912/13 appearing 14 times before being sold to
 He had scored 7 goals in 56 appearances for The Gunners by the time the onset of the First World War, during which he served in the Army, forced the suspension of peacetime football, and after the resumption of football Winship joined Darlington. He played in their 2-0 defeat of First Division club Sheffield Wednesday in the FA Cup, in front of 52,388 spectators at Hillsborough in January 1920. In 1920 the club finished runners up in the North Eastern League and won the Durham Senior Cup. In 1921 Darlington won the North Eastern League, and won election to the newly formed Third Division (North) of the Football League. Winship played in their inaugural League match against Halifax Town in August 1921 and with barely a minute gone, "Wee" Tommy Winship scurried down the left and crossed for Bill Hooper to score their first goal in a 2-0 triumph, playing 38 matches during the campaign as they finished runners up in the division at the season end, narrowly missing out on promotion.
 
 Three seasons later he played 39 matches for The Quakers during their Third Division (North) Championship winning season, but only 8 matches in their single Second Division campaign, his last appearance for Darlington coming in a defeat at Nottingham Forest in January 1926, having scored 18 goals in 162 appearances for Darlington during their League seasons. Winship then joined Crewe Alexandra in the 1926 close season, scoring once in 23 appearances before returning to North East non league football, first with Wallsend in 1927. He played for Trimdon Grange and Cockfield in 1928, Spen Black & White in 1929 and Marley Hill UCG in 1930 before retirement, by now already 40 years old.
-
-Football League Third Division North winners: 1924/25; runners-up: 1921/22
 
 ## Collector notes

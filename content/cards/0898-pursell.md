@@ -30,6 +30,7 @@ see_page:
 ## Honours
 
 - Rangers : Scottish Football League: 1917–18, 1918–19. Port Vale : Staffordshire Senior Cup: 1920,
+- North Staffordshire Infirmary Cup: 1920, 1922
 
 ## Biography
 
@@ -40,7 +41,5 @@ A regular for five seasons, he helped Rangers to the Scottish League title in 19
 He spent five years with the Vale making 167 appearances for The Valiants, before joining Wigan Borough in July 1924 for a two year spell during which he made a further 36 appearances. He later became player-manager at non-league side Congleton Town in 1926 and then manager at Dutch outfit Dordrecht.
 
 He was the younger brother of Bob Pursell (see page 683) of Queen's Park, Liverpool and Port Vale, and the father of Robert Wilson Pursell (1919-2005), who also played for Port Vale.
-
-North Staffordshire Infirmary Cup: 1920, 1922
 
 ## Collector notes

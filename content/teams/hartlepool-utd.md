@@ -6,6 +6,4 @@ images: hartlepool-utd-p414-0.jpg
 colours:
 ---
 
-United
-
 There is no official Pinnace Collection team group of Hartlepools Utd. The above is scan of a team group from 1925-26 season

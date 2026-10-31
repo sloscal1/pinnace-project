@@ -8,9 +8,9 @@ surname: Cheetham
 name_note: 
 team: hull-city
 position: Right Back
-height: 
+height: 5'10"
 born: 3rd December 1896 Thatto Heath, St Helens, Lancashire, England
-died: 1967 5' 10"
+died: 1967
 image: card-0617-cheetham-2.jpg
 source_page: 430
 see_page: 

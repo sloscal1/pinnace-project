@@ -40,8 +40,6 @@ Evans eventually left Ninian Park in 1926 to join up with former Cardiff teammat
 
 His shirt and runners-up medal from the 1925 FA Cup Final, as well as his first cap for Wales, are now displayed in the boardroom of Cardiff City after being bought at auction by one of the club's directors, Steve Borley.
 
-183
-
 Re print mistake
 
 ## Collector notes

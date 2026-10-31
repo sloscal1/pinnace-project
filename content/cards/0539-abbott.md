@@ -30,13 +30,12 @@ see_page:
 ## Honours
 
 - Portsmouth : Southern League First Division: 1919–20
+- Chesterfield : Derbyshire Senior Cup: 1924–25, Chesterfield Hospital Senior Cup: 1924–25, 1925–26, 1926–27 Wilson Hospital Senior Cup: 1925–26
 
 ## Biography
 
 Shirley Wray Abbott was an English professional footballer who captained Chesterfield and Portsmouth in the Football League. A wing half, he also played League football for Queens Park Rangers and Derby County and after his retirement served Chesterfield as first team trainer between 1928 and 1939.
 
 Abbott served in the Middlesex and London Regiments during the First World War and ended the war as a sergeant in the Royal Sussex Regiment. During the Second World War, Abbott worked as a dockworker in Portsmouth, where he died of cancer in 1947.
-
-Chesterfield : Derbyshire Senior Cup: 1924–25, Chesterfield Hospital Senior Cup: 1924–25, 1925–26, 1926–27 Wilson Hospital Senior Cup: 1925–26
 
 ## Collector notes

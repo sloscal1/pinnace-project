@@ -7,8 +7,8 @@ nickname: Alf
 surname: Widdowson
 name_note: 
 team: notts-county
-position: Inside Forward 5'' 7
-height: 
+position: Inside Forward
+height: 5'7"
 born: 16th September 1900, Keyworth, Nottinghamshire, England
 died: January 1970, Nottingham, Nottinghamshire, England
 image: card-1725-widdowson.jpg

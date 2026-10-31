@@ -28,7 +28,7 @@ see_page:
 
 ## Honours
 
-- 
+- Port Vale : North Staffordshire Infirmary Cup: 1915.
 
 ## Biography
 
@@ -51,7 +51,5 @@ Staffordshire Senior Cup: 1920.
 England : British Home Championship: 1902–03 (shared)
 
 As a manager :
-
-Port Vale : North Staffordshire Infirmary Cup: 1915.
 
 ## Collector notes

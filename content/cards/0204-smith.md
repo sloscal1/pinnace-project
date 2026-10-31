@@ -32,6 +32,7 @@ see_page:
 ## Honours
 
 - Kilmarnock: Scottish Cup winners: 1920. Cowdenbeath: Scottish League Division Two runners-up: 1921–22. Bolton Wanderers:
+- FA Cup winners: 1923 and 1926.
 
 ## Biography
 
@@ -48,7 +49,5 @@ Smith won another winners' medal in 1926 in a 1–0 victory over Manchester City
 In 1939 he was appointed assistant trainer at Cardiff City, who were managed by another ex-Wanderer, Bill Jennings.
 
 Smith died at Whitchurch, Cardiff in September 1946.
-
-FA Cup winners: 1923 and 1926.
 
 ## Collector notes
