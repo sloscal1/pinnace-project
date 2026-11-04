@@ -1,9 +1,9 @@
 ---
 uid: 1636
 number: 649
-name: Stanley Charlton
+name: Stanley 'Stan' Charlton
 full_name: Stanley Charlton
-nickname: 
+nickname: Stan
 surname: Charlton
 name_note: 
 team: rochdale

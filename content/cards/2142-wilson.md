@@ -3,7 +3,7 @@ uid: 422
 number: 2142
 name: Ernest 'Ernie' 'Tug' Wilson
 full_name: Ernest Wilson
-nickname: Ernie
+nickname: Ernie or Tug
 surname: Wilson
 name_note: 
 team: brighton-hove

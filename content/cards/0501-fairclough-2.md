@@ -1,9 +1,9 @@
 ---
 uid: 1787
 number: 501
-name: Albert Fairclough
+name: Albert 'Bert' Fairclough
 full_name: Albert Fairclough
-nickname: 
+nickname: Bert
 surname: Fairclough
 name_note: 
 team: southend-united

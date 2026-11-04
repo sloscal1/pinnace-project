@@ -15,12 +15,25 @@
   function ids(s) { return Object.keys(s).filter(function (k) { return s[k]; }).sort(); }
   function same(a, b) { return ids(a).join() === ids(b).join(); }
 
-  var state = read(KEY, {});
+  // A ticked card that was later folded into another card stays ticked (see content/merged-cards.csv).
+  function migrate(s) {
+    var merged = window.MERGED_UIDS || {};
+    Object.keys(merged).forEach(function (old) {
+      if (s[old]) { s[merged[old]] = true; delete s[old]; }
+    });
+    return s;
+  }
+
+  var state = migrate(read(KEY, {}));
   var viewing = null; // a shared list being viewed read-only: { state, label }
 
   // ---------------------------------------------------------------- history
 
-  function history() { return read(HISTORY_KEY, []); }
+  function history() {
+    var h = read(HISTORY_KEY, []);
+    h.forEach(function (e) { migrate(e.state); });
+    return h;
+  }
 
   function snapshot(reason) {
     var h = history();
@@ -70,6 +83,9 @@
     var bytes = unb64url(m[1]), s = {};
     window.CARDS.forEach(function (c) {
       if ((bytes[c.uid >> 3] || 0) & (1 << (c.uid & 7))) s[c.uid] = true;
+    });
+    Object.keys(window.MERGED_UIDS || {}).forEach(function (old) {
+      if ((bytes[old >> 3] || 0) & (1 << (old & 7))) s[window.MERGED_UIDS[old]] = true;
     });
     return s;
   }
@@ -323,7 +339,7 @@
       var f = ev.target.files[0];
       if (!f) return;
       f.text().then(function (t) {
-        try { replaceState(JSON.parse(t) || {}, "Before loading a backup"); renderHistory(); renderChecklist(); }
+        try { replaceState(migrate(JSON.parse(t) || {}), "Before loading a backup"); renderHistory(); renderChecklist(); }
         catch (e) { console.error(e); }
       });
     });

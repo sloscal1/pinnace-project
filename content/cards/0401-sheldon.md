@@ -1,7 +1,7 @@
 ---
 uid: 1101
 number: 401
-name: John'Jackie' Sheldon
+name: John 'Jackie' Sheldon
 full_name: John Sheldon
 nickname: Jackie
 surname: Sheldon

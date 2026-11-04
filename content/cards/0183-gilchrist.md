@@ -1,8 +1,8 @@
 ---
 uid: 652
 number: 183
-name: John Gilchrist
-full_name: John Gilchrist
+name: John Wotherspoon Gilchrist
+full_name: John Wotherspoon Gilchrist
 nickname: 
 surname: Gilchrist
 name_note: 

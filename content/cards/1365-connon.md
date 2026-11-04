@@ -1,9 +1,9 @@
 ---
 uid: 106
 number: 1365
-name: John Lewis "Jacky" Connon
-full_name: John Lewis "Jacky" Connon
-nickname: 
+name: John Lewis 'Jacky' Connon
+full_name: John Lewis Connon
+nickname: Jacky
 surname: Connon
 name_note: 
 team: aberdeen

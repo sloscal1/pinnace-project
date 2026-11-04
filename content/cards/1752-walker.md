@@ -2,7 +2,7 @@
 uid: 938
 number: 1752
 name: John 'Darkie'* Walker
-full_name: John * Walker
+full_name: John Walker
 nickname: Darkie
 surname: Walker
 name_note: known as 'Darkie' due to his extremely dark hair

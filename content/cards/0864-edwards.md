@@ -2,8 +2,8 @@
 uid: 1285
 number: 864
 name: William Frank 'Billy' or 'Fluffy' Edwards
-full_name: William Frank or Edwards
-nickname: Billy
+full_name: William Frank Edwards
+nickname: Billy or Fluffy
 surname: Edwards
 name_note: 
 team: newport-county

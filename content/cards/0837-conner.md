@@ -24,12 +24,14 @@ see_page:
 | 1912-1914 | Sunderland | 9 | 5 |  |
 | 1914 | Distillery |  |  |  |
 | 1920-1923 | Crystal Pal | 66 | 38 |  |
-| 1922-1925 | Newport Co | 93 | 34 |  |
+| 1922-1925 | Newport Co | 93 | 34 | Second entry: 28 goals |
 | 1924-1925 | Bristol City | 16 | 3 |  |
-| 1926-1926 | Millwall | 2 | 0 |  |
+| 1925-1926 | Millwall | 2 | 0 |  |
 
 ## Biography
 
 Between 1926 and 1928 Conner played for Chatham, Yeovil & Petters Utd x 2 & Southend Utd.
 
 ## Collector notes
+
+The original book covers this card twice. Where its two entries disagree, the career table's notes give the second. The second entry dates the spell with Chatham, Yeovil & Petters Utd and Southend United to 1925-1928.

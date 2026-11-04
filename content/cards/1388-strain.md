@@ -2,8 +2,8 @@
 uid: 2016
 number: 1388
 name: Joseph 'Jock' or 'Joe' Strain
-full_name: Joseph or Strain
-nickname: Jock
+full_name: Joseph Strain
+nickname: Jock or Joe
 surname: Strain
 name_note: 
 team: watford

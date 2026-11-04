@@ -1,9 +1,9 @@
 ---
 uid: 1651
 number: 17
-name: Harry Millership
-full_name: Harry Millership
-nickname: 
+name: Harold 'Harry' Millership
+full_name: Harold Millership
+nickname: Harry
 surname: Millership
 name_note: 
 team: rotherham-county

@@ -1,9 +1,9 @@
 ---
 uid: 633
 number: 643
-name: George Whitworth
-full_name: George Whitworth
-nickname: 
+name: George H. 'Twitty' Whitworth
+full_name: George H. Whitworth
+nickname: Twitty
 surname: Whitworth
 name_note: 
 team: crystal-palace

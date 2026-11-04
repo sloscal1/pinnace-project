@@ -1,9 +1,9 @@
 ---
 uid: 131
 number: 651
-name: James Barclay Dempster
+name: James Barclay 'Jimmy' Dempster
 full_name: James Barclay Dempster
-nickname: 
+nickname: Jimmy
 surname: Dempster
 name_note: 
 team: airdrie

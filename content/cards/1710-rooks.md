@@ -1,9 +1,9 @@
 ---
 uid: 93
 number: 1710
-name: William "Billy" Rooks
-full_name: William "Billy" Rooks
-nickname: 
+name: William 'Billy' Rooks
+full_name: William Rooks
+nickname: Billy
 surname: Rooks
 name_note: 
 team: accrington-stanley

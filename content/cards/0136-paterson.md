@@ -1,9 +1,9 @@
 ---
 uid: 1062
 number: 136
-name: John 'Jock Paterson
-full_name: John 'Jock Paterson
-nickname: 
+name: John 'Jock' Paterson
+full_name: John Paterson
+nickname: Jock
 surname: Paterson
 name_note: 
 team: leicester-city

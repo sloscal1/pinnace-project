@@ -2,8 +2,8 @@
 uid: 1246
 number: 969
 name: Alonzo 'Jerry' or 'Olly' Poulton
-full_name: Alonzo or Poulton
-nickname: Jerry
+full_name: Alonzo Poulton
+nickname: Jerry or Olly
 surname: Poulton
 name_note: 
 team: middlesbrough

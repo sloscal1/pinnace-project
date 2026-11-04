@@ -1,9 +1,9 @@
 ---
 uid: 1213
 number: 287
-name: William Ewart Harrison
+name: William Ewart 'Billy' Harrison
 full_name: William Ewart Harrison
-nickname: 
+nickname: Billy
 surname: Harrison
 name_note: 
 team: manchester-utd

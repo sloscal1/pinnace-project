@@ -1,9 +1,9 @@
 ---
 uid: 203
 number: 163
-name: Robert McDougall
+name: Robert 'Bob' McDougall
 full_name: Robert McDougall
-nickname: 
+nickname: Bob
 surname: McDougall
 name_note: 
 team: ayr-utd

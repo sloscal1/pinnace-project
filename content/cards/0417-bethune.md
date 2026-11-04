@@ -1,9 +1,9 @@
 ---
 uid: 51
 number: 417
-name: John 'Jack Bethune
-full_name: John 'Jack Bethune
-nickname: 
+name: John 'Jack' or 'Jock' Bethune
+full_name: John Bethune
+nickname: Jack or Jock
 surname: Bethune
 name_note: 
 team: bristol-rovers

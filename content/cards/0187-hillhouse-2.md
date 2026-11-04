@@ -1,9 +1,9 @@
 ---
 uid: 1921
 number: 187
-name: William Hillhouse
+name: William 'Willie' Hillhouse
 full_name: William Hillhouse
-nickname: 
+nickname: Willie
 surname: Hillhouse
 name_note: 
 team: third-lanark

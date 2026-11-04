@@ -1,9 +1,9 @@
 ---
 uid: 1857
 number: 1692
-name: Charles 'Charlie Jones
-full_name: Charles 'Charlie Jones
-nickname: 
+name: Charles 'Charlie' Jones
+full_name: Charles Jones
+nickname: Charlie
 surname: Jones
 name_note: 
 team: stockport-county

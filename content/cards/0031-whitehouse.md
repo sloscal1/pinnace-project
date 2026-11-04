@@ -1,9 +1,9 @@
 ---
 uid: 287
 number: 31
-name: John Charles Whitehouse
+name: John Charles 'Jackie' Whitehouse
 full_name: John Charles Whitehouse
-nickname: 
+nickname: Jackie
 surname: Whitehouse
 name_note: 
 team: birmingham

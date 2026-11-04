@@ -1,9 +1,9 @@
 ---
 uid: 1631
 number: 1341
-name: John Reid Smith
+name: John Reid 'Jack' Smith
 full_name: John Reid Smith
-nickname: 
+nickname: Jack
 surname: Smith
 name_note: 
 team: glasgow-rangers

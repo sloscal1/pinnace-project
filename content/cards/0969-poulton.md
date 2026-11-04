@@ -1,9 +1,9 @@
 ---
 uid: 11
 number: 969
-name: Alonzo 'Jerry' Poulton
+name: Alonzo 'Jerry' or 'Olly' Poulton
 full_name: Alonzo Poulton
-nickname: Jerry
+nickname: Jerry or Olly
 surname: Poulton
 name_note: 
 team: bristol-city

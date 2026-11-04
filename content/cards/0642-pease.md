@@ -2,8 +2,8 @@
 uid: 1340
 number: 642
 name: William Harold 'Billy' or 'Willie' Pease
-full_name: William Harold or Pease
-nickname: Billy
+full_name: William Harold Pease
+nickname: Billy or Willie
 surname: Pease
 name_note: 
 team: northampton-town

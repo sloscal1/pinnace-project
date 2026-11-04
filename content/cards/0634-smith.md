@@ -3,7 +3,7 @@ uid: 1059
 number: 634
 name: Thomas Gable 'Tom' 'Tosher' Smith
 full_name: Thomas Gable Smith
-nickname: Tom
+nickname: Tom or Tosher
 surname: Smith
 name_note: 
 team: leicester-city

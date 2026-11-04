@@ -1,9 +1,9 @@
 ---
 uid: 416
 number: 778
-name: James 'Jim Rutherford
-full_name: James 'Jim Rutherford
-nickname: 
+name: James 'Jim' Rutherford
+full_name: James Rutherford
+nickname: Jim
 surname: Rutherford
 name_note: 
 team: brighton-hove

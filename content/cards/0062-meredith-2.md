@@ -1,9 +1,9 @@
 ---
 uid: 1211
 number: 62
-name: William Henry Meredith
+name: William Henry 'Billy' Meredith
 full_name: William Henry Meredith
-nickname: 
+nickname: Billy
 surname: Meredith
 name_note: 
 team: manchester-utd

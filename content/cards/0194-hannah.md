@@ -1,9 +1,9 @@
 ---
 uid: 108
 number: 194
-name: Robert "Bobby" Hannah
-full_name: Robert "Bobby" Hannah
-nickname: 
+name: Robert 'Bobby' Hannah
+full_name: Robert Hannah
+nickname: Bobby
 surname: Hannah
 name_note: 
 team: aberdeen

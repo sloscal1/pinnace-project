@@ -28,6 +28,25 @@ anywhere outside the generated sections.
 - [ ] Unidentified players: the compiler could not trace these and they are notes on the team page. Where the page gives card numbers (p236, p281) they are also name-only cards. p220 Civil Service, p224 Clapton, p236 Corinthians, p281 Dulwich Hamlet, p658 Oxford City, p906 Tufnell Park, p948 West Norwood, p980 Wycombe Wanderers.
 - [ ] Unidentified players have numbered cards: the scans on those team pages show card numbers (on Civil Service, numbers in the 2390s and 2400s) and some names differ from the typed list (scan "A. E. Batchelor", typed "A.E.Butcher"; "F. J. Hayns" / "F.J. Haynes"). Decide whether they should be name-only cards on the checklist, as on p236 and p281. On p220, C.W. Harbridge is now card `0146-harbridge-3`, the Civil Service version of card 146.
 
+## Same player, names disagree
+
+Cards that are clearly one person but spell the name differently. The fuller name has already been copied across wherever the cards agreed; these need someone to choose, so nothing was changed.
+
+- [ ] `0076-cresswell` / `0076-cresswell-2`: Warnsford or Warneford.
+- [ ] `0098-mccrae` / `0098-mccrae-2`: James Clark Fulton or James Fulton Clark.
+- [ ] `0120-graham` / `0120-graham-2`: Joseph/John Gilpin or Joseph Gilpin.
+- [ ] `0172-armstrong` / `0172-armstrong-2` / `0172-armstrong-3`: Williams or William.
+- [ ] `0245-gould` / `0245-gould-2`: William Ross or William Rose.
+- [ ] `0266-quinn` / `0266-quinn-2`: "Wiliam John Joseph" or John Joseph.
+- [ ] `0382-wilson` / `0382-wilson-2`: Nisbet or Nesbit.
+- [ ] `0534-robson` / `0534-robson-2`: Edward 'Ned' or Ernest 'Ed'.
+- [ ] `0565-jennings` / `0565-jennings-2`: 'Billy' or 'Bill'.
+- [ ] `0639-kasher` / `0653-kasher`: Joseph William Robinson or John William.
+- [ ] `0759-palmer` / `0759-palmer-2`: 'Billy' or 'Bill'.
+- [ ] `0826-hawes` / `0826-hawes-2`: Albert Robert or Arthur Robert.
+- [ ] `0892-paton` / `0892-paton-2`: Henry or Harold D.
+- [ ] `0905-o-brien` / `0905-o-brien-2`: Terrance or Terence.
+
 ## Card numbers given to different players (generated)
 
 <!-- generated: conflicts -->

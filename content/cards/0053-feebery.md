@@ -1,9 +1,9 @@
 ---
 uid: 813
 number: 53
-name: John Henry 'Jack Feebery
-full_name: John Henry 'Jack Feebery
-nickname: 
+name: John Henry 'Jack' Feebery
+full_name: John Henry Feebery
+nickname: Jack
 surname: Feebery
 name_note: 
 team: exeter-city

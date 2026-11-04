@@ -2,8 +2,8 @@
 uid: 1900
 number: 2290
 name: William George 'Billy' or 'Willy' Harper
-full_name: William George or Harper
-nickname: Billy
+full_name: William George Harper
+nickname: Billy or Willy
 surname: Harper
 name_note: 
 team: sunderland

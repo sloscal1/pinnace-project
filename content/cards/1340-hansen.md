@@ -2,8 +2,8 @@
 uid: 1632
 number: 1340
 name: Carl Vilhelm 'Skoma'r' Hansen
-full_name: Carl Vilhelm r' Hansen
-nickname: Skoma
+full_name: Carl Vilhelm Hansen
+nickname: Skoma'r
 surname: Hansen
 name_note: 
 team: glasgow-rangers

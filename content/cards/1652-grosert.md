@@ -1,9 +1,9 @@
 ---
 uid: 110
 number: 1652
-name: Alexander Ramsay "Sandy" Grosert
-full_name: Alexander Ramsay "Sandy" Grosert
-nickname: 
+name: Alexander Ramsay 'Sandy' Grosert
+full_name: Alexander Ramsay Grosert
+nickname: Sandy
 surname: Grosert
 name_note: 
 team: aberdeen

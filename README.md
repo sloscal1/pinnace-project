@@ -141,6 +141,13 @@ until the real reference is filled in.
 Each card's `uid` is permanent. Visitors' checklists and share links are keyed by it, so never
 change or reuse one. A new card gets the next unused number.
 
+If one physical card has been entered twice (same number, team and scan), copy anything worth keeping
+into one file, delete the other, and add a line to `content/merged-cards.csv` with the deleted card's
+id, uid and `source_page`, and the id of the card it joined. Ticks on the old uid move across and its
+old address redirects. Two versions of a card that really differ (another club or photograph) stay
+as separate files. Write a nickname as `William Thomas 'Tom' Smith`; `tools/check.py` catches
+unclosed quotes and repeated entries.
+
 ## Look and feel
 
 `content/site.md` holds the site-wide settings:

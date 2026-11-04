@@ -1,8 +1,8 @@
 ---
 uid: 1677
 number: 425
-name: John A Harwood
-full_name: John A Harwood
+name: John A. Harwood
+full_name: John A. Harwood
 nickname: 
 surname: Harwood
 name_note: 

@@ -1,9 +1,9 @@
 ---
 uid: 1841
 number: 103
-name: Wilfred Woodcock
+name: Wilfred 'Wilf' Woodcock
 full_name: Wilfred Woodcock
-nickname: 
+nickname: Wilf
 surname: Woodcock
 name_note: 
 team: stockport-county

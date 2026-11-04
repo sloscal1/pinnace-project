@@ -1,9 +1,9 @@
 ---
 uid: 947
 number: 542
-name: Thomas Sidney Langford
+name: Thomas Sidney 'Tommy' Langford
 full_name: Thomas Sidney Langford
-nickname: 
+nickname: Tommy
 surname: Langford
 name_note: 
 team: halifax-town

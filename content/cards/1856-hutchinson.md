@@ -1,9 +1,9 @@
 ---
 uid: 1306
 number: 1856
-name: Robert 'Bobby Hutchinson
-full_name: Robert 'Bobby Hutchinson
-nickname: 
+name: Robert 'Bobby' Hutchinson
+full_name: Robert Hutchinson
+nickname: Bobby
 surname: Hutchinson
 name_note: 
 team: nelson

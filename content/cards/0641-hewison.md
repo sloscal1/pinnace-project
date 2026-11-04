@@ -1,9 +1,9 @@
 ---
 uid: 1334
 number: 641
-name: Robert 'Bob Hewison
-full_name: Robert 'Bob Hewison
-nickname: 
+name: Robert 'Bob' Hewison
+full_name: Robert Hewison
+nickname: Bob
 surname: Hewison
 name_note: 
 team: northampton-town

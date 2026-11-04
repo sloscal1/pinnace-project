@@ -15,6 +15,7 @@ Layout:
 Front matter is a block of `key: value` lines between `---` fences. Values are plain text;
 `uid`, `number` and `order` are integers, and `images` / `pages` are comma-separated lists.
 """
+import csv
 import re
 from pathlib import Path
 
@@ -190,6 +191,23 @@ def career_problems(row):
     return out
 
 
+def name_problems(card):
+    """Mistakes in how a card's name and nickname are written, e.g. `John 'Jock Smith`."""
+    name, surname = card.get("name") or "", card.get("surname") or ""
+    problems = []
+    if '"' in name:
+        problems.append("name has double quotes; write nicknames as 'Tom'")
+    # An apostrophe between letters is part of a word (O'Brien, Skoma'r); any other marks a nickname.
+    if len(re.findall(r"(?<![A-Za-z])'|'(?![A-Za-z])", name)) % 2:
+        problems.append("name has a nickname quote that is not closed")
+    if re.search(r"[a-z]'[A-Z]|'or\b", name):
+        problems.append("name needs a space beside a nickname quote")
+    full = card.get("full_name") or ""
+    if "'" in name and ("'" in full.replace(surname, "") or re.search(r"\s(or|&)\s+" + re.escape(surname) + "$", full)):
+        problems.append("full_name still has a nickname in it")
+    return problems
+
+
 def load_card(path):
     meta, body = split_front_matter(path.read_text())
     s = sections(body)
@@ -227,6 +245,16 @@ def load_all():
     cards = [load_card(p) for p in sorted((CONTENT / "cards").glob("*.md"))]
     key = lambda s: (s.get("order") or 0, s["id"])
     return sorted(teams, key=key), sorted(features, key=key), cards
+
+
+def load_merged():
+    """Rows of content/merged-cards.csv: card entries folded into another card (old_id, old_uid, card,
+    source_page). Their old uids keep saved checklists working and their old addresses still resolve."""
+    path = CONTENT / "merged-cards.csv"
+    if not path.exists():
+        return []
+    with path.open(newline="") as f:
+        return [{**r, "old_uid": int(r["old_uid"])} for r in csv.DictReader(f)]
 
 
 # ---------------------------------------------------------------- team names

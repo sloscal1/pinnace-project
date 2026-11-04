@@ -1,9 +1,9 @@
 ---
 uid: 372
 number: 1685
-name: Alexander 'Alex'or Alec Kirkland
-full_name: Alexander or Alec Kirkland
-nickname: Alex
+name: Alexander 'Alex' or 'Alec' Kirkland
+full_name: Alexander Kirkland
+nickname: Alex or Alec
 surname: Kirkland
 name_note: 
 team: bradford-pa

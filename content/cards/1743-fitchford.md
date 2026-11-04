@@ -1,9 +1,9 @@
 ---
 uid: 1484
 number: 1743
-name: William Henry Fitchford
+name: William Henry 'Billy' Fitchford
 full_name: William Henry Fitchford
-nickname: 
+nickname: Billy
 surname: Fitchford
 name_note: 
 team: port-vale

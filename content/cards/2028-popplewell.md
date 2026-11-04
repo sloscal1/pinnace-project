@@ -1,9 +1,9 @@
 ---
 uid: 97
 number: 2028
-name: Stanley "Stan" Popplewell
-full_name: Stanley "Stan" Popplewell
-nickname: 
+name: Stanley 'Stan' Popplewell
+full_name: Stanley Popplewell
+nickname: Stan
 surname: Popplewell
 name_note: 
 team: accrington-stanley

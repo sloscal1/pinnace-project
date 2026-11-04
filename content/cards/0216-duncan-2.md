@@ -1,9 +1,9 @@
 ---
 uid: 1577
 number: 216
-name: John 'Tokey' Duncan
+name: John 'Johnny' 'Tokey' Duncan
 full_name: John Duncan
-nickname: Tokey
+nickname: Johnny or Tokey
 surname: Duncan
 name_note: 
 team: raith-rovers

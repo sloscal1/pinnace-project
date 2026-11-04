@@ -1,9 +1,9 @@
 ---
 uid: 391
 number: 417
-name: John 'Jack'Jock' Bethune
-full_name: John Jock' Bethune
-nickname: Jack
+name: John 'Jack' or 'Jock' Bethune
+full_name: John Bethune
+nickname: Jack or Jock
 surname: Bethune
 name_note: 
 team: brentford

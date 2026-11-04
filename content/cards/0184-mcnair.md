@@ -3,7 +3,7 @@ uid: 658
 number: 184
 name: Alexander 'Alec' 'Alex' 'Eck' McNair
 full_name: Alexander McNair
-nickname: Alec
+nickname: Alec or Alex or Eck
 surname: McNair
 name_note: 
 team: glasgow-celtic

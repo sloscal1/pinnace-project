@@ -2,8 +2,8 @@
 uid: 139
 number: 1449
 name: Francis 'Frank' or 'Snally' Doyle
-full_name: Francis or Doyle
-nickname: Frank
+full_name: Francis Doyle
+nickname: Frank or Snally
 surname: Doyle
 name_note: 
 team: airdrie

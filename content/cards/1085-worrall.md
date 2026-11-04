@@ -1,7 +1,7 @@
 ---
 uid: 843
 number: 1085
-name: John Edwin'Ted' Worrall
+name: John Edwin 'Ted' Worrall
 full_name: John Edwin Worrall
 nickname: Ted
 surname: Worrall

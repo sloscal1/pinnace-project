@@ -1,8 +1,8 @@
 ---
 uid: 437
 number: 400
-name: James 'Jimmy' Trotter
-full_name: James Trotter
+name: James William 'Jimmy' Trotter
+full_name: James William Trotter
 nickname: Jimmy
 surname: Trotter
 name_note: 

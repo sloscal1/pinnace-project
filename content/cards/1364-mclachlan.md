@@ -1,9 +1,9 @@
 ---
 uid: 107
 number: 1364
-name: Albert James "Bert" McLachlan
-full_name: Albert James "Bert" McLachlan
-nickname: 
+name: Albert James 'Bert' McLachlan
+full_name: Albert James McLachlan
+nickname: Bert
 surname: McLachlan
 name_note: 
 team: aberdeen

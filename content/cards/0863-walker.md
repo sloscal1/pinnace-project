@@ -1,9 +1,9 @@
 ---
 uid: 92
 number: 863
-name: Andrew McQueen "Andy" Walker
-full_name: Andrew McQueen "Andy" Walker
-nickname: 
+name: Andrew McQueen 'Andy' Walker
+full_name: Andrew McQueen Walker
+nickname: Andy
 surname: Walker
 name_note: 
 team: accrington-stanley

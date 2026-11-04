@@ -1,9 +1,9 @@
 ---
 uid: 79
 number: 439
-name: Clement "Clem" Stephenson
-full_name: Clement "Clem" Stephenson
-nickname: 
+name: Clement 'Clem' Stephenson
+full_name: Clement Stephenson
+nickname: Clem
 surname: Stephenson
 name_note: 
 team: aston-villa

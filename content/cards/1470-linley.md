@@ -2,8 +2,8 @@
 uid: 281
 number: 1470
 name: Edward 'Ted' or 'Raz' Linley
-full_name: Edward or Linley
-nickname: Ted
+full_name: Edward Linley
+nickname: Ted or Raz
 surname: Linley
 name_note: 
 team: birmingham

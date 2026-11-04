@@ -1,9 +1,9 @@
 ---
 uid: 75
 number: 676
-name: William John "Billy" Kirton
-full_name: William John "Billy" Kirton
-nickname: 
+name: William John 'Billy' Kirton
+full_name: William John Kirton
+nickname: Billy
 surname: Kirton
 name_note: 
 team: aston-villa

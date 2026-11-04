@@ -2,8 +2,8 @@
 uid: 1539
 number: 1271
 name: James Israel 'Jimmy' or 'Jack' Newton
-full_name: James Israel or Newton
-nickname: Jimmy
+full_name: James Israel Newton
+nickname: Jimmy or Jack
 surname: Newton
 name_note: 
 team: queens-park

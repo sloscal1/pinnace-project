@@ -1,9 +1,9 @@
 ---
 uid: 361
 number: 622
-name: William Thomas Brandon
+name: William Thomas 'Tom' Brandon
 full_name: William Thomas Brandon
-nickname: 
+nickname: Tom
 surname: Brandon
 name_note: 
 team: bradford-pa
