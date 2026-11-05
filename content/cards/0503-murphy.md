@@ -2,8 +2,8 @@
 uid: 1205
 number: 503
 name: William 'Billy' or 'Spud' Murphy
-full_name: William or Murphy
-nickname: Billy
+full_name: William Murphy
+nickname: Billy or Spud
 surname: Murphy
 name_note: 
 team: manchester-city

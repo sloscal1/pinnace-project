@@ -1,9 +1,9 @@
 ---
 uid: 94
 number: 724
-name: Sidney "Sid" Harrold
-full_name: Sidney "Sid" Harrold
-nickname: 
+name: Sidney 'Sid' Harrold
+full_name: Sidney Harrold
+nickname: Sid
 surname: Harrold
 name_note: 
 team: accrington-stanley

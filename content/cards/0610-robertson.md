@@ -2,8 +2,8 @@
 uid: 853
 number: 610
 name: James Walter 'Jim' or 'Jock' Robertson
-full_name: James Walter or Robertson
-nickname: Jim
+full_name: James Walter Robertson
+nickname: Jim or Jock
 surname: Robertson
 name_note: 
 team: gillingham

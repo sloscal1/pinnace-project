@@ -1,9 +1,9 @@
 ---
 uid: 1358
 number: 814
-name: Sidney William 'Sam'or'Billy' Austin
-full_name: Sidney William or Austin
-nickname: Sam
+name: Sidney William 'Sam' or 'Billy' Austin
+full_name: Sidney William Austin
+nickname: Sam or Billy
 surname: Austin
 name_note: 
 team: norwich-city

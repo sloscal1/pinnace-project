@@ -2,8 +2,8 @@
 uid: 2007
 number: 801
 name: Wilfred 'Wilf' or 'Bill' Carter
-full_name: Wilfred or Carter
-nickname: Wilf
+full_name: Wilfred Carter
+nickname: Wilf or Bill
 surname: Carter
 name_note: 
 team: watford

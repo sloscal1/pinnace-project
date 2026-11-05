@@ -1,9 +1,9 @@
 ---
 uid: 1695
 number: 278
-name: Duncan Campbell Walker
+name: Duncan Campbell 'Dunky' Walker
 full_name: Duncan Campbell Walker
-nickname: 
+nickname: Dunky
 surname: Walker
 name_note: 
 team: st-mirren

@@ -2,8 +2,8 @@
 uid: 1191
 number: 104
 name: Frederick L. 'Fred' or 'Tiny' Fayers
-full_name: Frederick L. or Fayers
-nickname: Fred
+full_name: Frederick L. Fayers
+nickname: Fred or Tiny
 surname: Fayers
 name_note: 
 team: manchester-city

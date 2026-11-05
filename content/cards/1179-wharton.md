@@ -9,7 +9,7 @@ name_note:
 team: barrow
 position: Goalkeeper
 height: 5'11½"
-born: 28th July 1884, Askham in Furness, Cumberland, England
+born: 28th July 1904, Askham in Furness, Cumberland, England
 died: July 1961
 image: card-1179-wharton.jpg
 source_page: 71
@@ -22,9 +22,9 @@ see_page:
 |---|---|---|---|---|
 |  | Askham |  |  |  |
 | 1923-1925 | Barrow | 44 | 0 |  |
-| 1923-1931 | Sheffield Utd | 70 | 0 |  |
 | 1925-1927 | Preston N.E | 13 | 0 |  |
 | 1927-1928 | Barrow | 27 | 0 |  |
+| 1928-1931 | Sheffield Utd | 70 | 0 | One entry: 1923-1931 |
 | 1931-1935 | Norwich City | 101 | 0 |  |
 | 1935-1936 | Doncaster Rov | 5 | 0 |  |
 | 1936-1939 | York City | 117 | 0 |  |
@@ -37,3 +37,5 @@ A fairly active career in Football saw Wharton transferred to Sheffield United i
 He was also a member of the Norwich City team won the Third Division (South) in 1933/34 season.
 
 ## Collector notes
+
+The original book covers this card twice. One entry gives the birth year as 1884; 1904 fits his career.

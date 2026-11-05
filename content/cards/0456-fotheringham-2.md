@@ -1,9 +1,9 @@
 ---
 uid: 753
 number: 456
-name: Willie Fotheringham
-full_name: Willie Fotheringham
-nickname: 
+name: William Cowan 'Willie' Fotheringham
+full_name: William Cowan Fotheringham
+nickname: Willie
 surname: Fotheringham
 name_note: 
 team: dundee

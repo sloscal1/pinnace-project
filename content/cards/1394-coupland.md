@@ -3,7 +3,7 @@ uid: 887
 number: 1394
 name: Clifford 'Cliff' 'Baggy' Coupland
 full_name: Clifford Coupland
-nickname: Cliff
+nickname: Cliff or Baggy
 surname: Coupland
 name_note: 
 team: grimsby-town

@@ -1,9 +1,9 @@
 ---
 uid: 603
 number: 504
-name: Albert Alexander R. 'Bert Millard
-full_name: Albert Alexander R. 'Bert Millard
-nickname: 
+name: Albert Alexander R. 'Bert' Millard
+full_name: Albert Alexander R. Millard
+nickname: Bert
 surname: Millard
 name_note: 
 team: coventry-city

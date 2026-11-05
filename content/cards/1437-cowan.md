@@ -2,8 +2,8 @@
 uid: 767
 number: 1437
 name: William Duncan 'Willie' or 'Billy' Cowan
-full_name: William Duncan or Cowan
-nickname: Willie
+full_name: William Duncan Cowan
+nickname: Willie or Billy
 surname: Cowan
 name_note: 
 team: dundee

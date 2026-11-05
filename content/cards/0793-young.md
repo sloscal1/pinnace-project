@@ -1,9 +1,9 @@
 ---
 uid: 87
 number: 793
-name: Andrew Young
+name: Andrew 'Andy' Young
 full_name: Andrew Young
-nickname: 
+nickname: Andy
 surname: Young
 name_note: 
 team: aston-villa

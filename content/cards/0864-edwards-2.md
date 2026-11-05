@@ -1,9 +1,9 @@
 ---
 uid: 2051
 number: 864
-name: William Frank 'Billy' Edwards
+name: William Frank 'Billy' or 'Fluffy' Edwards
 full_name: William Frank Edwards
-nickname: Billy
+nickname: Billy or Fluffy
 surname: Edwards
 name_note: 
 team: west-ham-united

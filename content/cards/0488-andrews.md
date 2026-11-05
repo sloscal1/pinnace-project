@@ -1,9 +1,9 @@
 ---
 uid: 1598
 number: 488
-name: Leonard Thomas Alford Andrews
+name: Leonard Thomas Alford 'Len' Andrews
 full_name: Leonard Thomas Alford Andrews
-nickname: 
+nickname: Len
 surname: Andrews
 name_note: 
 team: reading

@@ -2,8 +2,8 @@
 uid: 977
 number: 7
 name: Alexander 'Alex' or 'Sandy' Mutch
-full_name: Alexander or Mutch
-nickname: Alex
+full_name: Alexander Mutch
+nickname: Alex or Sandy
 surname: Mutch
 name_note: 
 team: huddersfield-town

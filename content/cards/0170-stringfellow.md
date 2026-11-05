@@ -1,9 +1,9 @@
 ---
 uid: 918
 number: 170
-name: Frank Stringfellow
-full_name: Frank Stringfellow
-nickname: 
+name: John Francis 'Frank' Stringfellow
+full_name: John Francis Stringfellow
+nickname: Frank
 surname: Stringfellow
 name_note: 
 team: hearts

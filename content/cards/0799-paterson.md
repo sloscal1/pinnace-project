@@ -2,8 +2,8 @@
 uid: 691
 number: 799
 name: William 'Willie' & 'Bill' Paterson
-full_name: William & Paterson
-nickname: Willie
+full_name: William Paterson
+nickname: Willie or Bill
 surname: Paterson
 name_note: 
 team: derby-co

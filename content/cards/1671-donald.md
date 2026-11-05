@@ -1,9 +1,9 @@
 ---
 uid: 904
 number: 1671
-name: David Morgan Donald
+name: David Morgan 'Davie' Donald
 full_name: David Morgan Donald
-nickname: 
+nickname: Davie
 surname: Donald
 name_note: 
 team: hamilton-acc

@@ -1,9 +1,9 @@
 ---
 uid: 749
 number: 191
-name: Alexander 'Alex'or 'Alec' Troup
-full_name: Alexander or Troup
-nickname: Alex
+name: Alexander 'Alex' or 'Alec' Troup
+full_name: Alexander Troup
+nickname: Alex or Alec
 surname: Troup
 name_note: 
 team: dundee

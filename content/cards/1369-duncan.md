@@ -3,7 +3,7 @@ uid: 1076
 number: 1369
 name: John 'Johnny' 'Tokey' Duncan
 full_name: John Duncan
-nickname: Johnny
+nickname: Johnny or Tokey
 surname: Duncan
 name_note: 
 team: leicester-city

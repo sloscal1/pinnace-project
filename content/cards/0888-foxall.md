@@ -1,9 +1,9 @@
 ---
 uid: 277
 number: 888
-name: Frederick Howard Foxall
+name: Frederick Howard 'Fred' Foxall
 full_name: Frederick Howard Foxall
-nickname: 
+nickname: Fred
 surname: Foxall
 name_note: 
 team: birmingham

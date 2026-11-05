@@ -1,9 +1,9 @@
 ---
 uid: 996
 number: 150
-name: David William Mercer
+name: David William 'Dave' Mercer
 full_name: David William Mercer
-nickname: 
+nickname: Dave
 surname: Mercer
 name_note: 
 team: hull-city

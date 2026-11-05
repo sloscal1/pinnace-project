@@ -2,8 +2,8 @@
 uid: 1824
 number: 2009
 name: Thomas 'Tommy' or 'Toby' Green
-full_name: Thomas or Green
-nickname: Tommy
+full_name: Thomas Green
+nickname: Tommy or Toby
 surname: Green
 name_note: 
 team: southport

@@ -1,9 +1,9 @@
 ---
 uid: 1741
 number: 743
-name: John McGregor McIntyre
+name: John McGregor 'Johnny' McIntyre
 full_name: John McGregor McIntyre
-nickname: 
+nickname: Johnny
 surname: McIntyre
 name_note: 
 team: sheffield-wednesday

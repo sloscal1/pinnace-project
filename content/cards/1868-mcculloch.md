@@ -1,9 +1,9 @@
 ---
 uid: 1311
 number: 1868
-name: Michael Joseph Mike or Mike McCulloch
-full_name: Michael Joseph Mike or Mike McCulloch
-nickname: 
+name: Michael Joseph 'Mike' McCulloch
+full_name: Michael Joseph McCulloch
+nickname: Mike
 surname: McCulloch
 name_note: 
 team: nelson

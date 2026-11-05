@@ -2,8 +2,8 @@
 uid: 1394
 number: 93
 name: John 'Jack' or 'Jackie' Belton
-full_name: John or Belton
-nickname: Jack
+full_name: John Belton
+nickname: Jack or Jackie
 surname: Belton
 name_note: 
 team: nottingham-forest

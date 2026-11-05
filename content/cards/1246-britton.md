@@ -9,8 +9,8 @@ name_note:
 team: albion-rovers
 position: Goalkeeper
 height: 6'0"
-born: 18t March 1900 Lennoxtown Scotland
-died: 8th October 1953 Lennoxtown Scotland
+born: 18th March 1900, Lennoxtown, Stirlingshire, Scotland
+died: 8th October 1953, Lennoxtown, Stirlingshire, Scotland
 image: card-1246-britton.jpg
 source_page: 30
 see_page: 
@@ -20,11 +20,16 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
-| 1920-1924 | Albion Rovers | 90 | 0 |  |
-| 1924-1926 | Dundee | 68 | 0 |  |
-| 1926-1928 | Tottenham Hotspur | 40 | 0 |  |
-| 1928-1931 | Glasgow Celtic | 0 |  |  |
+|  | Duntocher Hibernian (Dumbartonshire) |  |  |  |
+| 1920-1924 | Albion Rovers | 90 | 0 | Second entry: 55 apps |
+| 1924-1926 | Dundee | 68 | 0 | Second entry: 1924-1925 |
+| 1926-1928 | Tottenham Hotspur | 40 | 0 | Second entry: 1925-1930 |
+| 1928-1931 | Glasgow Celtic | 0 | 0 | Second entry: 1930-1932 |
 | 1931-1932 | Kirkintilloch Rob Roy |  |  |  |
+
+## Honours
+
+- Dundee : Runner up Scottish Cup Final 1925.
 
 ## Biography
 
@@ -33,3 +38,5 @@ Born in Lennoxtown, Stirlingshire, Britton had spells with Duntocher Hibs, Albio
 Released by Tottenham following their relegation in 1927–28 he returned to Scotland and ended his senior career at Celtic, though again he was firmly a backup member of the squad behind John Thomson and John Kelly and never made a first team appearance for the Glasgow club. Finally he went back to the junior level with Kirkintilloch Rob Roy
 
 ## Collector notes
+
+The original book covers this card twice. Where its two entries disagree, this page follows the first and the career table's notes give the second. The second entry gives the birthplace as Campsie, Stirlingshire.

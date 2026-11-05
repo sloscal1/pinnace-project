@@ -1,8 +1,8 @@
 ---
 uid: 2120
 number: 1902
-name: George Getgood
-full_name: George Getgood
+name: George Goodman Getgood
+full_name: George Goodman Getgood
 nickname: 
 surname: Getgood
 name_note: aka Goodman

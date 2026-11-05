@@ -1,9 +1,9 @@
 ---
 uid: 1654
 number: 20
-name: James Hart Branston
+name: James Hart 'Jimmy' Branston
 full_name: James Hart Branston
-nickname: 
+nickname: Jimmy
 surname: Branston
 name_note: 
 team: rotherham-county

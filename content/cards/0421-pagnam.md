@@ -1,9 +1,9 @@
 ---
 uid: 219
 number: 421
-name: Frederick Pagnam
+name: Frederick 'Fred' Pagnam
 full_name: Frederick Pagnam
-nickname: 
+nickname: Fred
 surname: Pagnam
 name_note: 
 team: arsenal

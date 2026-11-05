@@ -3,7 +3,7 @@ uid: 198
 number: 1330
 name: Henry 'Harry' 'Peerie' Cunningham
 full_name: Henry Cunningham
-nickname: Harry
+nickname: Harry or Peerie
 surname: Cunningham
 name_note: 
 team: ayr-utd

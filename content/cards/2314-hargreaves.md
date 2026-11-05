@@ -1,9 +1,9 @@
 ---
 uid: 2122
 number: 2314
-name: Harold 'Harry'or 'Pey' Hargreaves
-full_name: Harold or Hargreaves
-nickname: Harry
+name: Harold 'Harry' or 'Pey' Hargreaves
+full_name: Harold Hargreaves
+nickname: Harry or Pey
 surname: Hargreaves
 name_note: 
 team: wolverhampton-wanderers

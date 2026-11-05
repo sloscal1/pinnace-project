@@ -2,8 +2,8 @@
 uid: 679
 number: 1207
 name: Thomas 'Tom', 'Tommy' or 'Wee' Winship
-full_name: Thomas , or Winship
-nickname: Tom
+full_name: Thomas Winship
+nickname: Tom or Tommy or Wee
 surname: Winship
 name_note: 
 team: darlington

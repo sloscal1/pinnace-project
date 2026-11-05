@@ -197,9 +197,15 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
     flags = []
     variants = [o for o in others_same_number if same_player(c, o)]
     others = [o for o in others_same_number if o not in variants]
-    if variants:
-        links = ", ".join(f'<a href="{o["id"]}.html">{esc(sections_by_id[o["team"]]["title"])}</a>' for o in variants)
+    photos = [o for o in variants if o["team"] == c["team"]]
+    clubs = [o for o in variants if o["team"] != c["team"]]
+    if clubs:
+        links = ", ".join(f'<a href="{o["id"]}.html">{esc(sections_by_id[o["team"]]["title"])}</a>' for o in clubs)
         flags.append(f"Card {c['number']} was also issued with a different club on the front: {links}. "
+                     "Each version is listed separately in the checklist.")
+    if photos:
+        links = ", ".join(f'<a href="{o["id"]}.html">the other version</a>' for o in photos)
+        flags.append(f"Card {c['number']} was also issued with a different photograph: {links}. "
                      "Each version is listed separately in the checklist.")
     if others:
         links = ", ".join(f'<a href="{o["id"]}.html">{esc(o["name"])}</a>' for o in others)
@@ -396,6 +402,9 @@ class SourcePages:
         self.cards = {}
         for c in cards:
             self.cards.setdefault(str(c["source_page"]), []).append(c)
+        by_id = {c["id"]: c for c in cards}
+        for m in content.load_merged():
+            self.cards.setdefault(m["source_page"], []).append(by_id[m["card"]])
 
     def target(self, page, number=None, before=""):
         """(path from the site root, label) for something on `page`, or None."""
@@ -549,6 +558,9 @@ def maintainers_page(teams, features, cards):
     on_page = {}
     for c in cards:
         on_page.setdefault(str(c["source_page"]), []).append(c)
+    by_id = {c["id"]: c for c in cards}
+    for m in content.load_merged():
+        on_page.setdefault(m["source_page"], []).append(by_id[m["card"]])
     rows = []
     for pg in sorted(set(files) | set(feature) | set(team) | set(on_page), key=content_page_key):
         what = []
@@ -684,6 +696,22 @@ def players_page(cards, sections_by_id):
     return page("Players", body, active="players")
 
 
+def redirect_page(target):
+    """Keeps the address of a card that was folded into another one working."""
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={target}">
+<link rel="canonical" href="{target}">
+<title>Moved</title>
+</head>
+<body><p><a href="{target}">This card has moved.</a></p></body>
+</html>
+"""
+
+
 def checklist_page(cards, sections_by_id):
     data = [{"id": c["id"], "uid": c["uid"], "n": c["number"], "name": c["name"], "sur": c.get("surname") or "",
              "first": c.get("full_name") or "", "team": sections_by_id[c["team"]]["title"],
@@ -736,7 +764,10 @@ def search_index(teams, features, cards, sections_by_id):
         extra = " ".join(x for x in (c.get("full_name"), c.get("nickname"), str(c["number"])) if x)
         rows.append(["Player", c["name"], f"#{c['number']} · {sections_by_id[c['team']]['title']}",
                      f"players/{c['id']}.html", extra])
-    return "window.SEARCH = " + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n"
+    uid = {c["id"]: c["uid"] for c in cards}
+    merged = {str(m["old_uid"]): uid[m["card"]] for m in content.load_merged()}
+    return ("window.SEARCH = " + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n"
+            "window.MERGED_UIDS = " + json.dumps(merged, separators=(",", ":")) + ";\n")
 
 
 def main():
@@ -794,6 +825,8 @@ def main():
             team_page(s, by_team.get(s["id"], []), transfers_in, sections_by_id,
                       [f for f in features if f.get("team") == s["id"]],
                       [f for f in features if s["id"] in f["related"]]))
+    for m in content.load_merged():
+        (SITE / "players" / f"{m['old_id']}.html").write_text(redirect_page(f"{m['card']}.html"))
     for c in cards:
         dupes = [o for o in by_number[c["number"]] if o is not c]
         (SITE / "players" / f"{c['id']}.html").write_text(

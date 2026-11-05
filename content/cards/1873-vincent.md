@@ -1,9 +1,9 @@
 ---
 uid: 717
 number: 1873
-name: Alexander 'Alex'or 'Alec' Vincent
-full_name: Alexander or Vincent
-nickname: Alex
+name: Alexander 'Alex' or 'Alec' Vincent
+full_name: Alexander Vincent
+nickname: Alex or Alec
 surname: Vincent
 name_note: 
 team: durham

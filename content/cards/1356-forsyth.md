@@ -1,9 +1,9 @@
 ---
 uid: 111
 number: 1356
-name: John Matthew "Matt" Forsyth
-full_name: John Matthew "Matt" Forsyth
-nickname: 
+name: John Matthew 'Matt' Forsyth
+full_name: John Matthew Forsyth
+nickname: Matt
 surname: Forsyth
 name_note: 
 team: aberdeen

@@ -1,9 +1,9 @@
 ---
 uid: 36
 number: 758
-name: Joseph Dorville Walter
+name: Joseph Dorville 'Joe' Walter
 full_name: Joseph Dorville Walter
-nickname: 
+nickname: Joe
 surname: Walter
 name_note: 
 team: bristol-rovers

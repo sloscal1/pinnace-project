@@ -1,9 +1,9 @@
 ---
 uid: 1000
 number: 617
-name: Samuel Cheetham
+name: Samuel 'Sam' Cheetham
 full_name: Samuel Cheetham
-nickname: 
+nickname: Sam
 surname: Cheetham
 name_note: 
 team: hull-city

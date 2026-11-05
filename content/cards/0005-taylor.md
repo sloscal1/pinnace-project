@@ -1,8 +1,8 @@
 ---
 uid: 975
 number: 5
-name: Samuel 'Sam'James T Taylor
-full_name: Samuel James T Taylor
+name: Samuel James 'Sam' Taylor
+full_name: Samuel James Taylor
 nickname: Sam
 surname: Taylor
 name_note: No record of what T stands for

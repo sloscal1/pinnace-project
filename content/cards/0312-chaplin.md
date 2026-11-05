@@ -2,8 +2,8 @@
 uid: 834
 number: 312
 name: Alexander Balfour 'Alec' or 'Alex' Chaplin
-full_name: Alexander Balfour or Chaplin
-nickname: Alec
+full_name: Alexander Balfour Chaplin
+nickname: Alec or Alex
 surname: Chaplin
 name_note: 
 team: fulham

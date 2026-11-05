@@ -1,9 +1,9 @@
 ---
 uid: 1178
 number: 458
-name: Thomas McGregor
+name: Thomas 'Tom' McGregor
 full_name: Thomas McGregor
-nickname: 
+nickname: Tom
 surname: McGregor
 name_note: 
 team: motherwell

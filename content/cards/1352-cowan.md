@@ -20,9 +20,16 @@ see_page:
 
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
+|  | Cambuslang Rangers |  |  |  |
 | 1916-1924 | Clyde | 265 | 3 |  |
 | 1924-1925 | Dunfermline Ath | 35 | 0 |  |
-| 1925-1931 | New Bedford Whalers, New York Nationals, Fall River Marksmen |  |  | Pawtucket Rangers, New Bedford Whalers.* |
+| 1925-1927 | New Bedford Whalers | 76 | 0 | * |
+| 1927-1928 | Fall River Marksmen | 4 |  |  |
+| 1927-1928 | Hartford Americans | 9 | 0 |  |
+| 1927-1928 | New York Nationals | 3 | 0 |  |
+| 1928-1929 | J & P Coates | 5 |  |  |
+| 1929-1930 | New Bedford Whalers | 8 |  |  |
+|  | Pawtucket Rangers |  |  | Some time in 1925-1931 |
 
 ## Biography
 
@@ -33,3 +40,5 @@ Henry Cowan was a Scottish footballer who played for Clyde and Dunfermline Athle
 His son of the same name was born in Scotland but grew up in New Bedford and became an American citizen in order to serve in the US Air Force during World War II; he was killed in action in 1944.
 
 ## Collector notes
+
+The original book covers this card twice. Its second entry gives the birthplace as Cambuslang, Scotland.

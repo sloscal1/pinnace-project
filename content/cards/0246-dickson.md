@@ -1,9 +1,9 @@
 ---
 uid: 896
 number: 246
-name: James Dickson
+name: James 'Jimmy' Dickson
 full_name: James Dickson
-nickname: 
+nickname: Jimmy
 surname: Dickson
 name_note: 
 team: hamilton-acc

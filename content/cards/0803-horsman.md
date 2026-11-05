@@ -2,8 +2,8 @@
 uid: 2009
 number: 803
 name: Frederick 'Fred' or 'Ginger' Horsman
-full_name: Frederick or Horsman
-nickname: Fred
+full_name: Frederick Horsman
+nickname: Fred or Ginger
 surname: Horsman
 name_note: 
 team: watford

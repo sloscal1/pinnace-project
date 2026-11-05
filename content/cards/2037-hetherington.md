@@ -2,8 +2,8 @@
 uid: 1761
 number: 2037
 name: Joseph 'Joe' or 'Jos' Hetherington
-full_name: Joseph or Hetherington
-nickname: Joe
+full_name: Joseph Hetherington
+nickname: Joe or Jos
 surname: Hetherington
 name_note: 
 team: south-shields

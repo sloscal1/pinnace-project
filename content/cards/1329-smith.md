@@ -7,10 +7,10 @@ nickname: Jock
 surname: Smith
 name_note: 
 team: ayr-utd
-position: Full back
+position: Full Back
 height: 
 born: 7th December 1898, Dalbeattie, Scotland
-died: 
+died: 16th April 1973, Belfast, Ireland
 image: card-1329-smith.jpg
 source_page: 46
 see_page: 
@@ -21,11 +21,15 @@ see_page:
 | Years | Club | Apps | Goals | Note |
 |---|---|---|---|---|
 | 1913 | Beith |  |  |  |
-| 1914 | Neilson Victoria |  |  |  |
-| 1919-1926 | Ayr Utd |  |  |  |
+| 1914-1915 | Neilston Victoria |  |  |  |
+| 1919-1926 | Ayr Utd | 242 | 17 |  |
 | 1926-1930 | Middlesbrough | 123 | 0 |  |
 | 1930-1932 | Cardiff City | 65 | 0 |  |
-| 1932 | Distillery (Ireland) |  |  |  |
+| 1932-1935 | Distillery (Ireland) |  |  |  |
+
+## Representative
+
+- 1924 Scotland 1 appearance v England.
 
 ## Biography
 
@@ -34,3 +38,5 @@ Scottish born, John "Jock" Smith began his football career with junior clubs Bei
 In the 1926 close season he joined Second Division club Middlesbrough, making his Football League debut at South Shields that September, helping Borough to win the Second Division Championship in 1926/27. He missed only one match in the First Division in 1927-28, and despite their relegation he again helped 'Boro to win the Second Division Championship in 1928-29. However he lost his place back in the top flight and played only 9 further matches before joining Second Division club Cardiff City in the 1930 close season after 123 appearances for Middlesbrough. Although Cardiff were relegated in his first season at Ninian Park, he stayed a further season with The Bluebirds, making 65 appearances, before joining Irish League club Distillery in 1932, his final club before his retirement.
 
 ## Collector notes
+
+The original book covers this card twice. Its second entry gives the birth as 7th December 1998 [sic], Drumbuie Farm, Beith, Scotland, and adds that it could be 17th August 1893, Dalbeattie.

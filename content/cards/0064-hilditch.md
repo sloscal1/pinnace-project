@@ -2,8 +2,8 @@
 uid: 1212
 number: 64
 name: Clarence George 'Lal' or 'Clarrie' Hilditch
-full_name: Clarence George or Hilditch
-nickname: Lal
+full_name: Clarence George Hilditch
+nickname: Lal or Clarrie
 surname: Hilditch
 name_note: 
 team: manchester-utd

@@ -1,9 +1,9 @@
 ---
 uid: 1075
 number: 905
-name: Michael Terrance O'Brien
+name: Michael Terrance 'Mick' O'Brien
 full_name: Michael Terrance O'Brien
-nickname: 
+nickname: Mick
 surname: O'Brien
 name_note: 
 team: leicester-city

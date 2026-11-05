@@ -1,8 +1,8 @@
 ---
 uid: 870
 number: 14
-name: Harry Storer
-full_name: Harry Storer
+name: Harry Storer Jnr
+full_name: Harry Storer Jnr
 nickname: 
 surname: Storer
 name_note: 

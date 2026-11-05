@@ -1,9 +1,9 @@
 ---
 uid: 196
 number: 160
-name: James Richardson
+name: James 'Jimmy' Richardson
 full_name: James Richardson
-nickname: 
+nickname: Jimmy
 surname: Richardson
 name_note: 
 team: ayr-utd

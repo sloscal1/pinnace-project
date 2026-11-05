@@ -2,8 +2,8 @@
 uid: 2002
 number: 52
 name: Reginald George 'Reg' or 'Skilly' Williams
-full_name: Reginald George or Williams
-nickname: Reg
+full_name: Reginald George Williams
+nickname: Reg or Skilly
 surname: Williams
 name_note: 
 team: watford
