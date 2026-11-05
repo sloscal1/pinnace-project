@@ -1,0 +1,17 @@
+/* Giscus comments in the site's colours: keep in step with the palette in style.css. */
+@import url("https://giscus.app/themes/dark.css");
+
+main {
+  color-scheme: dark;
+  --color-canvas-default: #24221e; --color-canvas-overlay: #24221e;
+  --color-canvas-inset: #1b1a17; --color-canvas-subtle: #1b1a17;
+  --color-fg-default: #ece6da; --color-fg-muted: #a39b8d; --color-fg-subtle: #a39b8d;
+  --color-border-default: #3a362f; --color-border-muted: #3a362f;
+  --color-accent-fg: #8fc9ab; --color-accent-emphasis: #8fc9ab;
+  --color-btn-text: #ece6da; --color-btn-bg: #1b1a17; --color-btn-border: #3a362f; --color-btn-hover-bg: #24221e;
+  --color-btn-primary-text: #f6f1e7; --color-btn-primary-bg: #2c6b51; --color-btn-primary-border: #3a362f;
+  --color-btn-primary-hover-bg: #367f61; --color-btn-primary-disabled-text: #f6f1e7; --color-btn-primary-disabled-bg: #2c6b51;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+.gsc-comment-box-textarea::placeholder { color: #a39b8d; }
+.markdown, .gsc-comment-box-textarea { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif; font-size: 16px; }

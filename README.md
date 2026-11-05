@@ -181,6 +181,21 @@ The site shows no page numbers, since the book was never published. The content 
 for the file names. References in the text such as "(see page 136)" are shown on the site as links
 to the player, feature or team that page holds, and dropped if the page is not on the site.
 
+## Comments
+
+Player, team and feature pages have a Discussion section at the bottom, run by
+[giscus](https://giscus.app). Comments are stored in the repository's
+[Discussions](https://github.com/sloscal1/pinnace-project/discussions), under Announcements, with
+one thread per page named after its address (e.g. `players/0622-brandon`). A thread appears when
+someone first comments. Readers need a free GitHub account.
+
+The comments take their colours and fonts from `web/giscus-*.css`, one file per palette and light or
+dark mode. If you change the colours in `web/style.css`, change them there too.
+
+To moderate, open the thread in Discussions, where you can edit, hide or delete comments, or lock
+the thread. Renaming a card file starts a new thread for that card, and the old one stays in
+Discussions. To take comments off the site, clear `giscus_repo` in `content/site.md`.
+
 ## Publishing
 
 The site is published with GitHub Pages. Every change saved to `main` rebuilds and redeploys it

@@ -349,3 +349,9 @@ footer.site { padding-bottom: 5rem; }
   .style-picker { font-size: 0; padding: .3rem; flex: none; }  /* just the menu: "Style" text hidden */
   .style-picker select { font-size: 13px; }
 }
+
+/* Comments under player, team and feature pages */
+.discussion { margin-top: 2.5rem; font-family: var(--sans); }
+.discussion button { font: 15px var(--sans); padding: .35rem .6rem; border: 1px solid var(--rule); border-radius: 4px;
+  background: var(--card); color: var(--ink); cursor: pointer; }
+.discussion .giscus { margin-top: 1rem; }
