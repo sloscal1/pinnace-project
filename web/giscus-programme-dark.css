@@ -1,0 +1,20 @@
+/* Giscus comments in the site's colours: keep in step with the palette in style.css. */
+@import url("https://giscus.app/themes/dark.css");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap");
+
+main {
+  color-scheme: dark;
+  --color-canvas-default: #26221b; --color-canvas-overlay: #26221b;
+  --color-canvas-inset: #1c1914; --color-canvas-subtle: #1c1914;
+  --color-fg-default: #eadfc6; --color-fg-muted: #a89c84; --color-fg-subtle: #a89c84;
+  --color-border-default: #4a4232; --color-border-muted: #4a4232;
+  --color-accent-fg: #e08a7a; --color-accent-emphasis: #e08a7a;
+  --color-btn-text: #eadfc6; --color-btn-bg: #1c1914; --color-btn-border: #4a4232; --color-btn-hover-bg: #26221b;
+  --color-btn-primary-text: #eadfc6; --color-btn-primary-bg: #0f0d0a; --color-btn-primary-border: #4a4232;
+  --color-btn-primary-hover-bg: #2a241a; --color-btn-primary-disabled-text: #eadfc6; --color-btn-primary-disabled-bg: #0f0d0a;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+.gsc-comment-box-textarea::placeholder { color: #a89c84; }
+.markdown, .gsc-comment-box-textarea { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif; font-size: 16px; }
+.gsc-comments-count { font-family: "Oswald", "Arial Narrow", "Helvetica Neue", sans-serif; text-transform: uppercase; letter-spacing: .1em; }
+.rounded-md, .gsc-comment-box, .gsc-comment, .gsc-comment-box-tabs, .btn { border-radius: 0 !important; }

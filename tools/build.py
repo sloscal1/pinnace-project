@@ -95,6 +95,27 @@ def pager(key, up):
             f'{btn(nxt, "next", "Next ›")}</nav>')
 
 
+def discussion(key, up):
+    """The comments block for a page, or "" when comments are switched off in content/site.md.
+
+    Nothing loads from giscus until the reader asks for it (see web/app.js). A thread is found by the
+    page's address without ".html", and only an exact match counts: otherwise 0622-brandon could
+    pick up the comments of 0622-brandon-2."""
+    if not (key and SETTINGS.get("giscus_repo")):
+        return ""
+    attrs = {"repo": SETTINGS["giscus_repo"], "repo-id": SETTINGS["giscus_repo_id"],
+             "category": SETTINGS["giscus_category"], "category-id": SETTINGS["giscus_category_id"],
+             "term": re.sub(r"\.html$", "", key), "up": up, "version": VERSION}
+    data = " ".join(f'data-{k}="{esc(v)}"' for k, v in attrs.items())
+    return f"""<section class="discussion no-print" id="discussion" {data}>
+  <h2>Discussion</h2>
+  <p>Know more about this, or spotted a mistake? Share your research here. Comments are public and need a free GitHub account.</p>
+  <button type="button" id="discussion-open">Show discussion</button>
+  <div class="giscus"></div>
+</section>
+"""
+
+
 def page(title, body, depth=0, active="", club=None, robots="", key=None):
     up = "../" * depth
     nav = [("index.html", "Teams", "teams"), ("features.html", "Features", "features"),
@@ -123,7 +144,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 </header>
 <main>
 {body}
-</main>
+{discussion(key, up)}</main>
 <footer class="site"><a href="{up}copyright.html">© Copyright and sources</a> ·
 Your checklist is saved in this browser only.</footer>
 <div class="floating no-print">{pager(key, up) if key else ""}{style_picker()}</div>

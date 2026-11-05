@@ -205,6 +205,48 @@
     renderChecklist();
   }
 
+  // ---------------------------------------------------------------- discussion (giscus)
+
+  // Giscus is only contacted once the reader opens the discussion. It also opens by itself when
+  // GitHub sends someone back after signing in (?giscus=...), or the sign-in would seem to do nothing.
+  (function () {
+    var box = $("discussion"), btn = $("discussion-open");
+    if (!box || !btn) return;
+    var root = document.documentElement, dark = matchMedia("(prefers-color-scheme: dark)");
+    // The stylesheet for the site's current style and light or dark mode, as a full address.
+    function theme() {
+      var mode = (root.dataset.theme ? root.dataset.theme === "dark" : dark.matches) ? "dark" : "light";
+      // Giscus runs on https and can't load a stylesheet from a local preview: without this the
+      // comments would show white text on the paper background. Previews get its plain theme.
+      if (location.protocol !== "https:") return mode;
+      var palette = /programme/.test(root.dataset.style || "") ? "programme-" : "";
+      return new URL(box.dataset.up + "giscus-" + palette + mode + ".css?v=" + box.dataset.version, location.href).href;
+    }
+    function open() {
+      btn.hidden = true;
+      var s = document.createElement("script"), d = box.dataset;
+      s.src = "https://giscus.app/client.js";
+      s.crossOrigin = "anonymous";
+      s.async = true;
+      var opts = { repo: d.repo, repoId: d.repoId, category: d.category, categoryId: d.categoryId,
+                   mapping: "specific", term: d.term, strict: "1", reactionsEnabled: "0", emitMetadata: "0",
+                   inputPosition: "top", theme: theme(), lang: "en" };
+      Object.keys(opts).forEach(function (k) { s.dataset[k] = opts[k]; });
+      box.appendChild(s);
+    }
+    function sendTheme() {
+      var f = box.querySelector("iframe.giscus-frame");
+      if (f) f.contentWindow.postMessage({ giscus: { setConfig: { theme: theme() } } }, "https://giscus.app");
+    }
+    btn.addEventListener("click", open);
+    var toggle = $("theme-toggle");
+    if (toggle) toggle.addEventListener("click", function () { setTimeout(sendTheme); });
+    var picker = $("style-picker");
+    if (picker) picker.addEventListener("change", function () { setTimeout(sendTheme); });
+    if (dark.addEventListener) dark.addEventListener("change", sendTheme);
+    if (/[?&]giscus=/.test(location.search)) open();
+  })();
+
   // ---------------------------------------------------------------- light / dark
 
   // With no saved choice the page follows the system setting; the button saves an explicit one.
