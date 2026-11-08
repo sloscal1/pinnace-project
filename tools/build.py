@@ -29,11 +29,15 @@ SETTINGS = {"style": "classic", "style_picker": "yes", "theme": "system"}
 VERSION = ""
 
 
+# Dark and light sepia, for teams whose `colours:` line is blank.
+DEFAULT_COLOURS = ["#5b4632", "#d8c49f"]
+
+
 def club_style(sec):
-    """CSS variables for a team's colours, or "" when its `colours:` line is blank."""
-    cols = (sec or {}).get("colours") or []
-    if not cols:
+    """CSS variables for a team's colours (sepia when its `colours:` line is blank), or "" off team pages."""
+    if not sec:
         return ""
+    cols = sec.get("colours") or DEFAULT_COLOURS
     first = cols[0].lstrip("#")
     lum = sum(w * int(first[i:i + 2], 16) for w, i in ((.299, 0), (.587, 2), (.114, 4))) / 255
     return (f' style="--club1:{cols[0]};--club2:{cols[1] if len(cols) > 1 else cols[0]};'

@@ -3,7 +3,7 @@
 Layout:
     content/site.md            site-wide settings (default style, style picker on/off)
     content/teams/<id>.md      team section: front matter + optional notes. `colours` is the club's
-                               shirt colours as "#primary, #secondary" (blank = site colours).
+                               shirt colours as "#primary, #secondary" (blank = sepia).
                                The first of `images` is shown as the team photograph unless
                                `team_photo: no`.
     content/features/<id>.md   feature article: front matter + Markdown body. `team` is the team
