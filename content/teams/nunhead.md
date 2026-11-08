@@ -7,14 +7,19 @@ team_photo: no
 colours:
 ---
 
-H. New                                           G. Carmichael                                  G.A. Hudson                                        W.R. Gordon
-
-E. Hammond                                       I.E. Ross                                         A.T. Wadey                                        S.C. Sanders
-
-A.L. Cox                                               D.Hooton                                     E.J. Gooch                                      W. Johnson
-
-J. Robinson
-
-R.A. Sanders
-
 Sadly and despite all manner of searches, I have been unable to identify the players assembled directly above, with the exception of Charlie Harris, see  page 642 for details of Harris.
+
+- H. New
+- G. Carmichael
+- G.A. Hudson
+- W.R. Gordon
+- E. Hammond
+- I.E. Ross
+- A.T. Wadey
+- S.C. Sanders
+- A.L. Cox
+- D.Hooton
+- E.J. Gooch
+- W. Johnson
+- J. Robinson
+- R.A. Sanders
