@@ -282,11 +282,21 @@ def feature_item(f, up, teams_by_id=None, show_team=False):
             f'<span class="feature-blurb">{esc(blurb(f["body"]))}</span></a></li>')
 
 
+# Shown on the home page for teams without a team photograph (cropped from pinnace_logo.jpg).
+LOGO_THUMB = "pinnace-logo-thumb.jpg"
+
+
+def team_photo(sec):
+    """The team photograph: the first image, unless the section says it has none (`team_photo: no`),
+    e.g. a page of card scans of players the compiler could not trace."""
+    if sec["images"] and sec.get("team_photo", "").lower() != "no":
+        return sec["images"][0]
+    return None
+
+
 def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
     up = "../"
-    # The first image is the team photograph unless the section says it has none (`team_photo: no`),
-    # e.g. a page of card scans of players the compiler could not trace.
-    has_photo = sec["images"] and sec.get("team_photo", "").lower() != "no"
+    has_photo = team_photo(sec) is not None
     hero = (f'<img class="hero" src="{up}img/{sec["images"][0]}" alt="{esc(sec["title"])} team photograph">'
             if has_photo else "")
     gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>'
@@ -326,7 +336,9 @@ def index_page(teams, cards_by_team):
     items = []
     for s in sorted(teams, key=lambda t: t["title"].lower()):
         cs = cards_by_team.get(s["id"], [])
-        thumb = f'<img src="img/{s["images"][0]}" alt="" loading="lazy">' if s["images"] else '<div class="nothumb"></div>'
+        photo = team_photo(s)
+        thumb = (f'<img src="img/{photo}" alt="" loading="lazy">' if photo
+                 else f'<img class="logo" src="img/{LOGO_THUMB}" alt="" loading="lazy">')
         count = (f'<span data-count-have="{" ".join(str(c["uid"]) for c in cs)}">0</span> / {len(cs)} cards'
                  if cs else "Biographies coming soon")
         items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
