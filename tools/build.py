@@ -284,9 +284,13 @@ def feature_item(f, up, teams_by_id=None, show_team=False):
 
 def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
     up = "../"
+    # The first image is the team photograph unless the section says it has none (`team_photo: no`),
+    # e.g. a page of card scans of players the compiler could not trace.
+    has_photo = sec["images"] and sec.get("team_photo", "").lower() != "no"
     hero = (f'<img class="hero" src="{up}img/{sec["images"][0]}" alt="{esc(sec["title"])} team photograph">'
-            if sec["images"] else "")
-    gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>' for im in sec["images"][1:])
+            if has_photo else "")
+    gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>'
+                      for im in sec["images"][1 if has_photo else 0:])
     notes = render_md(sec["body"])
     extra = f'<section class="feature">{gallery}<div>{notes}</div></section>' if gallery or notes else ""
     feats = ""
@@ -842,6 +846,11 @@ def main():
     for s in teams:
         transfers_in = [c for c in cards if c["team"] != s["id"] and any(
             resolve(p, aliases) == s["id"] for e in c["career"] for p in club_parts(e["club"]))]
+        # A player with versions of one card in several sections (e.g. 172 Armstrong for Norwich and
+        # Portsmouth) is shown once; his page lists the other versions.
+        seen = set()
+        transfers_in = [c for c in transfers_in
+                        if (c["number"], c["surname"]) not in seen and not seen.add((c["number"], c["surname"]))]
         (SITE / "teams" / f"{s['id']}.html").write_text(
             team_page(s, by_team.get(s["id"], []), transfers_in, sections_by_id,
                       [f for f in features if f.get("team") == s["id"]],

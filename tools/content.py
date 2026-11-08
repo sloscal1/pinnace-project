@@ -4,6 +4,8 @@ Layout:
     content/site.md            site-wide settings (default style, style picker on/off)
     content/teams/<id>.md      team section: front matter + optional notes. `colours` is the club's
                                shirt colours as "#primary, #secondary" (blank = site colours).
+                               The first of `images` is shown as the team photograph unless
+                               `team_photo: no`.
     content/features/<id>.md   feature article: front matter + Markdown body. `team` is the team
                                section it belongs with (empty for "About the collection");
                                `related` lists other teams it mentions.
@@ -220,7 +222,7 @@ def load_card(path):
 
 # ---------------------------------------------------------------- teams and features
 
-SECTION_KEYS = ["title", "order", "pages", "images", "colours"]
+SECTION_KEYS = ["title", "order", "pages", "images", "team_photo", "colours"]
 FEATURE_KEYS = ["title", "order", "team", "related", "pages", "images"]
 
 
