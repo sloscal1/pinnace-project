@@ -225,8 +225,8 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
         flags.append(f"Card {c['number']} was also issued with a different club on the front: {links}. "
                      "Each version is listed separately in the checklist.")
     if photos:
-        links = ", ".join(f'<a href="{o["id"]}.html">the other version</a>' for o in photos)
-        flags.append(f"Card {c['number']} was also issued with a different photograph: {links}. "
+        links = ", ".join(f'<a href="{o["id"]}.html">another version</a>' for o in photos)
+        flags.append(f"Card {c['number']} was also issued in {links}. "
                      "Each version is listed separately in the checklist.")
     if others:
         links = ", ".join(f'<a href="{o["id"]}.html">{esc(o["name"])}</a>' for o in others)
