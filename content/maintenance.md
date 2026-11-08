@@ -19,7 +19,7 @@ anywhere outside the generated sections.
 - [ ] p432 `0625-lodge`: listed as Lodge, but the scan reads "J. Barrass" with 625 printed on it.
 - [ ] p236 `2318-green`: listed as "F.N.E. Green", but the scan reads "F. N. S. Creek".
 - [ ] p761 `2057-foweather`: given 2057, the same as `2057-short`; Foweather's scan shows 1763.
-- [ ] p344: Thomas 'Tommy' Talks has a biography but no "Card" heading, so he is not a card yet. His text is at the end of `0941-smith`; his scan is with the Grimsby Town photos.
+- [x] p344: Thomas 'Tommy' Talks has a biography but no "Card" heading, so he is not a card yet. His text is at the end of `0941-smith`; his scan is with the Grimsby Town photos. Done: card `0942-talks`.
 - [ ] p303: Andrew Nesbit Wilson's biography has no "Card" heading either. His scan shows card 382 with Dunfermline on the front, so he is `0382-wilson-2`, a second version of `0382-wilson` (Middlesbrough, p551). Check the two biographies against each other: they differ in places (e.g. his son's details).
 - [ ] p67, p183, p186, p189, p210, p592, p856: one more card scan than cards. The extra scan is with the team's photos; it may be a second version of one of the cards.
 - [ ] p144 (Bristol Rovers): a page about 'Tancy' Lea's 1921 Cup Final shirt and programme, shown as team photos and a note. It could become a feature.
