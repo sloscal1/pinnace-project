@@ -38,3 +38,5 @@ Following retirement became trainer at St James Park until 1930.
 However, there was a John Grey Findlay (1883-1916) also known as 'Jock', playing at Newcastle, making 2 appearances in 1905-1906, who was killed in France during WW1.
 
 ## Collector notes
+
+Card 889 was printed with two spellings, J. FINDLAY and J. FINLAY; the compiler notes that one is spelt incorrectly for the period of the collection. This scan reads J. FINDLAY.

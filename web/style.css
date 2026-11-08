@@ -56,6 +56,7 @@ footer.site { text-align: center; font: 13px var(--sans); color: var(--muted); p
 .teams a { display: block; background: var(--card); border: 1px solid var(--rule); border-radius: 6px;
   overflow: hidden; text-decoration: none; color: var(--ink); }
 .teams img { width: 100%; aspect-ratio: 3/2; object-fit: cover; filter: sepia(.3); }
+.teams img.logo { filter: none; }
 .team-name { display: block; font-size: 1.25rem; padding: .6rem .8rem 0; }
 .team-count { display: block; font: 14px var(--sans); color: var(--muted); padding: 0 .8rem .7rem; }
 
@@ -77,6 +78,8 @@ footer.site { text-align: center; font: 13px var(--sans); color: var(--muted); p
 
 .feature { display: grid; gap: 1rem; margin-top: 2rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
 .feature figure { margin: 0; }
+/* the team's notes run the full width of the card grid, below any photos */
+.feature > div { grid-column: 1 / -1; }
 
 /* player page */
 .player { display: grid; gap: 2rem; grid-template-columns: 220px 1fr; align-items: start; }
@@ -167,7 +170,6 @@ body.is-viewing .mine-only { display: none; }
 .feature-team { display: block; font: 12px var(--sans); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
 .features + .also { margin-top: -.25rem; }
 .teams .pending a { opacity: .6; }
-.nothumb { width: 100%; aspect-ratio: 3/2; background: var(--rule); }
 
 /* header search */
 .site-search { position: relative; flex: 0 1 300px; }

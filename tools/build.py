@@ -29,11 +29,15 @@ SETTINGS = {"style": "classic", "style_picker": "yes", "theme": "system"}
 VERSION = ""
 
 
+# Dark and light sepia, for teams whose `colours:` line is blank.
+DEFAULT_COLOURS = ["#5b4632", "#d8c49f"]
+
+
 def club_style(sec):
-    """CSS variables for a team's colours, or "" when its `colours:` line is blank."""
-    cols = (sec or {}).get("colours") or []
-    if not cols:
+    """CSS variables for a team's colours (sepia when its `colours:` line is blank), or "" off team pages."""
+    if not sec:
         return ""
+    cols = sec.get("colours") or DEFAULT_COLOURS
     first = cols[0].lstrip("#")
     lum = sum(w * int(first[i:i + 2], 16) for w, i in ((.299, 0), (.587, 2), (.114, 4))) / 255
     return (f' style="--club1:{cols[0]};--club2:{cols[1] if len(cols) > 1 else cols[0]};'
@@ -225,8 +229,8 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
         flags.append(f"Card {c['number']} was also issued with a different club on the front: {links}. "
                      "Each version is listed separately in the checklist.")
     if photos:
-        links = ", ".join(f'<a href="{o["id"]}.html">the other version</a>' for o in photos)
-        flags.append(f"Card {c['number']} was also issued with a different photograph: {links}. "
+        links = ", ".join(f'<a href="{o["id"]}.html">another version</a>' for o in photos)
+        flags.append(f"Card {c['number']} was also issued in {links}. "
                      "Each version is listed separately in the checklist.")
     if others:
         links = ", ".join(f'<a href="{o["id"]}.html">{esc(o["name"])}</a>' for o in others)
@@ -282,11 +286,25 @@ def feature_item(f, up, teams_by_id=None, show_team=False):
             f'<span class="feature-blurb">{esc(blurb(f["body"]))}</span></a></li>')
 
 
+# Shown on the home page for teams without a team photograph (cropped from pinnace_logo.jpg).
+LOGO_THUMB = "pinnace-logo-thumb.jpg"
+
+
+def team_photo(sec):
+    """The team photograph: the first image, unless the section says it has none (`team_photo: no`),
+    e.g. a page of card scans of players the compiler could not trace."""
+    if sec["images"] and sec.get("team_photo", "").lower() != "no":
+        return sec["images"][0]
+    return None
+
+
 def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
     up = "../"
+    has_photo = team_photo(sec) is not None
     hero = (f'<img class="hero" src="{up}img/{sec["images"][0]}" alt="{esc(sec["title"])} team photograph">'
-            if sec["images"] else "")
-    gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>' for im in sec["images"][1:])
+            if has_photo else "")
+    gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>'
+                      for im in sec["images"][1 if has_photo else 0:])
     notes = render_md(sec["body"])
     extra = f'<section class="feature">{gallery}<div>{notes}</div></section>' if gallery or notes else ""
     feats = ""
@@ -322,7 +340,9 @@ def index_page(teams, cards_by_team):
     items = []
     for s in sorted(teams, key=lambda t: t["title"].lower()):
         cs = cards_by_team.get(s["id"], [])
-        thumb = f'<img src="img/{s["images"][0]}" alt="" loading="lazy">' if s["images"] else '<div class="nothumb"></div>'
+        photo = team_photo(s)
+        thumb = (f'<img src="img/{photo}" alt="" loading="lazy">' if photo
+                 else f'<img class="logo" src="img/{LOGO_THUMB}" alt="" loading="lazy">')
         count = (f'<span data-count-have="{" ".join(str(c["uid"]) for c in cs)}">0</span> / {len(cs)} cards'
                  if cs else "Biographies coming soon")
         items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
@@ -842,6 +862,11 @@ def main():
     for s in teams:
         transfers_in = [c for c in cards if c["team"] != s["id"] and any(
             resolve(p, aliases) == s["id"] for e in c["career"] for p in club_parts(e["club"]))]
+        # A player with versions of one card in several sections (e.g. 172 Armstrong for Norwich and
+        # Portsmouth) is shown once; his page lists the other versions.
+        seen = set()
+        transfers_in = [c for c in transfers_in
+                        if (c["number"], c["surname"]) not in seen and not seen.add((c["number"], c["surname"]))]
         (SITE / "teams" / f"{s['id']}.html").write_text(
             team_page(s, by_team.get(s["id"], []), transfers_in, sections_by_id,
                       [f for f in features if f.get("team") == s["id"]],
