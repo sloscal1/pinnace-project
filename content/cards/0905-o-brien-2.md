@@ -9,8 +9,8 @@ name_note:
 team: queens-park-rangers
 position: Centre Half
 height: 6'1"
-born: 10th August 1883, Ushaw Moor,Co Durham, England
-died: 21st September 1940, Co Kildare, Ireland
+born: 10th August 1893, Ushaw Moor, Co Durham, England
+died: 21st September, 1940, Uxbridge, London, England
 image: card-0905-o-brien-2.jpg
 source_page: 721
 see_page: 

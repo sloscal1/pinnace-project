@@ -10,6 +10,7 @@ import html
 import json
 import re
 import shutil
+from urllib.parse import urlparse
 from pathlib import Path
 
 import content
@@ -120,7 +121,8 @@ def discussion(key, up):
 """
 
 
-def page(title, body, depth=0, active="", club=None, robots="", key=None):
+def page(title, body, depth=0, active="", club=None, robots="", key=None, base=""):
+    """A full page. `base` sets <base href>, for a page served at addresses other than its own (404.html)."""
     up = "../" * depth
     nav = [("index.html", "Teams", "teams"), ("features.html", "Features", "features"),
            ("players.html", "Players", "players"), ("checklist.html", "My checklist", "checklist")]
@@ -130,9 +132,13 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}
+<meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}{f'<base href="{base}">' if base else ""}
 <title>{esc(title)} · Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
+<link rel="icon" href="{up}favicon.ico" sizes="48x48">
+<link rel="icon" href="{up}favicon.svg?v={VERSION}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{up}apple-touch-icon.png">
+<link rel="manifest" href="{up}site.webmanifest">
 {head_script()}
 </head>
 <body{club_style(club)}>
@@ -237,9 +243,12 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
         flags.append(f"Card number {c['number']} is also given to {links}. "
                      "One of these may be a typo.")
     if c.get("see_page"):
-        t = SOURCES.target(c["see_page"], c["number"], c.get("surname") or "")
-        if t and t[0] != f"players/{c['id']}.html":
-            flags.append(f'The full biography is on <a href="{up}{t[0]}">{esc(t[1])}</a>.')
+        # The full biography is on another card of the same player on that page: the one with this
+        # card's number, or else one whose surname (nearly) matches. Never a feature or team page.
+        here = [o for o in SOURCES.cards.get(str(c["see_page"]), []) if o is not c]
+        bio = [o for o in here if o["number"] == c["number"]] or [o for o in here if same_player(c, o)]
+        if bio:
+            flags.append(f'The full biography is on <a href="{bio[0]["id"]}.html">{esc(bio[0]["name"])}</a>.')
     flag_html = "".join(f'<p class="flag">{f}</p>' for f in flags)
     fn = Notes(c.get("sources"))
     check_sources(f"content/cards/{c['id']}.md", c["bio"] + c["collector_notes"] + c["representative"]
@@ -711,6 +720,20 @@ def render_checklist(md, card_ids, pages):
     return "".join(out)
 
 
+def not_found_page():
+    """404.html: GitHub Pages serves it for any missing address on the site, so its links are made
+    relative to the site root (the path of `site_url` in content/site.md) rather than to itself."""
+    base = urlparse(SETTINGS.get("site_url") or "/").path or "/"
+    body = """<article class="not-found">
+<img src="img/pinnace-artwork.jpg" alt="The Pinnace Collection: The Biographies. A 1920s footballer in leather boots strikes a golden ball.">
+<h1>Offside!</h1>
+<p class="lede">This page isn't on the team sheet. It may have moved, or the address may be mistyped.</p>
+<p>Try the search above, or head back to the <a href="index.html">teams</a>,
+the <a href="players.html">players</a> or the <a href="features.html">features</a>.</p>
+</article>"""
+    return page("Page not found", body, robots="noindex", base=base)
+
+
 def copyright_page():
     """COPYRIGHT.md at the top of the repository, as a page of the site."""
     md = (ROOT / "COPYRIGHT.md").read_text()
@@ -857,6 +880,7 @@ def main():
     (SITE / "checklist.html").write_text(checklist_page(cards, sections_by_id))
     (SITE / "maintainers.html").write_text(maintainers_page(teams, features, cards))
     (SITE / "copyright.html").write_text(copyright_page())
+    (SITE / "404.html").write_text(not_found_page())
     for f in features:
         (SITE / "features" / f"{f['id']}.html").write_text(feature_page(f, sections_by_id))
     for s in teams:

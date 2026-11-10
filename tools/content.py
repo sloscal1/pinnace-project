@@ -24,7 +24,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 
-INT_KEYS = {"uid", "number", "order", "see_page"}
+INT_KEYS = {"uid", "number", "order"}
 LIST_KEYS = {"images", "pages", "related", "colours"}
 
 

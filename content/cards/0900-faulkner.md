@@ -9,7 +9,7 @@ name_note:
 team: queens-park-rangers
 position: Winger
 height: 5'9"
-born: 5th August 1897, Paisley, Scotland
+born: 5th August 1897, Paisley Renfrewshire, Scotland
 died: Toronto, Canada
 image: card-0900-faulkner.jpg
 source_page: 719

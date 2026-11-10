@@ -9,8 +9,8 @@ name_note:
 team: dunfermline
 position: Centre Forward
 height: 5'8½"
-born: 14th February 1896 Newmains, Scotland
-died: 15th October 1973 Putney London, England
+born: 14th February 1896, Newmains, Lanarkshire, Scotland
+died: 15th October 1973, Putney, London, England
 image: card-0382-wilson-2.jpg
 source_page: 303
 see_page: 

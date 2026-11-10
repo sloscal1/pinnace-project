@@ -13,7 +13,7 @@ born: 23rd November 1893, Lauriston, Glasgow, Scotland
 died: 
 image: card-0458-mcgregor-2.jpg
 source_page: 515
-see_page: 41
+see_page: 41a
 ---
 
 ## Biography

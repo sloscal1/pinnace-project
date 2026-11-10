@@ -14,6 +14,9 @@ theme: light
 # style_picker: yes shows a "Style" switcher on every page so visitors can try the options.
 # Set it to no once a style has been chosen.
 style_picker: yes
+# site_url: where the site is published. The 404 page uses it to link back to the site from any
+# missing address.
+site_url: https://sloscal1.github.io/pinnace-project/
 # giscus: comments under each player, team and feature page, stored in GitHub Discussions. Readers
 # need a free GitHub account. Clear giscus_repo to take the comments off the site. The ids come from
 # https://giscus.app (enter the repository there and it shows them).

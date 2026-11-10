@@ -9,8 +9,8 @@ name_note:
 team: birmingham
 position: Wing Half
 height: 5'8½"
-born: 29th November1888 Leasmahagow, Glasgow, Scotland
-died: 17th September 1966 Sible Headington, Essex
+born: 19th April 1889, Lesmahagow, Lanarkshire, Scotland*
+died: 17th September 1966, Sible Hedingham, Essex, England
 image: card-0697-waddell.jpg
 source_page: 73
 see_page: 
@@ -37,3 +37,5 @@ Clubs played what could be considered, in the early 1900's, considerable transfe
 He later took up varying player coaching roles in England with the likes of Aberaman Athletic (Wales), Chorley (Lancashire) & Fraserburgh (Scotland) and assistant trainer with Preston NE and Dick Kerr Ladies* before rounding off his career at Ribble Motors * See separate page for information about this team.
 
 ## Collector notes
+
+*There are variations on Waddell's date of birth could be 29th November 1888

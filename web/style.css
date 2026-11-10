@@ -357,3 +357,8 @@ footer.site { padding-bottom: 5rem; }
 .discussion button { font: 15px var(--sans); padding: .35rem .6rem; border: 1px solid var(--rule); border-radius: 4px;
   background: var(--card); color: var(--ink); cursor: pointer; }
 .discussion .giscus { margin-top: 1rem; }
+
+/* 404 page */
+.not-found { text-align: center; }
+.not-found img { width: 100%; max-width: 900px; margin: 0 auto 1rem; border-radius: 6px; }
+.not-found .lede { font-size: 1.15rem; }

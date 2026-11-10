@@ -9,7 +9,7 @@ name_note:
 team: birmingham
 position: Outside Left
 height: 5'5"
-born: 16th November 1889, Wellington, Shropshire, England
+born: 16th November 1899, Wellington, Shropshire, England
 died: 1970
 image: card-0555-davies.jpg
 source_page: 77

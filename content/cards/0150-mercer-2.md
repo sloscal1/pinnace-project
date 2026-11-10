@@ -9,7 +9,7 @@ name_note:
 team: sheffield-united
 position: Winger/Inside forward (right)
 height: 5'7"
-born: 20th March 1898, St Helens, Lancashire, England
+born: 20th March 1893, St Helens, Lancashire, England
 died: 4th June1950, Newton Abbot, Devon, England
 image: card-0150-mercer-2.jpg
 source_page: 786

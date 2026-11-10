@@ -13,7 +13,7 @@ born: 3rd November 1890 Old Hill, Cradley Heath, England
 died: after 1925
 image: card-0507-morgan-2.jpg
 source_page: 252a
-see_page: 236
+see_page: 238
 ---
 
 ## Biography

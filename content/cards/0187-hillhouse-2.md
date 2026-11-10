@@ -9,7 +9,7 @@ name_note:
 team: third-lanark
 position: Outside Left
 height: 
-born: 18th November 1891, Hurlford, Ayrshire, Scotland
+born: 19th November 1891, Hurlford, Ayrshire, Scotland
 died: 21st August 1968, Kilmarnock, Ayrshire, Scotland
 image: card-0187-hillhouse-2.jpg
 source_page: 883

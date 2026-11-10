@@ -34,6 +34,6 @@ see_page:
 
 During WW1, Stringfellow served as a private in the Machine Gun Corps of the British Army during the First World War. He was wounded in September 1918, just under two months before the Armistice.
 
-PB: A little conflict over this players record but the above is an imalgamation of info from ENFA and Scottish Football Players Records 1890-1939.
+PB: A little conflict over this players record but the above is an algamation of info from ENFA and Scottish Football Players Records 1890-1939.
 
 ## Collector notes

@@ -9,8 +9,8 @@ name_note:
 team: gillingham
 position: Wing Half
 height: 
-born: 15th February 1887 Ravens Craig, Scotland
-died: 1946
+born: 5th February 1887, Ravenscraig, Lanarkshire, Scotland
+died: 8th October 1946
 image: card-0307-mcalpine.jpg
 source_page: 336
 see_page: 

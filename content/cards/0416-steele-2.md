@@ -9,7 +9,7 @@ name_note:
 team: huddersfield-town
 position: Wing Half
 height: 5'8½"
-born: 26th July 1894 Carluke, Lanarkshire, Scotland
+born: 29th July 1894 Carluke, Lanarkshire, Scotland
 died: 23rd May 1964
 image: card-0416-steele-2.jpg
 source_page: 423

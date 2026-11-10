@@ -9,7 +9,7 @@ name_note:
 team: southend-united
 position: Centre Forward
 height: 
-born: 3rd May 1893, Poolsbrook, Stavely, Derbyshire, England
+born: 3rd March 1893, Poolsbrook, Stavely, Derbyshire, England
 died: 9th July 1951
 image: card-0668-goodwin-2.jpg
 source_page: 827
