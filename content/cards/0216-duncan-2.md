@@ -13,7 +13,7 @@ born: 14th February 1896, Fife, Scotland
 died: 14th March 1966. Leicester, Leicestershire, England
 image: card-0216-duncan-2.jpg
 source_page: 726
-see_page: 548
+see_page: 464
 ---
 
 ## Biography

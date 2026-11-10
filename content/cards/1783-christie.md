@@ -13,7 +13,7 @@ born: 27th June 1896, Glasgow, Scotland
 died: 22nd May 1981, Reading, Berkshire, England
 image: card-1783-christie.jpg
 source_page: 822
-see_page: 735
+see_page: 738
 ---
 
 ## Biography

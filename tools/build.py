@@ -243,9 +243,12 @@ def player_page(c, sec, others_same_number, aliases, sections_by_id):
         flags.append(f"Card number {c['number']} is also given to {links}. "
                      "One of these may be a typo.")
     if c.get("see_page"):
-        t = SOURCES.target(c["see_page"], c["number"], c.get("surname") or "")
-        if t and t[0] != f"players/{c['id']}.html":
-            flags.append(f'The full biography is on <a href="{up}{t[0]}">{esc(t[1])}</a>.')
+        # The full biography is on another card of the same player on that page: the one with this
+        # card's number, or else one whose surname (nearly) matches. Never a feature or team page.
+        here = [o for o in SOURCES.cards.get(str(c["see_page"]), []) if o is not c]
+        bio = [o for o in here if o["number"] == c["number"]] or [o for o in here if same_player(c, o)]
+        if bio:
+            flags.append(f'The full biography is on <a href="{bio[0]["id"]}.html">{esc(bio[0]["name"])}</a>.')
     flag_html = "".join(f'<p class="flag">{f}</p>' for f in flags)
     fn = Notes(c.get("sources"))
     check_sources(f"content/cards/{c['id']}.md", c["bio"] + c["collector_notes"] + c["representative"]
