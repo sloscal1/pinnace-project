@@ -133,6 +133,10 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 <meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}
 <title>{esc(title)} · Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
+<link rel="icon" href="{up}favicon.ico" sizes="48x48">
+<link rel="icon" href="{up}favicon.svg?v={VERSION}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{up}apple-touch-icon.png">
+<link rel="manifest" href="{up}site.webmanifest">
 {head_script()}
 </head>
 <body{club_style(club)}>

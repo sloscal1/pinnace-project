@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Site icon: the gold leather ball and speed streaks from the Pinnace Collection artwork. -->
+  <defs>
+    <radialGradient id="ball" cx="0.38" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#f0c766"/>
+      <stop offset="0.55" stop-color="#c8942e"/>
+      <stop offset="1" stop-color="#8a5f17"/>
+    </radialGradient>
+    <clipPath id="tile"><rect width="64" height="64" rx="13"/></clipPath>
+  </defs>
+  <rect width="64" height="64" rx="13" fill="#f6eedb"/>
+  <g clip-path="url(#tile)">
+    <!-- speed streaks, tapering into the ball -->
+    <path d="M-2 14 L34 25 L33 29 L-2 24 Z" fill="#14110d"/>
+    <path d="M-2 28 L32 33 L32 37 L-2 38 Z" fill="#c8942e"/>
+    <path d="M-2 43 L33 41 L34 45 L-2 51 Z" fill="#14110d"/>
+  </g>
+  <!-- the ball: gold leather panels with dark seams -->
+  <circle cx="41" cy="36" r="19" fill="url(#ball)"/>
+  <polygon points="41.00,29.00 47.66,33.84 45.11,41.66 36.89,41.66 34.34,33.84" fill="#14110d"/>
+  <path d="M41.00 29.00 L41.00 23.50 M47.66 33.84 L52.89 32.14 M45.11 41.66 L48.35 46.11 M36.89 41.66 L33.65 46.11 M34.34 33.84 L29.11 32.14 M41.00 23.50 L32.89 19.37 M41.00 23.50 L49.11 19.37 M52.89 32.14 L54.31 23.15 M52.89 32.14 L59.32 38.57 M48.35 46.11 L57.33 44.69 M48.35 46.11 L44.21 54.22 M33.65 46.11 L37.79 54.22 M33.65 46.11 L24.67 44.69 M29.11 32.14 L22.68 38.57 M29.11 32.14 L27.69 23.15" fill="none" stroke="#14110d" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="41" cy="36" r="19" fill="none" stroke="#14110d" stroke-width="3"/>
+</svg>
