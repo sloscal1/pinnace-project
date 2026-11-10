@@ -10,6 +10,7 @@ import html
 import json
 import re
 import shutil
+from urllib.parse import urlparse
 from pathlib import Path
 
 import content
@@ -120,7 +121,8 @@ def discussion(key, up):
 """
 
 
-def page(title, body, depth=0, active="", club=None, robots="", key=None):
+def page(title, body, depth=0, active="", club=None, robots="", key=None, base=""):
+    """A full page. `base` sets <base href>, for a page served at addresses other than its own (404.html)."""
     up = "../" * depth
     nav = [("index.html", "Teams", "teams"), ("features.html", "Features", "features"),
            ("players.html", "Players", "players"), ("checklist.html", "My checklist", "checklist")]
@@ -130,7 +132,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None):
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}
+<meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}{f'<base href="{base}">' if base else ""}
 <title>{esc(title)} · Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
 <link rel="icon" href="{up}favicon.ico" sizes="48x48">
@@ -715,6 +717,20 @@ def render_checklist(md, card_ids, pages):
     return "".join(out)
 
 
+def not_found_page():
+    """404.html: GitHub Pages serves it for any missing address on the site, so its links are made
+    relative to the site root (the path of `site_url` in content/site.md) rather than to itself."""
+    base = urlparse(SETTINGS.get("site_url") or "/").path or "/"
+    body = """<article class="not-found">
+<img src="img/pinnace-artwork.jpg" alt="The Pinnace Collection: The Biographies. A 1920s footballer in leather boots strikes a golden ball.">
+<h1>Offside!</h1>
+<p class="lede">This page isn't on the team sheet. It may have moved, or the address may be mistyped.</p>
+<p>Try the search above, or head back to the <a href="index.html">teams</a>,
+the <a href="players.html">players</a> or the <a href="features.html">features</a>.</p>
+</article>"""
+    return page("Page not found", body, robots="noindex", base=base)
+
+
 def copyright_page():
     """COPYRIGHT.md at the top of the repository, as a page of the site."""
     md = (ROOT / "COPYRIGHT.md").read_text()
@@ -861,6 +877,7 @@ def main():
     (SITE / "checklist.html").write_text(checklist_page(cards, sections_by_id))
     (SITE / "maintainers.html").write_text(maintainers_page(teams, features, cards))
     (SITE / "copyright.html").write_text(copyright_page())
+    (SITE / "404.html").write_text(not_found_page())
     for f in features:
         (SITE / "features" / f"{f['id']}.html").write_text(feature_page(f, sections_by_id))
     for s in teams:
