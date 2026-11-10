@@ -9,7 +9,7 @@ name_note:
 team: oldham-ath
 position: Half Back
 height: 5'9½"
-born: 9th April 1889, Lesmahagow, Lanarkshire, Scotland.*
+born: 19th April 1889, Lesmahagow, Lanarkshire, Scotland*
 died: 17th September 1966, Sible Hedingham, Essex, England
 image: card-0697-waddell-2.jpg
 source_page: 651

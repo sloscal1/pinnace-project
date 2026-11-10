@@ -10,7 +10,7 @@ team: watford
 position: 
 height: 
 born: 26th November 1894 Brecon, Breconshire, Wales
-died: November 1980, Southend, Essex. England
+died: November 1980, Southend, Essex, England
 image: card-0444-hoddinott-2.jpg
 source_page: 921
 see_page: 209

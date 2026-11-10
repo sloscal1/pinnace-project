@@ -9,7 +9,7 @@ name_note:
 team: leicester-city
 position: Centre Half
 height: 
-born: 10th August 1893 Ushaw Moor, Co Durham, England. (Could be Kilcock, Co Kildare, Ireland)
+born: 10th August 1893, Ushaw Moor, Co Durham, England. (Could be Kilcock, Co Kildare, Ireland)
 died: 21st September, 1940, Uxbridge, London, England
 image: card-0905-o-brien.jpg
 source_page: 463

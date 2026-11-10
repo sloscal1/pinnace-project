@@ -9,7 +9,7 @@ name_note:
 team: stockport-county
 position: Inside Forward
 height: 
-born: 3rd April 1889, Sunderland, Co Durham, England
+born: 8th April 1889, Sunderland, Co Durham, England
 died: 9th February 1936
 image: card-0119-metcalf-2.jpg
 source_page: 847

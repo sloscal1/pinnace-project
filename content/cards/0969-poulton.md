@@ -9,8 +9,8 @@ name_note:
 team: bristol-city
 position: Inside Forward
 height: 
-born: 22nd March 1890, Wolverampton, Staffordshire, England
-died: 1966
+born: 28th March 1890, Wolverampton, Staffordshire, England
+died: 1966, Wolverhampton, Staffordshire, England
 image: card-0969-poulton.jpg
 source_page: 137
 see_page: 

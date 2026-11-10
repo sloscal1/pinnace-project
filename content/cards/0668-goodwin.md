@@ -9,7 +9,7 @@ name_note:
 team: manchester-utd
 position: Centre Forward
 height: 
-born: 3rd March1893, Poolsbrook, Staveley, Derbyshire, England
+born: 3rd March 1893, Poolsbrook, Staveley, Derbyshire, England
 died: 9th July 1951
 image: card-0668-goodwin.jpg
 source_page: 541

@@ -9,7 +9,7 @@ name_note:
 team: middlesbrough
 position: Inside Forward
 height: 5'8½"
-born: 15th February 1896, Newmains, Lanarkshire, Scotland
+born: 14th February 1896, Newmains, Lanarkshire, Scotland
 died: 15th October 1973, Putney, London, England
 image: card-0382-wilson.jpg
 source_page: 551

@@ -9,8 +9,8 @@ name_note:
 team: south-shields
 position: Outside Right
 height: 5'9"
-born: 5th May 1897, Paisley Renfrewshire, Scotland
-died: Toronto Canada
+born: 5th August 1897, Paisley Renfrewshire, Scotland
+died: Toronto, Canada
 image: card-0900-faulkner-2.jpg
 source_page: 810
 see_page: 

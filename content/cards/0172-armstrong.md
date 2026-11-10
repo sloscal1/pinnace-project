@@ -9,7 +9,7 @@ name_note:
 team: norwich-city
 position: Inside Forward
 height: 
-born: 19th October 1892, Blaydon, Newcastle upon Tyne, Northumberland, England
+born: 10th October 1892, Blaydon, Newcastle upon Tyne, Northumberland, England
 died: 1966
 image: card-0172-armstrong.jpg
 source_page: 613

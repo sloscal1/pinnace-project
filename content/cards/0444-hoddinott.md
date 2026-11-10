@@ -9,7 +9,7 @@ name_note:
 team: chelsea
 position: Centre/Inside Forward
 height: 5'8"
-born: 29h November 1894 Brecon, Breconshire, Wales
+born: 26th November 1894 Brecon, Breconshire, Wales
 died: November 1980, Southend, Essex, England
 image: card-0444-hoddinott.jpg
 source_page: 209

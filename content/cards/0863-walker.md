@@ -9,7 +9,7 @@ name_note:
 team: accrington-stanley
 position: Centre Half/Centre Forward
 height: 5'11"
-born: 29th May 1892, Newbattle, Midlothian, Scotland
+born: 29th May 1891, Newbattle, Midlothian, Scotland
 died: 27th May 1964, Los Angeles, California, USA
 image: card-0863-walker.jpg
 source_page: 13

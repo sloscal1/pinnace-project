@@ -9,8 +9,8 @@ name_note:
 team: dundee
 position: Right Back
 height: 
-born: 17th December 1894 Buckhaven, Scotland
-died: 1969
+born: 7th December 1894, Buckhaven, Fife, Scotland
+died: 8th may 1969, Dundee, Scotland
 image: card-0393-raitt.jpg
 source_page: 296
 see_page: 
