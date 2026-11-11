@@ -2,6 +2,7 @@
 title: About this Website
 order: 2
 team: 
+group: about
 related: 
 pages: 2
 images: 

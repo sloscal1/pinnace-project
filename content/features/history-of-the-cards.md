@@ -2,6 +2,7 @@
 title: History of the cards
 order: 4
 team: 
+group: about
 related: huddersfield-town
 pages: 4
 images: aston-villa-history.jpg, huddersfield-history.jpg
