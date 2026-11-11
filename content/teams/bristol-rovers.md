@@ -2,7 +2,7 @@
 title: Bristol Rovers
 order: 140
 pages: 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151
-images: bristol-rovers-p140-0.jpg, bristol-rovers-p144-0.jpg, bristol-rovers-p144-1.jpg
+images: bristol-rovers-team-card.jpg, bristol-rovers-p144-0.jpg, bristol-rovers-p144-1.jpg
 colours:
 ---
 

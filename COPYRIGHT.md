@@ -33,6 +33,11 @@ Raith Rovers Football Club. That material remains the copyright of its authors a
 The cards were issued in the early 1920s by Godfrey Phillips Ltd with Pinnace cigarettes. The
 images on this site are scans of those cards and of team photographs, reproduced for reference.
 
+The team cards shown at the top of most team pages come from the Team Cards page of the Pinnace
+Card Collection site (Roger Pashby, https://pinnacecards.wordpress.com/team-cards/). These rare
+premium cards were scanned or photographed by collectors, among them Mark Hughesdon, Chris Lee,
+Alan Jenkins, Steve Marsh and Matt Stevens, and are reproduced with thanks.
+
 ## Corrections
 
 If you hold rights in material on this site and would like it credited differently or removed,
