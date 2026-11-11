@@ -1,6 +1,6 @@
 # Copyright and sources
 
-## Pinnace Collection Biographies
+## The Pinnace Collection Biographies
 
 © Michael Postles. All rights reserved.
 

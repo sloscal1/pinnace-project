@@ -133,7 +133,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}{f'<base href="{base}">' if base else ""}
-<title>{esc(title)} · Pinnace Collection Biographies</title>
+<title>{esc(title)} · The Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
 <link rel="icon" href="{up}favicon.ico" sizes="48x48">
 <link rel="icon" href="{up}favicon.svg?v={VERSION}" type="image/svg+xml">
@@ -143,7 +143,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 </head>
 <body{club_style(club)}>
 <header class="site">
-  <a class="brand" href="{up}index.html">Pinnace Collection <span>Biographies</span></a>
+  <a class="brand" href="{up}index.html">The Pinnace Collection <span>Biographies</span></a>
   <nav>{links}</nav>
   <div class="site-search" role="search" data-up="{up}">
     <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
@@ -356,7 +356,7 @@ def index_page(teams, cards_by_team):
                  if cs else "Biographies coming soon")
         items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
 <span class="team-count">{count}</span></a></li>""")
-    body = f"""<h1>Pinnace Collection Biographies</h1>
+    body = f"""<h1 class="site-hero"><img src="img/pinnace-artwork.jpg" width="1600" height="848" alt="The Pinnace Collection: The Biographies. A 1920s footballer in leather boots strikes a golden ball."></h1>
 <p class="lede">Biographies of the players on the Pinnace football cards, arranged by club.
 Tick the cards you own and your checklist is kept on this device.
 New here? Start with <a href="features.html#about">About the collection</a>, or browse all <a href="features.html">features</a>.</p>
