@@ -1,7 +1,7 @@
 ---
 title: The Footballers Battalion
 order: 126
-team: brighton-hove
+team: 
 related: fulham, clapton-orient, cardiff-city, northampton-town, tottenham-hotspur, millwall
 pages: 126
 images: 

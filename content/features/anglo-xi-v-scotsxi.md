@@ -1,7 +1,7 @@
 ---
 title: Home Scots v Anglo-Scots
 order: 161
-team: burnley
+team: 
 related: preston-north-end, sunderland, hearts
 pages: 161
 images: 

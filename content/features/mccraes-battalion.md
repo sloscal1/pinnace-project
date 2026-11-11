@@ -1,7 +1,7 @@
 ---
 title: McCrae's Battalion
 order: 127
-team: brighton-hove
+team: 
 related: hearts, hibernian, raith-rovers, falkirk, dunfermline
 pages: 127
 images: George_McCrae.jpg

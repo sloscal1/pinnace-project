@@ -1,7 +1,7 @@
 ---
 title: The Wembley Wizards
 order: 155
-team: burnley
+team: 
 related: wrexham, glasgow-rangers, glasgow-celtic, falkirk, partick-thistle, st-mirren, blackburn-rovers, cardiff-city, middlesbrough, leicester-city, manchester-city, leeds-united, preston-north-end, everton, huddersfield-town, morton, chelsea
 pages: 155, 156
 images: wembley-wizards-p156-0.jpg, wembley-wizards-p156-1.jpg
