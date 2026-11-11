@@ -4,7 +4,7 @@ order: 4
 team: 
 related: huddersfield-town
 pages: 4
-images: history-of-the-cards-p4-0.jpg, history-of-the-cards-p4-1.jpg
+images: aston-villa-history.jpg, huddersfield-history.jpg
 ---
 
 History of the cards | Pinnace Cards
@@ -17,4 +17,4 @@ History of the cards | Pinnace Cards
 - The winning goal scored in the 100th minute, by Billy Kirton
 - Trophy presented by Prince Henry 4th son of King George V
 
-Images forming the first eight cards are probably lifted from these two team groups, or are represented in These two groups
+Images forming the first eight cards are probably lifted from these two team groups, or are represented in these two groups
