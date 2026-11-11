@@ -1,4 +1,4 @@
-# Pinnace Collection Biographies
+# The Pinnace Collection Biographies
 
 A static website of the Pinnace football card biographies, built from Markdown files in `content/`.
 

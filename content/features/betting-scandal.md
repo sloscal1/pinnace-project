@@ -1,7 +1,7 @@
 ---
 title: The Great Betting Scandal 1915
 order: 203
-team: charlton
+team: 
 related: manchester-utd, liverpool, chelsea, arsenal
 pages: 203
 images: 

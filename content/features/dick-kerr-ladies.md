@@ -1,7 +1,7 @@
 ---
 title: Dick, Kerr Ladies F.C.
 order: 201
-team: charlton
+team: 
 related: liverpool, preston-north-end
 pages: 201, 202
 images: dick-kerr-ladies-p202-0.jpg

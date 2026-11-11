@@ -1,7 +1,7 @@
 ---
 title: Early North American Soccer League
 order: 114
-team: bradford-city
+team: 
 related: 
 pages: 114
 images: 

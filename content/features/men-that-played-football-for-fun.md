@@ -2,6 +2,7 @@
 title: Men that played Football for fun
 order: 1
 team: 
+group: about
 related: 
 pages: 1
 images: 

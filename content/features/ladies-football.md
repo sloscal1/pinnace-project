@@ -1,7 +1,7 @@
 ---
 title: Ladies Football
 order: 200
-team: charlton
+team: 
 related: liverpool, barrow, kilmarnock
 pages: 200
 images: 

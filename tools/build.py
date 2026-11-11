@@ -133,7 +133,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">{f'<meta name="robots" content="{robots}">' if robots else ""}{f'<base href="{base}">' if base else ""}
-<title>{esc(title)} · Pinnace Collection Biographies</title>
+<title>{esc(title)} · The Pinnace Collection Biographies</title>
 <link rel="stylesheet" href="{up}style.css?v={VERSION}">
 <link rel="icon" href="{up}favicon.ico" sizes="48x48">
 <link rel="icon" href="{up}favicon.svg?v={VERSION}" type="image/svg+xml">
@@ -143,7 +143,7 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 </head>
 <body{club_style(club)}>
 <header class="site">
-  <a class="brand" href="{up}index.html">Pinnace Collection <span>Biographies</span></a>
+  <a class="brand" href="{up}index.html">The Pinnace Collection <span>Biographies</span></a>
   <nav>{links}</nav>
   <div class="site-search" role="search" data-up="{up}">
     <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
@@ -356,7 +356,7 @@ def index_page(teams, cards_by_team):
                  if cs else "Biographies coming soon")
         items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
 <span class="team-count">{count}</span></a></li>""")
-    body = f"""<h1>Pinnace Collection Biographies</h1>
+    body = f"""<h1 class="site-hero"><img src="img/pinnace-artwork.jpg" width="1600" height="848" alt="The Pinnace Collection: The Biographies. A 1920s footballer in leather boots strikes a golden ball."></h1>
 <p class="lede">Biographies of the players on the Pinnace football cards, arranged by club.
 Tick the cards you own and your checklist is kept on this device.
 New here? Start with <a href="features.html#about">About the collection</a>, or browse all <a href="features.html">features</a>.</p>
@@ -365,8 +365,14 @@ New here? Start with <a href="features.html#about">About the collection</a>, or 
     return page("Teams", body, active="teams")
 
 
+def is_about(f):
+    """Introductory articles about the collection itself: no team, and `group: about`."""
+    return not f.get("team") and (f.get("group") or "").strip().lower() == "about"
+
+
 def features_index(features, teams_by_id):
-    about = [f for f in features if not f.get("team")]
+    about = [f for f in features if is_about(f)]
+    stories = [f for f in features if not f.get("team") and not is_about(f)]
     by_team = {}
     for f in features:
         if f.get("team"):
@@ -376,9 +382,11 @@ def features_index(features, teams_by_id):
         f'<ul class="features">{"".join(feature_item(f, "") for f in fs)}</ul></section>'
         for tid, fs in sorted(by_team.items(), key=lambda kv: teams_by_id[kv[0]]["title"].lower()))
     body = f"""<h1>Features</h1>
-<p class="lede">Articles from the collection. Each one also appears at the top of the team section it belongs with.</p>
+<p class="lede">Articles from the collection. Those about a particular club also appear at the top of that team's page.</p>
 <section id="about" class="feature-group"><h2>About the collection</h2>
 <ul class="features">{''.join(feature_item(f, "") for f in about)}</ul></section>
+{f'''<section id="stories" class="feature-group"><h2>Stories from the game</h2>
+<ul class="features">{"".join(feature_item(f, "") for f in stories)}</ul></section>''' if stories else ""}
 {groups}"""
     return page("Features", body, active="features")
 
@@ -573,7 +581,8 @@ def feature_page(f, teams_by_id):
     figs = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>' for im in f["images"])
     team = teams_by_id.get(f.get("team"))
     crumb = (f' › <a href="{up}teams/{team["id"]}.html">{esc(team["title"])}</a>' if team
-             else f' › <a href="{up}features.html#about">About the collection</a>')
+             else f' › <a href="{up}features.html#about">About the collection</a>' if is_about(f)
+             else f' › <a href="{up}features.html#stories">Stories from the game</a>')
     fn = Notes()
     body_text, defs = content.split_footnotes(f["body"])
     check_sources(f"content/features/{f['id']}.md", [body_text], defs)

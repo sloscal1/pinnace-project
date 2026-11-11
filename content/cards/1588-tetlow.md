@@ -22,7 +22,7 @@ see_page:
 |---|---|---|---|---|
 | 1917-1918 | Birch Villa, Dunkinfield, New Moss Colliery |  |  |  |
 | 1921-1923 | Stalybridge C | 33 | 15 |  |
-| 1923-1924 | Nottingham F | 0 | 0 | Ashton Bros |
+| 1923-1924 | Nottingham Forest, Ashton Bros | 0 | 0 |  |
 | 1924-1925 | Walsall | 18 | 7 |  |
 | 1925-1926 | Chadderton, Ashton Moss Colliery |  |  |  |
 

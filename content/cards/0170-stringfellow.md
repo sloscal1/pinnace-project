@@ -9,8 +9,8 @@ name_note:
 team: hearts
 position: Inside Forward
 height: 
-born: 15th December 1888, Sutton in Ashfield, Nottinghamshire, England
-died: 1966 Lincoln, Lincolnshire, England
+born: March 1888, Sutton in Ashfield, Nottinghamshire, England
+died: 1966, Lincoln, Lincolnshire, England
 image: card-0170-stringfellow.jpg
 source_page: 358
 see_page: 

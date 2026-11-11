@@ -7,8 +7,9 @@ Layout:
                                The first of `images` is shown as the team photograph unless
                                `team_photo: no`.
     content/features/<id>.md   feature article: front matter + Markdown body. `team` is the team
-                               section it belongs with (empty for "About the collection");
-                               `related` lists other teams it mentions.
+                               section it belongs with. A feature with no team is listed under
+                               "Stories from the game", or under "About the collection" when
+                               it has `group: about`. `related` lists other teams it mentions.
     content/cards/<id>.md      one card/biography: front matter + Career/Biography/... sections.
                                Sources are Markdown footnotes: `[^1]` in the text and `[^1]: ...`
                                lines under `## Sources` (in features, at the end of the body).
@@ -223,7 +224,7 @@ def load_card(path):
 # ---------------------------------------------------------------- teams and features
 
 SECTION_KEYS = ["title", "order", "pages", "images", "team_photo", "colours"]
-FEATURE_KEYS = ["title", "order", "team", "related", "pages", "images"]
+FEATURE_KEYS = ["title", "order", "team", "group", "related", "pages", "images"]
 
 
 def section_to_md(s):

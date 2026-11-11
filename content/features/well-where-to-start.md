@@ -2,6 +2,7 @@
 title: Well where to start?
 order: 3
 team: 
+group: about
 related: aston-villa, huddersfield-town
 pages: 3
 images: well-where-to-start-p3-0.jpg
