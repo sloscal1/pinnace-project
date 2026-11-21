@@ -25,6 +25,9 @@ esc = html.escape
 STYLES = {"classic": "", "programme": "programme", "album": "album", "club": "club",
           "matchday": "programme album club"}
 SETTINGS = {"style": "classic", "style_picker": "yes", "theme": "system"}
+# The looks visitors can choose in the style picker. Classic is left out; it can still be the
+# site's default style in content/site.md.
+PICKER_STYLES = [k for k in STYLES if k != "classic"]
 
 # Appended to asset URLs so browsers fetch the new file after each change instead of a cached copy.
 VERSION = ""
@@ -48,7 +51,8 @@ def club_style(sec):
 def head_script():
     """Applies the saved theme and style before the page draws, so it doesn't flash."""
     picker = SETTINGS.get("style_picker") == "yes"
-    return ("<script>(function () { var d = document.documentElement, S = " + json.dumps(STYLES) + ";\n"
+    return ("<script>(function () { var d = document.documentElement, S = " + json.dumps(STYLES) + ",\n"
+            "  P = " + json.dumps(PICKER_STYLES) + ";\n"
             "window.pinnaceStyle = function (name) {\n"
             "  if (!(name in S)) name = " + json.dumps(SETTINGS["style"]) + ";\n"
             "  d.dataset.preset = name; d.dataset.style = S[name];\n"
@@ -61,7 +65,8 @@ def head_script():
             "var s = null; try {\n"
             "  var t = localStorage.getItem('pinnace-theme'); if (t) d.dataset.theme = t;\n"
             + ("  s = new URLSearchParams(location.search).get('style');\n"
-               "  if (s in S) localStorage.setItem('pinnace-style', s); else s = localStorage.getItem('pinnace-style');\n"
+               "  if (P.indexOf(s) >= 0) localStorage.setItem('pinnace-style', s); else s = localStorage.getItem('pinnace-style');\n"
+               "  if (P.indexOf(s) < 0) s = null;\n"
                if picker else "") +
             "} catch (e) {}\n"
             "pinnaceStyle(s); })();</script>")
@@ -70,7 +75,7 @@ def head_script():
 def style_picker():
     if SETTINGS.get("style_picker") != "yes":
         return ""
-    opts = "".join(f'<option value="{k}">{k.capitalize()}</option>' for k in STYLES)
+    opts = "".join(f'<option value="{k}">{k.capitalize()}</option>' for k in PICKER_STYLES)
     return f'<label class="style-picker no-print">Style <select id="style-picker">{opts}</select></label>'
 
 
@@ -144,13 +149,15 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 <body{club_style(club)}>
 <header class="site">
   <a class="brand" href="{up}index.html">The Pinnace Collection <span>Biographies</span></a>
-  <nav>{links}</nav>
-  <div class="site-search" role="search" data-up="{up}">
-    <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
-      autocomplete="off" aria-controls="site-search-results" aria-expanded="false">
-    <ul id="site-search-results" role="listbox" hidden></ul>
+  <div class="site-tools">
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
+    <nav>{links}</nav>
+    <div class="site-search" role="search" data-up="{up}">
+      <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
+        autocomplete="off" aria-controls="site-search-results" aria-expanded="false">
+      <ul id="site-search-results" role="listbox" hidden></ul>
+    </div>
   </div>
-  <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
 </header>
 <main>
 {body}
@@ -295,25 +302,27 @@ def feature_item(f, up, teams_by_id=None, show_team=False):
             f'<span class="feature-blurb">{esc(blurb(f["body"]))}</span></a></li>')
 
 
-# Shown on the home page for teams without a team photograph (cropped from pinnace_logo.jpg).
-LOGO_THUMB = "pinnace-logo-thumb.jpg"
+def team_photo_slot(sec):
+    """The first image is the team photograph unless the section says it has none (`team_photo: no`),
+    e.g. a page of card scans of players the compiler could not trace."""
+    return bool(sec["images"]) and sec.get("team_photo", "").lower() != "no"
 
 
 def team_photo(sec):
-    """The team photograph: the first image, unless the section says it has none (`team_photo: no`),
-    e.g. a page of card scans of players the compiler could not trace."""
-    if sec["images"] and sec.get("team_photo", "").lower() != "no":
+    """The team photograph shown at the top of a team page: only a Pinnace team card
+    (img/<team>-team-card.jpg). Teams whose photo is the compiler's sketched copy show none."""
+    if team_photo_slot(sec) and sec["images"][0].endswith("-team-card.jpg"):
         return sec["images"][0]
     return None
 
 
 def team_page(sec, cards, transfers_in, sections_by_id, features, mentioned_in):
     up = "../"
-    has_photo = team_photo(sec) is not None
-    hero = (f'<img class="hero" src="{up}img/{sec["images"][0]}" alt="{esc(sec["title"])} team photograph">'
-            if has_photo else "")
+    photo = team_photo(sec)
+    hero = (f'<img class="hero" src="{up}img/{photo}" alt="{esc(sec["title"])} team card">'
+            if photo else "")
     gallery = "".join(f'<figure><img src="{up}img/{im}" alt="" loading="lazy"></figure>'
-                      for im in sec["images"][1 if has_photo else 0:])
+                      for im in sec["images"][1 if team_photo_slot(sec) else 0:])
     notes = render_md(sec["body"])
     extra = f'<section class="feature">{gallery}<div>{notes}</div></section>' if gallery or notes else ""
     feats = ""
@@ -349,12 +358,9 @@ def index_page(teams, cards_by_team):
     items = []
     for s in sorted(teams, key=lambda t: t["title"].lower()):
         cs = cards_by_team.get(s["id"], [])
-        photo = team_photo(s)
-        thumb = (f'<img src="img/{photo}" alt="" loading="lazy">' if photo
-                 else f'<img class="logo" src="img/{LOGO_THUMB}" alt="" loading="lazy">')
         count = (f'<span data-count-have="{" ".join(str(c["uid"]) for c in cs)}">0</span> / {len(cs)} cards'
                  if cs else "Biographies coming soon")
-        items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html">{thumb}<span class="team-name">{esc(s['title'])}</span>
+        items.append(f"""<li{' class="pending"' if not cs else ''}{club_style(s)}><a href="teams/{s['id']}.html"><span class="team-name">{esc(s['title'])}</span>
 <span class="team-count">{count}</span></a></li>""")
     body = f"""<h1 class="site-hero"><img src="img/pinnace-artwork.jpg" width="1600" height="848" alt="The Pinnace Collection: The Biographies. A 1920s footballer in leather boots strikes a golden ball."></h1>
 <p class="lede">Biographies of the players on the Pinnace football cards, arranged by club.

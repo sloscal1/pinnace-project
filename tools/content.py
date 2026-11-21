@@ -4,8 +4,9 @@ Layout:
     content/site.md            site-wide settings (default style, style picker on/off)
     content/teams/<id>.md      team section: front matter + optional notes. `colours` is the club's
                                shirt colours as "#primary, #secondary" (blank = sepia).
-                               The first of `images` is shown as the team photograph unless
-                               `team_photo: no`.
+                               The first of `images` is the team photograph unless
+                               `team_photo: no`; it is shown at the top of the team page only
+                               when it is a Pinnace team card (`<team>-team-card.jpg`).
     content/features/<id>.md   feature article: front matter + Markdown body. `team` is the team
                                section it belongs with. A feature with no team is listed under
                                "Stories from the game", or under "About the collection" when
