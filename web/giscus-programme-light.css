@@ -8,7 +8,7 @@ main {
   --color-canvas-inset: #efe5cc; --color-canvas-subtle: #efe5cc;
   --color-fg-default: #1e1a14; --color-fg-muted: #5d5243; --color-fg-subtle: #5d5243;
   --color-border-default: #1e1a14; --color-border-muted: #1e1a14;
-  --color-accent-fg: #9b1c1c; --color-accent-emphasis: #9b1c1c;
+  --color-accent-fg: #8a5c1a; --color-accent-emphasis: #8a5c1a;
   --color-btn-text: #1e1a14; --color-btn-bg: #efe5cc; --color-btn-border: #1e1a14; --color-btn-hover-bg: #f7efd9;
   --color-btn-primary-text: #efe5cc; --color-btn-primary-bg: #1e1a14; --color-btn-primary-border: #1e1a14;
   --color-btn-primary-hover-bg: #3a3226; --color-btn-primary-disabled-text: #efe5cc; --color-btn-primary-disabled-bg: #1e1a14;
