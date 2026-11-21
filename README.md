@@ -232,3 +232,8 @@ Checklists are stored in each visitor's browser. There are no accounts and no se
 - **History:** the last 10 versions are kept. A snapshot is taken before the first change in each
   visit, before loading a backup or shared list, before a restore, and on each share.
 - **Backup:** save the list to, or load it from, a JSON file.
+- **GitHub copy (optional):** a visitor with a GitHub account can paste a token that has only the
+  `gist` scope. The browser then keeps a copy in a secret gist of theirs (`pinnace-checklist.json`)
+  and syncs it with GitHub's API directly. The site still needs no server of its own. The browser's
+  copy stays the main one. Each sync merges the two copies against the list they last agreed on, so
+  changes made on different devices are combined rather than overwritten.
