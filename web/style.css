@@ -59,11 +59,9 @@ footer.site { text-align: center; font: 13px var(--sans); color: var(--muted); p
 
 /* team index */
 .teams { list-style: none; padding: 0; display: grid; gap: 1rem;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
 .teams a { display: block; background: var(--card); border: 1px solid var(--rule); border-radius: 6px;
   overflow: hidden; text-decoration: none; color: var(--ink); }
-.teams img { width: 100%; aspect-ratio: 3/2; object-fit: cover; filter: sepia(.3); }
-.teams img.logo { filter: none; }
 .team-name { display: block; font-size: 1.25rem; padding: .6rem .8rem 0; }
 .team-count { display: block; font: 14px var(--sans); color: var(--muted); padding: 0 .8rem .7rem; }
 
