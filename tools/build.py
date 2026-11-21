@@ -149,13 +149,15 @@ def page(title, body, depth=0, active="", club=None, robots="", key=None, base="
 <body{club_style(club)}>
 <header class="site">
   <a class="brand" href="{up}index.html">The Pinnace Collection <span>Biographies</span></a>
-  <nav>{links}</nav>
-  <div class="site-search" role="search" data-up="{up}">
-    <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
-      autocomplete="off" aria-controls="site-search-results" aria-expanded="false">
-    <ul id="site-search-results" role="listbox" hidden></ul>
+  <div class="site-tools">
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
+    <nav>{links}</nav>
+    <div class="site-search" role="search" data-up="{up}">
+      <input type="search" id="site-search" placeholder="Search teams, features, players" aria-label="Search teams, features and players"
+        autocomplete="off" aria-controls="site-search-results" aria-expanded="false">
+      <ul id="site-search-results" role="listbox" hidden></ul>
+    </div>
   </div>
-  <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
 </header>
 <main>
 {body}
