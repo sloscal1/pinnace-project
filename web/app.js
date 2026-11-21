@@ -128,6 +128,7 @@
     snapshotOncePerVisit();
     if (ev.target.checked) state[id] = true; else delete state[id];
     write(KEY, state);
+    sync.soon();
     refresh();
     if (window.CARDS && document.getElementById("show").value !== "all") renderChecklist();
   });
@@ -356,6 +357,178 @@
     });
   })();
 
+  // ---------------------------------------------------------------- GitHub sync (optional)
+
+  // localStorage stays the real checklist. A reader who pastes a GitHub token (gist scope only) also
+  // gets a copy in a secret gist of their own, so the list follows them to other devices. GitHub's API
+  // accepts calls straight from the browser, so no server of ours is involved.
+  // Both sides are merged against the list they last agreed on ("base"): a card ticked on one device
+  // and a different card unticked on another both survive. Unsynced ticks are caught up on the next visit.
+  var sync = (function () {
+    var SYNC_KEY = KEY + ":github", FILE = "pinnace-checklist.json", API = "https://api.github.com";
+    var STALE_MS = 60 * 1000;
+    var cfg = read(SYNC_KEY, null); // { token, login, gist, base: [uids], at, error }
+    var timer = null, running = null, again = false;
+
+    function uids(s) { return ids(s).map(Number).sort(function (a, b) { return a - b; }); }
+    function asState(list) { var s = {}; (list || []).forEach(function (u) { s[u] = true; }); return s; }
+
+    function api(method, path, body) {
+      var headers = { Accept: "application/vnd.github+json", Authorization: "Bearer " + cfg.token };
+      if (body) headers["Content-Type"] = "application/json";
+      return fetch(API + path, { method: method, headers: headers, cache: "no-store",
+                                 body: body ? JSON.stringify(body) : undefined })
+        .then(function (r) {
+          if (!r.ok) { var e = new Error("GitHub answered " + r.status); e.status = r.status; throw e; }
+          return r.json();
+        });
+    }
+
+    function toFile(s) {
+      return JSON.stringify({ about: "Pinnace card checklist from " + location.host + ". Card uids you have.",
+                              version: 1, updated: new Date().toISOString(), cards: uids(s) }, null, 1);
+    }
+    function files(s) { var f = {}; f[FILE] = { content: toFile(s) }; return f; }
+
+    // The reader's gist holding FILE, or a new secret one.
+    function findGist(page) {
+      return api("GET", "/gists?per_page=100&page=" + page).then(function (list) {
+        var g = list.filter(function (g) { return g.files && g.files[FILE]; })[0];
+        if (g) return g.id;
+        if (list.length === 100 && page < 10) return findGist(page + 1);
+        return api("POST", "/gists", { description: "My Pinnace card checklist", public: false, files: files(state) })
+          .then(function (g) { return g.id; });
+      });
+    }
+
+    function remote() {
+      return api("GET", "/gists/" + cfg.gist).then(function (g) {
+        var f = g.files[FILE];
+        if (!f) return "{}";
+        return f.truncated ? fetch(f.raw_url).then(function (r) { return r.text(); }) : f.content;
+      }).then(function (text) { return migrate(asState(JSON.parse(text || "{}").cards)); });
+    }
+
+    // Keep a card if both sides have it, or if it is new on either side since the last sync.
+    function merge(local, other, base) {
+      var out = {};
+      Object.keys(local).concat(Object.keys(other)).forEach(function (k) {
+        var l = !!local[k], r = !!other[k];
+        if ((l && r) || (!base[k] && (l || r))) out[k] = true;
+      });
+      return out;
+    }
+
+    function redraw() {
+      if (window.CARDS) { renderHistory(); renderChecklist(); } else refresh();
+    }
+
+    function run() {
+      if (!cfg || !cfg.gist) return Promise.resolve();
+      if (running) { again = true; return running; }
+      clearTimeout(timer);
+      render("Syncing…");
+      running = remote().then(function (theirs) {
+        state = migrate(read(KEY, {})); // another tab may have changed it
+        var next = merge(state, theirs, asState(cfg.base));
+        if (!same(next, state)) { replaceState(next, "Before changes synced from GitHub"); redraw(); }
+        return (same(next, theirs) ? Promise.resolve() : api("PATCH", "/gists/" + cfg.gist, { files: files(next) }))
+          .then(function () { cfg.base = uids(next); cfg.at = new Date().toISOString(); cfg.error = ""; });
+      }).catch(function (e) {
+        console.error(e);
+        if (e.status === 404) {
+          // The gist was deleted on GitHub: start a new one from this browser's list.
+          cfg.gist = null; cfg.base = [];
+          return findGist(1).then(function (id) { cfg.gist = id; again = true; });
+        }
+        cfg.error = e.status === 401 ? "GitHub no longer accepts the token. Disconnect and connect again with a new one."
+          : "Could not sync with GitHub just now. Your checklist is safe in this browser and will sync later.";
+      }).catch(function (e) {
+        console.error(e);
+        cfg.error = "Could not sync with GitHub just now. Your checklist is safe in this browser and will sync later.";
+      }).then(function () {
+        if (cfg) write(SYNC_KEY, cfg);
+        running = null;
+        render();
+        if (again) { again = false; run(); }
+      });
+      return running;
+    }
+
+    function soon() { if (cfg && cfg.gist) { clearTimeout(timer); timer = setTimeout(run, 2000); } }
+
+    function stale() {
+      return !cfg.at || Date.now() - new Date(cfg.at) > STALE_MS || !same(asState(cfg.base), read(KEY, {}));
+    }
+    function maybe() { if (cfg && cfg.gist && stale()) run(); }
+
+    function connect(token) {
+      cfg = { token: token, base: [] };
+      render("Checking the token…");
+      return api("GET", "/user")
+        .then(function (u) { cfg.login = u.login; return findGist(1); })
+        .then(function (id) { cfg.gist = id; write(SYNC_KEY, cfg); return run(); })
+        .catch(function (e) {
+          console.error(e);
+          cfg = null;
+          render(e.status === 401 ? "GitHub did not accept that token. Check it was copied in full."
+            : "That token could not reach your gists. Make sure the gist box was ticked when you created it.", true);
+        });
+    }
+
+    function disconnect() {
+      clearTimeout(timer);
+      cfg = null;
+      try { localStorage.removeItem(SYNC_KEY); } catch (e) {}
+      render();
+    }
+
+    // The panel on the checklist page; other pages just sync quietly.
+    function render(message, isError) {
+      var box = $("sync");
+      if (!box) return;
+      var on = !!(cfg && cfg.gist);
+      $("sync-off").hidden = on;
+      $("sync-on").hidden = !on;
+      $("sync-summary").textContent = !on ? "Keep a copy on GitHub"
+        : cfg.error ? "GitHub copy: needs attention" : "GitHub copy: on";
+      if (on) {
+        $("sync-login").textContent = cfg.login || "you";
+        $("sync-gist").href = "https://gist.github.com/" + cfg.gist;
+      }
+      $("sync-status").textContent = message
+        || (on && cfg.error) || (on && cfg.at ? "Last synced " + new Date(cfg.at).toLocaleString() + "." : "");
+      $("sync-status").classList.toggle("is-error", message ? !!isError : !!(on && cfg.error));
+    }
+
+    (function () {
+      if (!$("sync")) return;
+      $("sync-connect").addEventListener("click", function () {
+        var t = $("sync-token").value.trim();
+        if (!t) { render("Paste a token first.", true); return; }
+        $("sync-token").value = "";
+        connect(t);
+      });
+      $("sync-now").addEventListener("click", function () { run(); });
+      $("sync-disconnect").addEventListener("click", disconnect);
+      render();
+    })();
+
+    // Check GitHub when a page opens or a tab comes back into view, at most once a minute
+    // unless this browser has changes GitHub hasn't seen yet.
+    document.addEventListener("visibilitychange", function () { if (document.visibilityState === "visible") maybe(); });
+    setTimeout(maybe);
+
+    return { soon: soon };
+  })();
+
+  // Another tab changed the checklist: pick that up so this tab doesn't write over it.
+  window.addEventListener("storage", function (ev) {
+    if (ev.key !== KEY) return;
+    state = migrate(read(KEY, {}));
+    if (window.CARDS) renderChecklist(); else refresh();
+  });
+
   if (window.CARDS) {
     ["order", "show"].forEach(function (id) {
       var el = $(id);
@@ -381,18 +554,19 @@
       var f = ev.target.files[0];
       if (!f) return;
       f.text().then(function (t) {
-        try { replaceState(migrate(JSON.parse(t) || {}), "Before loading a backup"); renderHistory(); renderChecklist(); }
+        try { replaceState(migrate(JSON.parse(t) || {}), "Before loading a backup"); sync.soon(); renderHistory(); renderChecklist(); }
         catch (e) { console.error(e); }
       });
     });
     $("adopt").addEventListener("click", function () {
       replaceState(Object.assign({}, viewing.state), "Before copying a shared list");
+      sync.soon();
       location.hash = "";
     });
     $("leave").addEventListener("click", function () { location.hash = ""; });
     $("history-list").addEventListener("click", function (ev) {
       var h = history(), r = ev.target.dataset.restore, sh = ev.target.dataset.shareSnap;
-      if (r !== undefined) { replaceState(Object.assign({}, h[+r].state), "Before restoring an earlier version"); renderHistory(); renderChecklist(); }
+      if (r !== undefined) { replaceState(Object.assign({}, h[+r].state), "Before restoring an earlier version"); sync.soon(); renderHistory(); renderChecklist(); }
       if (sh !== undefined) copy(shareUrl(h[+sh].state, $("share-name").value.trim()), ev.target);
     });
     window.addEventListener("hashchange", loadFromHash);

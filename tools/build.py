@@ -822,6 +822,29 @@ def checklist_page(cards, sections_by_id):
   <p>The last 10 versions of your checklist are kept in this browser. A share link is a snapshot: it does not change when you tick more cards.</p>
   <ul id="history-list"></ul>
 </details>
+<details class="history sync no-print mine-only" id="sync"><summary id="sync-summary">Keep a copy on GitHub</summary>
+  <div id="sync-off">
+    <p>Your checklist is kept in this browser. If you have a GitHub account, it can also keep a copy in a secret
+      gist of your own, so the same list appears on your other devices and browsers.</p>
+    <ol>
+      <li><a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=Pinnace%20checklist" target="_blank" rel="noopener">Create a token on GitHub</a>
+        with only the <strong>gist</strong> box ticked.</li>
+      <li>Paste it here: <input id="sync-token" type="password" autocomplete="off" spellcheck="false" size="22">
+        <button type="button" id="sync-connect">Connect</button></li>
+      <li>Do the same on each device you use. You can use the same token or make another one.</li>
+    </ol>
+    <p>The token stays in this browser and is only sent to GitHub. A secret gist isn't listed anywhere,
+      but anyone who has its address can see which cards you have.</p>
+  </div>
+  <div id="sync-on" hidden>
+    <p>Copying to <a id="sync-gist" target="_blank" rel="noopener">a gist</a> belonging to <strong id="sync-login"></strong>.
+      Changes sync a moment after you make them.</p>
+    <button type="button" id="sync-now">Sync now</button>
+    <button type="button" id="sync-disconnect">Disconnect</button>
+    <p>Disconnecting removes the token from this browser. The gist stays on GitHub until you delete it there.</p>
+  </div>
+  <p id="sync-status" role="status"></p>
+</details>
 <p class="count"><span id="have-count">0</span> of {len(cards)} cards collected</p>
 <div id="checklist"></div>
 <script>window.CARDS = {json.dumps(data, ensure_ascii=False)};</script>"""

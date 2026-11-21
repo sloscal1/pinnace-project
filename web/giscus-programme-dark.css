@@ -8,7 +8,7 @@ main {
   --color-canvas-inset: #1c1914; --color-canvas-subtle: #1c1914;
   --color-fg-default: #eadfc6; --color-fg-muted: #a89c84; --color-fg-subtle: #a89c84;
   --color-border-default: #4a4232; --color-border-muted: #4a4232;
-  --color-accent-fg: #e08a7a; --color-accent-emphasis: #e08a7a;
+  --color-accent-fg: #d4a24c; --color-accent-emphasis: #d4a24c;
   --color-btn-text: #eadfc6; --color-btn-bg: #1c1914; --color-btn-border: #4a4232; --color-btn-hover-bg: #26221b;
   --color-btn-primary-text: #eadfc6; --color-btn-primary-bg: #0f0d0a; --color-btn-primary-border: #4a4232;
   --color-btn-primary-hover-bg: #2a241a; --color-btn-primary-disabled-text: #eadfc6; --color-btn-primary-disabled-bg: #0f0d0a;
